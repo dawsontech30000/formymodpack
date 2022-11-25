@@ -35,4 +35,6 @@ mods.inworldcrafting.FluidToItem.transform(<minecraft:concrete:15>, <liquid:wate
 
 
 
+mods.inworldcrafting.FluidToItem.transform(<fluxnetworks:flux>, <liquid:hot_spring_water>, [<minecraft:redstone>], false);
+
 
