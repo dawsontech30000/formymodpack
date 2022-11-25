@@ -2,15 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 // <minecraft:concrete>
 mods.inworldcrafting.FluidToItem.transform(<minecraft:concrete:1>, <liquid:water>, [<minecraft:concrete_powder>], false);
 
