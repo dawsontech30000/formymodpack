@@ -38,3 +38,6 @@ mods.inworldcrafting.FluidToItem.transform(<minecraft:concrete:15>, <liquid:wate
 mods.inworldcrafting.FluidToItem.transform(<fluxnetworks:flux>, <liquid:hot_spring_water>, [<minecraft:redstone>], false);
 
 
+mods.immersiveengineering.Refinery.addRecipe(<liquid:hot_spring_water>, <liquid:water>, <liquid:lava>, 2048);
+
+mods.immersiveengineering.DieselHandler.addDrillFuel(<liquid:hot_spring_water>);
