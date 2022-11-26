@@ -4,7 +4,7 @@
 import mods.contenttweaker.Color;
 import mods.contenttweaker.MaterialSystem;
 
-var color = Color.fromHex("fa0c1d") as Color;
+var color = Color.fromHex("ffbb00") as Color;
 
 var Codystar55 = MaterialSystem.getMaterialBuilder().setName("Codystar55").setColor(color).build();
 
