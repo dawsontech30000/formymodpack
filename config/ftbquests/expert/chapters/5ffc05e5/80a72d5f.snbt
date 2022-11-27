@@ -1,0 +1,13 @@
+{
+	x: -1.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "914e4d98",
+		type: "item",
+		items: [{
+			item: "ironchest:silver_gold_chest_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
