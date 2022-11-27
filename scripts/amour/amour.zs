@@ -847,12 +847,11 @@ mods.armorplus.Workbench.remove(<armorplus:coal_boots>);
 mods.armorplus.Workbench.remove(<armorplus:coal_leggings>);
 
 
+
 mods.armorplus.Workbench.remove(<armorplus:redstone_helmet>);
 mods.armorplus.Workbench.remove(<armorplus:redstone_chestplate>);
 mods.armorplus.Workbench.remove(<armorplus:redstone_boots>);
 mods.armorplus.Workbench.remove(<armorplus:redstone_leggings>);
-
-
 
 
 
@@ -1010,3 +1009,15 @@ recipes.remove(<redstonerepository:tool.sword_gelid>.withTag({Energy: 0}));
 recipes.remove(<redstonerepository:tool.shovel_gelid>.withTag({Energy: 0}));
 recipes.remove(<redstonerepository:tool.pickaxe_gelid>.withTag({Energy: 0}));
 recipes.remove(<redstonerepository:tool.axe_gelid>.withTag({Energy: 0}));
+
+
+
+
+
+
+
+
+
+
+
+

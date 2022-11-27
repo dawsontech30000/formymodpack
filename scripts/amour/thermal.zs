@@ -706,3 +706,4 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<thermalfoundation:tool.hoe_
 	<thermalfoundation:tool.hoe_silver>, <thermalfoundation:tool.hoe_silver>, <thermalfoundation:tool.hoe_silver>,
 	<thermalfoundation:tool.hoe_silver>, <thermalfoundation:tool.hoe_silver>, <thermalfoundation:tool.hoe_silver>,
 	<thermalfoundation:tool.hoe_silver>, <thermalfoundation:tool.hoe_silver>]);
+
