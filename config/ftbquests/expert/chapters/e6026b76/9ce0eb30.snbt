@@ -1,14 +1,14 @@
 {
-	x: -1.0d,
+	x: -7.0d,
 	y: -0.5d,
 	dependencies: [
-		"c5a33afd"
+		"0e73c7cb"
 	],
 	tasks: [{
-		uid: "1bf10747",
+		uid: "d350e668",
 		type: "item",
 		items: [{
-			item: "minecraft:log"
+			item: "minecraft:iron_ore"
 		}],
 		count: 16L
 	}]

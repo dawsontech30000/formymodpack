@@ -1,7 +1,7 @@
 {
-	x: 0.0d,
-	y: 0.0d,
-	shape: "circle",
+	x: 0.5d,
+	y: -0.5d,
+	shape: "square",
 	tasks: [{
 		uid: "bfbb2cd4",
 		type: "checkmark",

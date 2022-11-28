@@ -1,0 +1,45 @@
+{
+	title: "Basic Stone pick",
+	x: -5.0d,
+	y: -0.5d,
+	text: [
+		"This will be your first tinkers tool, you need it before you can get iron ore"
+	],
+	dependencies: [
+		"c703bcba",
+		"219b98e1",
+		"44ad426e",
+		"0337b7ea",
+		"96b6a8b9"
+	],
+	tasks: [{
+		uid: "8e7b53f1",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "stone"
+			}
+		}]
+	},
+	{
+		uid: "d6d5336a",
+		type: "item",
+		items: [{
+			id: "tconstruct:tool_rod",
+			tag: {
+				Material: "stone"
+			}
+		}]
+	},
+	{
+		uid: "f3f562e2",
+		type: "item",
+		items: [{
+			id: "tconstruct:binding",
+			tag: {
+				Material: "stone"
+			}
+		}]
+	}]
+}
