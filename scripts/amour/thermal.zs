@@ -707,3 +707,11 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<thermalfoundation:tool.hoe_
 	<thermalfoundation:tool.hoe_silver>, <thermalfoundation:tool.hoe_silver>, <thermalfoundation:tool.hoe_silver>,
 	<thermalfoundation:tool.hoe_silver>, <thermalfoundation:tool.hoe_silver>]);
 
+
+
+mods.thermalexpansion.Factorizer.removeRecipeCombine(<extendedcrafting:material> * 9);
+mods.thermalexpansion.Factorizer.removeRecipeCombine(<extendedcrafting:material:1> * 9);
+mods.thermalexpansion.Factorizer.removeRecipeSplit(<extendedcrafting:material>);
+mods.thermalexpansion.Factorizer.removeRecipeSplit(<extendedcrafting:storage>);
+
+
