@@ -867,5 +867,15 @@
     "Spawn Type": "NONE",
     "Parent 1": "morechickens:magicalwoodchicken",
     "Parent 2": "morechickens:moonstonechicken"
+  },
+  "morechickens:osmiumchicken": {
+    "Name": "osmiumChicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "mekanism:ingot:1",
+    "Drop Item": "mekanism:ingot:1",
+    "Spawn Type": "NONE",
+    "Parent 1": "chickens:ironchicken",
+    "Parent 2": "chickens:quartzchicken"
   }
 }
