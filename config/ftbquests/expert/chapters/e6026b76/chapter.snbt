@@ -2,5 +2,5 @@
 	title: "Beginning of your pain and suffering",
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: "square"
+	default_quest_shape: ""
 }

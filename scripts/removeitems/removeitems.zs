@@ -12,6 +12,17 @@ recipes.remove(<dungeontactics:bomb_porting_cluster>);
 recipes.remove(<dungeontactics:bomb_cryo>);
 recipes.remove(<dungeontactics:bomb_cryo_cluster>);
 
+recipes.remove(<tp:nether_diamond_pickaxe>);
+recipes.remove(<tp:bsc_diamond_pickaxe>);
+
+
+
+
+
+
+
+
+
 
 mods.armorplus.Workbench.remove(<armorplus:chainmail_helmet>);
 mods.armorplus.Workbench.remove(<armorplus:chainmail_chestplate>);
