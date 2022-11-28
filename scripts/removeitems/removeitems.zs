@@ -16,6 +16,7 @@ recipes.remove(<tp:nether_diamond_pickaxe>);
 recipes.remove(<tp:bsc_diamond_pickaxe>);
 
 
+recipes.remove(<hatchery:prize_egg>);
 
 
 
