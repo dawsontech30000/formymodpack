@@ -1183,8 +1183,21 @@ recipes.remove(<redstonerepository:tool.axe_gelid>.withTag({Energy: 0}));
 
 
 
+mods.armorplus.Workbench.remove(<armorplus:chicken_helmet>);
+mods.armorplus.Workbench.remove(<armorplus:chicken_chestplate>);
+mods.armorplus.Workbench.remove(<armorplus:chicken_leggings>);
+mods.armorplus.Workbench.remove(<armorplus:chicken_boots>);
 
+mods.armorplus.Workbench.remove(<armorplus:coal_helmet>);
+mods.armorplus.Workbench.remove(<armorplus:coal_chestplate>);
+mods.armorplus.Workbench.remove(<armorplus:coal_boots>);
+mods.armorplus.Workbench.remove(<armorplus:coal_leggings>);
+mods.armorplus.Workbench.remove(<armorplus:coal_helmet>);
 
+mods.armorplus.Workbench.remove(<armorplus:redstone_helmet>);
+mods.armorplus.Workbench.remove(<armorplus:redstone_chestplate>);
+mods.armorplus.Workbench.remove(<armorplus:redstone_boots>);
+mods.armorplus.Workbench.remove(<armorplus:redstone_leggings>);
 
 
 
