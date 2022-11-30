@@ -19,6 +19,7 @@ recipes.removeShapeless(<minecraft:stonebrick>, [<ore:stonebrickPurple>]);
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
+recipes.removeShaped(<projecte:item.pe_time_watch>, [[<projecte:item.pe_matter>, <ore:blockGlowstone>, <projecte:item.pe_matter>], [<ore:obsidian>, <minecraft:clock>, <ore:obsidian>], [<projecte:item.pe_matter>, <ore:blockGlowstone>, <projecte:item.pe_matter>]]);
 
 // ================================================================================
 //#MARKER ADD
