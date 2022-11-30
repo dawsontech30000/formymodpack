@@ -17,8 +17,16 @@ recipes.remove(<tp:bsc_diamond_pickaxe>);
 
 
 recipes.remove(<hatchery:prize_egg>);
+recipes.remove(<projecte:item.pe_time_watch>.withTag({}));
+recipes.remove(<ebwizardry:charm_stop_time>);
 
-
+// Philosopher's Stone
+recipes.remove(<projecte:item.pe_philosophers_stone>);
+// Philosopher's Stone
+recipes.remove(<projecte:item.pe_philosophers_stone>);
+recipes.removeShapeless(<projecte:item.pe_philosophers_stone>, [<ore:dustGlowstone>, <minecraft:redstone>, <ore:dustGlowstone>, <minecraft:redstone>, <ore:gemDiamond>, <minecraft:redstone>, <ore:dustGlowstone>, <minecraft:redstone>, <minecraft:glowstone_dust>]);
+recipes.removeShapeless(<projecte:item.pe_philosophers_stone>, [<ore:alloyBasic>, <minecraft:glowstone_dust>, <ore:alloyBasic>, <minecraft:glowstone_dust>, <ore:gemDiamond>, <minecraft:glowstone_dust>, <ore:alloyBasic>, <minecraft:glowstone_dust>, <minecraft:redstone>]);
+recipes.removeShapeless(<projecte:item.pe_philosophers_stone>, [<ore:dustGlowstone>, <ore:alloyBasic>, <ore:dustGlowstone>, <ore:alloyBasic>, <ore:gemDiamond>, <ore:alloyBasic>, <ore:dustGlowstone>, <minecraft:redstone>, <minecraft:glowstone_dust>]);
 
 
 
