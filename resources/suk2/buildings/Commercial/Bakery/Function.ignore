@@ -1,0 +1,37 @@
+//Example Job Functionality File
+
+//Job Title for GUI display
+jobtitle=Baker
+
+//Do folks visit this location?
+visits=true
+
+//What are some status texts that may show up when a folk visits this location?
+//Separate sentences with a semicolon ;
+visittexts=Buying groceries;Browsing groceries;Killing time
+
+//What kind of location is this?
+loctype=shop
+
+//Do folks buy from this location? Use unlocalized names for this
+goods=item.bread;item.cake
+
+//The steps for the job
+//Up to 64 steps allowed for each job
+
+//goto.location sends the folk to the V3 of the location
+step0=goto.conbox
+
+//When specifying another building, the folk goes to the nearest one
+step1=goto.wheatfarm
+
+//Grabs unlocalized.item and puts it in their inventory
+step2=grab.item.wheat
+
+step3=goto.conbox
+
+//make.quantity.unlocalized.name creates this item and puts it in the folk's inventory. Yes this may seem cheaty, but if you wanted to cheat, you could easily just use NEI...
+step4=make.1.item.bread
+
+//
+step5=

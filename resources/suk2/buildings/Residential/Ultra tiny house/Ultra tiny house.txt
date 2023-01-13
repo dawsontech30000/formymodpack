@@ -1,0 +1,6 @@
+3x2x4
+A=minecraft:air,0;C=minecraft:planks,0;D=minecraft:glass,0;AU=Satscape;
+$CCCCC
+C!CCCC
+CACCDC
+CCCCCC

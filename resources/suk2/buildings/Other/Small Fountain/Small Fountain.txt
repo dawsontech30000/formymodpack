@@ -1,0 +1,6 @@
+5x5x4
+A=minecraft:air,0;C=minecraft:double_stone_slab,0;D=minecraft:double_stone_slab,0;E=minecraft:water,9;H=minecraft:water,8;I=minecraft:water,1;J=minecraft:water,0;AU=navybofus;
+CCDCCCDEDCDEÀEDCDEDCCCDCC
+AAÐAAAAEAAÐEHEÐAAEAAAAÐAA
+AAAAAAAEAAAEHEAAAEAAAAAAA
+AAAAAAAIAAAIJIAAAIAAAAAAA
