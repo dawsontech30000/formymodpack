@@ -1,4 +1,4 @@
-
+#packmode expert
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDict;
@@ -65,3 +65,4 @@ tar3.addEnergyPerTickInput(50000);
 tar3.addItemInput(<thermalfoundation:material:833>);
 tar3.addFluidOutput(<liquid:oil>*50);
 tar3.build();
+
