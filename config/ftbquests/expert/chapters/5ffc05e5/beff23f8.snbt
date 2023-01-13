@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "b48250a9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:copper_silver_chest_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

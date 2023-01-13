@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	dependencies: [
+		"c5a33afd"
+	],
+	tasks: [{
+		uid: "fee3f358",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 32L
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "3cfd1790",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 7"
+		}]
+	}]
+}
