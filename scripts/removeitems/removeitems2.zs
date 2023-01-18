@@ -1,31 +1,26 @@
 
 #packmode expert
 
-
 //copper armor
 recipes.remove(<thermalfoundation:armor.helmet_copper>);
 recipes.remove(<thermalfoundation:armor.plate_copper>);
 recipes.remove(<thermalfoundation:armor.legs_copper>);
 recipes.remove(<thermalfoundation:armor.boots_copper>);
-
 //chainmail armor
 recipes.remove(<minecraft:chainmail_helmet>);
 recipes.remove(<minecraft:chainmail_chestplate>);
 recipes.remove(<minecraft:chainmail_leggings>);
 recipes.remove(<minecraft:chainmail_boots>);
-
 //tin Armor
 recipes.remove(<thermalfoundation:armor.helmet_tin>);
 recipes.remove(<thermalfoundation:armor.plate_tin>);
 recipes.remove(<thermalfoundation:armor.legs_tin>);
 recipes.remove(<thermalfoundation:armor.boots_tin>);
-
 //silver armor
 recipes.remove(<thermalfoundation:armor.helmet_silver>);
 recipes.remove(<thermalfoundation:armor.plate_silver>);
 recipes.remove(<thermalfoundation:armor.legs_silver>);
 recipes.remove(<thermalfoundation:armor.boots_silver>);
-
 //gold armor
 recipes.remove(<minecraft:golden_helmet>);
 recipes.remove(<minecraft:golden_chestplate>);
