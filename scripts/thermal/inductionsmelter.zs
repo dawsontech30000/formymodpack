@@ -287,6 +287,14 @@ import crafttweaker.item.IIngredient as IIngredient;
     mods.thermalexpansion.Transposer.addExtractRecipe(<liquid:lava> * 1000,  <minecraft:redstone_block>, 1000, <fluxnetworks:fluxblock>);
 
 
+  mods.thermalexpansion.Transposer.addExtractRecipe(<liquid:lava> * 500,  <minecraft:redstone>, 1000, <fluxnetworks:flux>);
+
+ mods.thermalexpansion.Transposer.addExtractRecipe(<liquid:lava> * 500,  <minecraft:redstone>, 1000, <fluxnetworks:flux>);
+
+
+
+
+
 //phytogenic insolator
     mods.thermalexpansion.Insolator.addRecipe(<twilightforest:liveroot>, <twilightforest:root:0>, <thermalfoundation:fertilizer:2>, 25000, <twilightforest:liveroot>, 5);
 

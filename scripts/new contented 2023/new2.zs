@@ -58,4 +58,52 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<mysticalagriculture:ingot_s
 	<mysticalagriculture:crafting:33>, <mysticalagriculture:crafting:33>, <mysticalagriculture:crafting:33>,
 	<mysticalagriculture:crafting:33>, <mysticalagriculture:crafting:33>]);
 
-  
+  mods.extendedcrafting.CombinationCrafting.addRecipe(<mysticalagriculture:ingot_storage:2>, 
+	100000000, 1000000, 
+	<matc:prudentiumcrystal>, 
+	[<mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>,
+	<mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>,
+	<mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>,
+	<mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>,
+	<mysticalagriculture:crafting:34>, <mysticalagriculture:crafting:34>]);
+
+mods.extendedcrafting.CombinationCrafting.addRecipe(<mysticalagriculture:ingot_storage:3>, 
+	100000000, 1000000, 
+	<matc:intermediumcrystal>, 
+	[<mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>,
+	<mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>,
+	<mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>,
+	<mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>,
+	<mysticalagriculture:crafting:35>, <mysticalagriculture:crafting:35>]);
+
+mods.extendedcrafting.CombinationCrafting.addRecipe(<mysticalagriculture:ingot_storage:4>, 
+	100000000, 1000000, 
+	<matc:superiumcrystal>, 
+	[<mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>,
+	<mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>,
+	<mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>,
+	<mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>,
+	<mysticalagriculture:crafting:36>, <mysticalagriculture:crafting:36>]);
+
+
+mods.extendedcrafting.CombinationCrafting.addRecipe(<mysticalagriculture:ingot_storage:5>, 
+	100000000, 1000000, 
+	<matc:supremiumcrystal>, 
+	[<mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>,
+	<mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>,
+	<mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>,
+	<mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>,
+	<mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>]);
+
+recipes.remove(<mysticalagriculture:storage>);
+recipes.remove(<mysticalagriculture:storage:1>);
+recipes.remove(<mysticalagriculture:storage:2>);
+recipes.remove(<mysticalagriculture:storage:3>);
+recipes.remove(<mysticalagriculture:storage:4>);
+recipes.remove(<mysticalagriculture:ingot_storage:1>);
+recipes.remove(<mysticalagriculture:ingot_storage:2>);
+recipes.remove(<mysticalagriculture:ingot_storage:3>);
+recipes.remove(<mysticalagriculture:ingot_storage:4>);
+recipes.remove(<mysticalagriculture:ingot_storage:5>);
+recipes.remove(<mysticalagradditions:storage>);
+

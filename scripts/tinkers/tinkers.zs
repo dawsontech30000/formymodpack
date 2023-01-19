@@ -1,6 +1,4 @@
 #packmode expert  
-
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <tconstruct:seared:3>, [
 	[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], 
 	[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], 
