@@ -3,6 +3,9 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDict;
 
+
+
+// mystical blocks and essence 
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:storage:1>, [
 	[<ore:blockInferiumEssence>, null, null, null, <ore:blockInferiumEssence>], 
 	[null, <ore:blockInferiumEssence>, <ore:blockInferiumEssence>, <ore:blockInferiumEssence>, null], 
@@ -98,6 +101,9 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<mysticalagriculture:ingot_s
 	<mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>,
 	<mysticalagriculture:crafting:37>, <mysticalagriculture:crafting:37>]);
 
+
+// mystical blocks and essence 
+
 recipes.remove(<mysticalagriculture:storage>);
 recipes.remove(<mysticalagriculture:storage:1>);
 recipes.remove(<mysticalagriculture:storage:2>);
@@ -110,11 +116,16 @@ recipes.remove(<mysticalagriculture:ingot_storage:4>);
 recipes.remove(<mysticalagriculture:ingot_storage:5>);
 recipes.remove(<mysticalagradditions:storage>);
 
+
+
+// furances
+
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:inferium_furnace>, [
 	[<ore:blockInferiumCoal>, <ore:blockInferiumCoal>, <ore:blockInferiumCoal>], 
 	[<ore:blockInferiumCoal>, <morefurnaces:furnaceblock:2>, <ore:blockInferiumCoal>], 
 	[<ore:blockInferiumCoal>, <ore:blockInferiumCoal>, <ore:blockInferiumCoal>]
 ]);
+
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:prudentium_furnace>, [
 	[<ore:blockInferiumCoal>, null, null, null, <ore:blockInferiumCoal>], 
@@ -154,4 +165,70 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:supremium_
 	[null, <mysticalagriculture:intermedium_furnace>, null, null, <ore:blockSuperiumCoal>, null, null, <mysticalagriculture:intermedium_furnace>, null], 
 	[<mysticalagriculture:superium_furnace>, null, null, null, <ore:blockSuperiumCoal>, null, null, null, <mysticalagriculture:superium_furnace>]
 ]);
+
+
+
+
+
+
+mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:seed_reprocessor>, [
+	[<mysticalagriculture:crafting:16>, <ore:ingotBaseEssence>, <mysticalagriculture:crafting:16>], 
+	[<ore:ingotBaseEssence>, <ore:blockBaseEssence>, <ore:ingotBaseEssence>], 
+	[<mysticalagriculture:crafting:16>, <ore:ingotBaseEssence>, <mysticalagriculture:crafting:16>]
+]);
+
+
+mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:inferium_reprocessor>, [
+	[<mysticalagriculture:crafting:17>, <mysticalagriculture:seed_reprocessor>, <ore:ingotInferium>, <mysticalagriculture:seed_reprocessor>, <mysticalagriculture:crafting:17>], 
+	[<ore:blockInferium>, <ore:ingotInferium>, <mysticalagriculture:crafting:17>, <ore:ingotInferium>, <ore:blockInferium>], 
+	[<ore:blockInferium>, <ore:ingotInferium>, <mysticalagriculture:crafting:17>, <ore:ingotInferium>, <ore:blockInferium>], 
+	[<ore:blockInferium>, <mysticalagriculture:seed_reprocessor>, <ore:ingotInferium>, <mysticalagriculture:seed_reprocessor>, <ore:blockInferium>], 
+	[<mysticalagriculture:crafting:17>, <ore:blockInferium>, <ore:blockInferium>, <ore:blockInferium>, <mysticalagriculture:crafting:17>]
+]);
+
+
+mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:prudentium_reprocessor>, [
+	[<mysticalagriculture:prudentium_reprocessor>, <ore:blockPrudentium>, <ore:blockPrudentium>, <ore:blockPrudentium>, <mysticalagriculture:prudentium_reprocessor>], 
+	[<ore:blockPrudentium>, <mysticalagriculture:inferium_reprocessor>, <ore:ingotPrudentium>, <mysticalagriculture:inferium_reprocessor>, <ore:blockPrudentium>], 
+	[<ore:blockPrudentium>, <ore:ingotPrudentium>, <ore:ingotPrudentium>, <ore:ingotPrudentium>, <ore:blockPrudentium>], 
+	[<ore:blockPrudentium>, <mysticalagriculture:inferium_reprocessor>, <ore:ingotPrudentium>, <mysticalagriculture:inferium_reprocessor>, <ore:blockPrudentium>], 
+	[<mysticalagriculture:prudentium_reprocessor>, <ore:blockPrudentium>, <ore:blockPrudentium>, <ore:blockPrudentium>, <mysticalagriculture:prudentium_reprocessor>]
+]);
+
+
+mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:intermedium_reprocessor>, [
+	[null, null, null, null, null, null, null], 
+	[null, <mysticalagriculture:prudentium_reprocessor>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <mysticalagriculture:prudentium_reprocessor>, null], 
+	[null, <ore:ingotIntermedium>, <mysticalagriculture:prudentium_furnace>, null, <mysticalagriculture:prudentium_furnace>, <ore:ingotIntermedium>, null], 
+	[null, <ore:ingotIntermedium>, null, null, null, <ore:ingotIntermedium>, null], 
+	[null, <ore:ingotIntermedium>, <mysticalagriculture:prudentium_furnace>, null, <mysticalagriculture:prudentium_furnace>, <ore:ingotIntermedium>, null], 
+	[null, <mysticalagriculture:prudentium_reprocessor>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <mysticalagriculture:prudentium_reprocessor>, null], 
+	[null, null, null, null, null, null, null]
+]);
+
+
+mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:superium_reprocessor>, [
+	[<ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>], 
+	[<ore:ingotSuperium>, <mysticalagriculture:intermedium_reprocessor>, <ore:ingotSuperium>, <mysticalagriculture:superium_furnace>, <ore:ingotSuperium>, <mysticalagriculture:intermedium_reprocessor>, <ore:ingotSuperium>], 
+	[null, <ore:ingotSuperium>, <mysticalagriculture:intermedium_furnace>, <ore:ingotSuperium>, <mysticalagriculture:intermedium_furnace>, <ore:ingotSuperium>, null], 
+	[null, <mysticalagriculture:superium_furnace>, <ore:ingotSuperium>, <ore:ingotSuperium>, <ore:ingotSuperium>, <mysticalagriculture:superium_furnace>, null], 
+	[null, <ore:ingotSuperium>, <mysticalagriculture:intermedium_furnace>, <ore:ingotSuperium>, <mysticalagriculture:intermedium_furnace>, <ore:ingotSuperium>, null], 
+	[<ore:ingotSuperium>, <mysticalagriculture:intermedium_reprocessor>, <ore:ingotSuperium>, <mysticalagriculture:superium_furnace>, <ore:ingotSuperium>, <mysticalagriculture:intermedium_reprocessor>, <ore:ingotSuperium>], 
+	[<ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>, <ore:ingotIntermedium>]
+]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

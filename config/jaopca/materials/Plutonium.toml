@@ -15,3 +15,11 @@
 	#The color of this material.
 	color = 5065379
 
+[enderio]
+	#The default byproduct material to output in Ender IO's sagmill.
+	byproduct = "minecraft:cobblestone"
+
+[mekanism]
+	#The default base to use in Mekanism's Combiner to recreate ores.
+	oreBase = "minecraft:cobblestone"
+

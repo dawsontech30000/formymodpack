@@ -8,6 +8,9 @@ mods.thermalexpansion.Factorizer.removeRecipeSplit(<extendedcrafting:material>);
 mods.thermalexpansion.Factorizer.removeRecipeSplit(<extendedcrafting:storage>);
 
 
+
+
+
 recipes.removeShapeless(<extendedcrafting:material>, [<extendedcrafting:material:1>, <extendedcrafting:material:1>, <extendedcrafting:material:1>, <extendedcrafting:material:1>, <extendedcrafting:material:1>, <extendedcrafting:material:1>, <extendedcrafting:material:1>, <extendedcrafting:material:1>, <extendedcrafting:material:1>]);
 recipes.removeShapeless(<extendedcrafting:storage>, [<extendedcrafting:material>, <extendedcrafting:material>, <extendedcrafting:material>, <extendedcrafting:material>, <extendedcrafting:material>, <extendedcrafting:material>, <ore:ingotBlackIron>, <extendedcrafting:material>, <extendedcrafting:material>]);
 recipes.removeShapeless(<extendedcrafting:material>, [<ore:ingotIron>, <minecraft:dye>]);
