@@ -9,3 +9,4 @@ added ae2 fluid crafting
 remove memory tester or one two
 
 fixed dupcate custom items
+fixed the amour and tool recipes
