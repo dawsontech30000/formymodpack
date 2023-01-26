@@ -1298,7 +1298,7 @@
   {
     "mode": "ADD",
     "result": "mysticalagradditions:prudentium_paxel",
-    "catalyst": "mysticalagriculture:gear:1",
+    "catalyst": "mysticalagriculture:gear",
     "energy":1000,
     "tier": 1,
     "ingredients": [
@@ -1306,16 +1306,16 @@
         "mysticalagriculture:prudentium_pickaxe",
         "mysticalagriculture:prudentium_shovel",
         "mysticalagriculture:prudentium_sword",
-        "mysticalagriculture:gear:1",
-        "mysticalagriculture:gear:1",
-        "mysticalagriculture:gear:1",
-        "mysticalagriculture:gear:1"
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear"
       ]
     },
   {
     "mode": "ADD",
     "result": "mysticalagradditions:intermedium_paxel",
-    "catalyst": "mysticalagriculture:gear:2",
+    "catalyst": "mysticalagriculture:gear",
     "energy":1000,
     "tier": 1,
     "ingredients": [
@@ -1323,16 +1323,16 @@
         "mysticalagriculture:intermedium_pickaxe",
         "mysticalagriculture:intermedium_shovel",
         "mysticalagriculture:intermedium_sword",
-        "mysticalagriculture:gear:2",
-        "mysticalagriculture:gear:2",
-        "mysticalagriculture:gear:2",
-        "mysticalagriculture:gear:2"
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear"
       ]
     },
-  {
+  { 
     "mode": "ADD",
     "result": "mysticalagradditions:superium_paxel",
-    "catalyst": "mysticalagriculture:gear:3",
+    "catalyst": "mysticalagriculture:gear",
     "energy":1000,
     "tier": 1,
     "ingredients": [
@@ -1340,16 +1340,16 @@
         "mysticalagriculture:superium_pickaxe",
         "mysticalagriculture:superium_shovel",
         "mysticalagriculture:superium_sword",
-        "mysticalagriculture:gear:3",
-        "mysticalagriculture:gear:3",
-        "mysticalagriculture:gear:3",
-        "mysticalagriculture:gear:3"
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear",
+        "mysticalagriculture:gear"
       ]
     },
     {
       "mode": "ADD",
-      "result": "mysticalagradditions:supremium_paxel>.withTag({})",
-      "catalyst": "mysticalagriculture:gear:4",
+      "result": "mysticalagradditions:supremium_paxel",
+      "catalyst": "mysticalagriculture:gear",
       "energy":1000,
       "tier": 1,
       "ingredients": [
@@ -1357,16 +1357,16 @@
           "mysticalagriculture:supremium_pickaxe>.withTag({})",
           "mysticalagriculture:supremium_shovel>.withTag({})",
           "mysticalagriculture:supremium_sword>.withTag({})",
-          "mysticalagriculture:gear:4",
-          "mysticalagriculture:gear:4",
-          "mysticalagriculture:gear:4",
-          "mysticalagriculture:gear:4"
+          "mysticalagriculture:gear",
+          "mysticalagriculture:gear",
+          "mysticalagriculture:gear",
+          "mysticalagriculture:gear"
         ]
       },
       {
         "mode": "ADD",
-        "result": "mysticaladaptations:insanium_paxel>.withTag({})",
-        "catalyst": "mysticalagradditions:supremium_paxel>.withTag({})",
+        "result": "mysticaladaptations:insanium_paxel",
+        "catalyst": "mysticalagradditions:supremium_paxel",
         "energy":10000,
         "tier": 2,
         "ingredients": [
@@ -1374,14 +1374,27 @@
             "mysticalagradditions:intermedium_paxel",
             "mysticalagradditions:prudentium_paxel",
             "mysticalagradditions:inferium_paxel",
-            "mysticalagriculture:gear:1",
-            "mysticalagriculture:gear:2",
-            "mysticalagriculture:gear:3",
-            "mysticalagriculture:gear:4",
-            "<mysticaladaptations:gear>"
+            "mysticalagriculture:gear",
+            "mysticalagriculture:gear",
+            "mysticalagriculture:gear",
+            "mysticalagriculture:gear",
+            "mysticaladaptations:gear"
           ]
-        }
+        },
+      
+      {
+          "mode": "REMOVE",
+          "result": "draconicevolution:draconic_shovel",
+          "catalyst": "draconicevolution:wyvern_shovel"
+      },
     
-]
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_bow>.withTag({})",
+        "catalyst": "draconicevolution_bow"
+    }    
+]    
+  
+      
 
 
