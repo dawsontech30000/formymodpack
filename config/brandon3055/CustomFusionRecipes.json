@@ -1306,10 +1306,10 @@
         "mysticalagriculture:prudentium_pickaxe",
         "mysticalagriculture:prudentium_shovel",
         "mysticalagriculture:prudentium_sword",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear"
+        "ore:ingotPrudentium",
+        "ore:ingotPrudentium",
+        "ore:ingotPrudentium",
+        "ore:ingotPrudentium"
       ]
     },
   {
@@ -1334,7 +1334,7 @@
     "result": "mysticalagradditions:superium_paxel",
     "catalyst": "mysticalagriculture:gear",
     "energy":1000,
-    "tier": 1,
+    "tier": 2,
     "ingredients": [
         "mysticalagriculture:superium_axe",
         "mysticalagriculture:superium_pickaxe",
@@ -1351,7 +1351,7 @@
       "result": "mysticalagradditions:supremium_paxel",
       "catalyst": "mysticalagriculture:gear",
       "energy":1000,
-      "tier": 1,
+      "tier": 2,
       "ingredients": [
           "mysticalagriculture:supremium_axe",
           "mysticalagriculture:supremium_pickaxe",
@@ -1368,7 +1368,7 @@
         "result": "mysticaladaptations:insanium_paxel",
         "catalyst": "mysticalagradditions:supremium_paxel",
         "energy":120000,
-        "tier": 2,
+        "tier": 3,
         "ingredients": [
             "mysticalagradditions:superium_paxel",
             "mysticalagradditions:intermedium_paxel",

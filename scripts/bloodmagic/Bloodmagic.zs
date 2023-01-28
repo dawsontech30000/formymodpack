@@ -11,12 +11,19 @@ mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:iron_sword>);
 
 //additions
 
-mods.bloodmagic.BloodAltar.addRecipe(<mekanism:tierinstaller:1>, <mekanism:tierinstaller:0>, 3, 300,30,60);
 
-mods.bloodmagic.BloodAltar.addRecipe(<mekanism:tierinstaller:3>, <mekanism:tierinstaller:2>, 5, 600,60,120);
 
-mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate:0>, <lordcraft:inscription_tile>, 0, 1000,30,60);
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:blood_orb>.withTag({orb: "bloodmagic:weak"}));
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:blood_orb>.withTag({orb: "bloodmagic:apprentice"}));
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:blood_orb>.withTag({orb: "bloodmagic:magician"}));
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:blood_orb>.withTag({orb: "bloodmagic:master"}));
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:blood_orb>.withTag({orb: "bloodmagic:archmage"}));
 
-mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:blood_orb>.withTag({orb: "bloodmagic:weak"}), <lordcraft:runestone:113>, 0, 2000,60,120);
 
-mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:dagger_of_sacrifice>, <armorplus:infused_lava_sword>, 1, 3000,60,120);
+
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:inscription_tool:1>.withTag({uses: 10}));
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:inscription_tool:2>.withTag({uses: 10}));
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:inscription_tool:3>.withTag({uses: 10}));
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:inscription_tool:4>.withTag({uses: 10}));
+mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:inscription_tool:5>.withTag({uses: 10}));
+

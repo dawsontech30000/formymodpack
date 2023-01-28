@@ -19,6 +19,8 @@ recipes.removeShapeless(<minecraft:stonebrick>, [<ore:stonebrickPurple>]);
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
+recipes.removeShaped(<tconstruct:seared:3>, [[<tconstruct:seared:2>]]);
+recipes.removeShaped(<tconstruct:seared:3>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);
 
 // ================================================================================
 //#MARKER ADD

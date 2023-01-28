@@ -5,6 +5,7 @@ import crafttweaker.oredict.IOreDict;
 
 
 
+
 // mystical blocks and essence 
 mods.extendedcrafting.TableCrafting.addShaped(0, <mysticalagriculture:storage:1>, [
 	[<ore:blockInferiumEssence>, null, null, null, <ore:blockInferiumEssence>], 

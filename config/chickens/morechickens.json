@@ -867,5 +867,15 @@
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "chickens:ironchicken"
+  },
+  "morechickens:darkgemchicken": {
+    "Name": "darkgemchicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "evilcraft:dark_gem",
+    "Drop Item": "evilcraft:dark_gem",
+    "Spawn Type": "NONE",
+    "Parent 1": "chickens:emeraldchicken",
+    "Parent 2": "chickens:coalchicken"
   }
 }

@@ -17,6 +17,12 @@ mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:12>);
 mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:13>);
 mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:14>);
 mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:15>);
+
+
+
+
+
+
 // me dense cable 
 mods.chisel.Carving.addVariation("2ae!",<appliedenergistics2:part:76>);
 mods.chisel.Carving.addVariation("2ae!",<appliedenergistics2:part:75>);
@@ -34,6 +40,12 @@ mods.chisel.Carving.addVariation("2ae!",<appliedenergistics2:part:64>);
 mods.chisel.Carving.addVariation("2ae!",<appliedenergistics2:part:63>);
 mods.chisel.Carving.addVariation("2ae!",<appliedenergistics2:part:62>);
 mods.chisel.Carving.addVariation("2ae!",<appliedenergistics2:part:61>);
+
+
+
+
+
+
 // me smart cable 
 mods.chisel.Carving.addVariation("1ae!",<appliedenergistics2:part:40>);
 mods.chisel.Carving.addVariation("1ae!",<appliedenergistics2:part:41>);

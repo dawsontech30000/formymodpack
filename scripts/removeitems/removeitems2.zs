@@ -105,4 +105,27 @@ recipes.removeShapeless(<redstonearsenal:armor.helmet_flux>, [<redstonearsenal:a
 recipes.removeShapeless(<redstonearsenal:armor.helmet_flux>, [<redstonearsenal:armor.helmet_flux>, <nuclearcraft:rad_shielding>]);
 
 
-
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered:1>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered:2>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered:3>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered:4>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:item_crystal_empowered:5>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:block_crystal_empowered>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:block_crystal_empowered:1>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:block_crystal_empowered:2>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:block_crystal_empowered:3>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:block_crystal_empowered:4>);
+mods.actuallyadditions.Empowerer.removeRecipe(<actuallyadditions:block_crystal_empowered:5>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_diamatine_plate>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_emeradic_plate>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_enori_plate>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_palis_plate>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_restonia_plate>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_void_plate>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_diamatine_gear>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_emeradic_gear>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_enori_gear>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_palis_gear>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_restonia_gear>);
+mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_void_gear>);

@@ -19,7 +19,7 @@
             "type": "item",
             "io-type": "output",
             "item": "minecraft:feather",
-            "amount": 1000
+            "amount": 64
         },
         {
             "type": "item",
