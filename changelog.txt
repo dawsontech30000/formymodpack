@@ -20,3 +20,6 @@ started all pages for quests
 ///
 
 started to add mulitblocks
+
+
+make leather be main sourse
