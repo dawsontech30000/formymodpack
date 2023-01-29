@@ -18,43 +18,43 @@
         {
             "type": "item",
             "io-type": "output",
-            "item": "minecraft:iron_ingot",
+            "item": "minecraft:leather_helmet><minecraft:leather_helmet",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:leather_chestplate",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:leather_leggings",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:leather_boots",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "minecraft:leather",
             "amount": 64
         },
         {
             "type": "item",
             "io-type": "output",
-            "item": "minecraft:gunpowder",
+            "item": "minecraft:leather",
             "amount": 64
         },
         {
             "type": "item",
             "io-type": "output",
-            "item": "minecraft:potato",
-            "amount": 64
-        },
-        {
-            "type": "item",
-            "io-type": "output",
-            "item": "minecraft:carrot",
-            "amount": 64
-        },
-        {
-            "type": "item",
-            "io-type": "output",
-            "item": "minecraft:redstone",
-            "amount": 64
-        },
-        {
-            "type": "item",
-            "io-type": "output",
-            "item": "minecraft:sugar",
-            "amount": 64
-        },
-        {
-            "type": "item",
-            "io-type": "output",
-            "item": "minecraft:stick",
+            "item": "minecraft:leather",
             "amount": 64
         },
         {

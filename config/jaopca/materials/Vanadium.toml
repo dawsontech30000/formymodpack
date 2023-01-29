@@ -13,7 +13,7 @@
 	#The model type of the material.
 	modelType = "metallic"
 	#The color of this material.
-	color = 8226694
+	color = 6516606
 
 [molten]
 	#The temperature of this molten fluid.

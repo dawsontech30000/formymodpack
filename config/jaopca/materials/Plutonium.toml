@@ -12,8 +12,6 @@
 	hasEffect = false
 	#The model type of the material.
 	modelType = "metallic"
-	#The color of this material.
-	color = 9528446
 
 [enderio]
 	#The default byproduct material to output in Ender IO's sagmill.

@@ -128,16 +128,6 @@
     "Parent 1": "morechickens:copperchicken",
     "Parent 2": "morechickens:zincchicken"
   },
-  "morechickens:cupronickelchicken": {
-    "Name": "cupronickelchicken",
-    "Is Enabled": true,
-    "Lay Coefficient": 1.0,
-    "Lay Item": "rockhounding_chemistry:alloy_items_tech:13",
-    "Drop Item": "rockhounding_chemistry:alloy_items_tech:13",
-    "Spawn Type": "NONE",
-    "Parent 1": "morechickens:copperchicken",
-    "Parent 2": "morechickens:nickelchicken"
-  },
   "morechickens:electrumchicken": {
     "Name": "electrumchicken",
     "Is Enabled": true,
@@ -698,6 +688,16 @@
     "Parent 1": "chickens:slimechicken",
     "Parent 2": "chickens:bluechicken"
   },
+  "morechickens:darkgemchicken": {
+    "Name": "darkgemchicken",
+    "Is Enabled": true,
+    "Lay Coefficient": 1.0,
+    "Lay Item": "evilcraft:dark_gem",
+    "Drop Item": "evilcraft:dark_gem",
+    "Spawn Type": "NONE",
+    "Parent 1": "chickens:emeraldchicken",
+    "Parent 2": "chickens:coalchicken"
+  },
   "morechickens:restoniacrystalchicken": {
     "Name": "restoniacrystalchicken",
     "Is Enabled": true,
@@ -867,15 +867,5 @@
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "chickens:ironchicken"
-  },
-  "morechickens:darkgemchicken": {
-    "Name": "darkgemchicken",
-    "Is Enabled": true,
-    "Lay Coefficient": 1.0,
-    "Lay Item": "evilcraft:dark_gem",
-    "Drop Item": "evilcraft:dark_gem",
-    "Spawn Type": "NONE",
-    "Parent 1": "chickens:emeraldchicken",
-    "Parent 2": "chickens:coalchicken"
   }
 }

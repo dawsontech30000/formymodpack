@@ -12,8 +12,6 @@
 	hasEffect = false
 	#The model type of the material.
 	modelType = "dust"
-	#The color of this material.
-	color = 13618631
 
 [mekanism]
 	#The default base to use in Mekanism's Combiner to recreate ores.
