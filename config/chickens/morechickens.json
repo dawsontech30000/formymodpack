@@ -6,7 +6,7 @@
     "_Drop Item": "Item the chicken drops on death.        modid:itemid:metadata:amount #example: minecraft:bone",
     "_Spawn Type": "Chicken spawn type, can be: NORMAL,SNOW,NONE,HELL",
     "_Parent 1": "First parent, empty if it cant be breed. modid:chickenid #example: chickens:waterchicken",
-    "_Parent 2": "Second parent, empty if it cant be breed. "
+    "_Parent 2": "Second parent, empty if it cant be breed. " 
   },
   "morechickens:xpchicken": {
     "Name": "xpChicken",

@@ -6,7 +6,8 @@
     "drop_item": "Item the chicken drops on death.        modid:itemid:metadata:amount #example: minecraft:bone",
     "spawn_type": "Chicken spawn type, can be: NORMAL,SNOW,NONE,HELL",
     "parent_1": "First parent, empty if it cant be breed. modid:chickenid #example: chickens:waterchicken",
-    "parent_2": "Second parent, empty if it cant be breed. "
+    "parent_2": "Second parent, empty if it cant be breed. " 
+    
   },
   "chickens:smartchicken": {
     "name": "SmartChicken",
@@ -414,7 +415,7 @@
     "lay_coefficient": 1.0,
     "lay_item": "minecraft:emerald",
     "drop_item": "minecraft:emerald",
-    "spawn_type": "NORMAL",
+    "spawn_type": "NONE",
     "parent_1": "chickens:diamondchicken",
     "parent_2": "chickens:greenchicken"
   },
@@ -467,5 +468,26 @@
     "spawn_type": "HELL",
     "parent_1": "",
     "parent_2": ""
-  }
+  },
+  "infinitychicken": {
+    "name": "infinitychicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": "item:avaritia:resource:6",
+    "drop_item": "item:avaritia:resource:6",
+    "spawn_type": "NONE",
+    "parent_1": "",
+    "parent_2": ""
+  }, 
+
+"Neutroniumchicken": {
+  "name": "Neutroniumchicken",
+  "is_enabled": true,
+  "lay_coefficient": 1.0,
+  "lay_item": "item:avaritia:resource:4",
+  "drop_item": "item:avaritia:resource:4",
+  "spawn_type": "NONE",
+  "parent_1": "",
+  "parent_2": ""
+  } 
 }

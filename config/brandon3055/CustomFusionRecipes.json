@@ -1282,7 +1282,7 @@
       "mode": "ADD",
       "result": "mysticalagradditions:inferium_paxel",
       "catalyst": "mysticalagriculture:gear",
-       "energy":1000,
+       "energy":80000,
       "tier": 1,
       "ingredients": [
           "mysticalagriculture:inferium_axe",
@@ -1299,7 +1299,7 @@
     "mode": "ADD",
     "result": "mysticalagradditions:prudentium_paxel",
     "catalyst": "mysticalagriculture:gear",
-    "energy":1000,
+    "energy":80000,
     "tier": 1,
     "ingredients": [
         "mysticalagriculture:prudentium_axe",
@@ -1316,69 +1316,69 @@
     "mode": "ADD",
     "result": "mysticalagradditions:intermedium_paxel",
     "catalyst": "mysticalagriculture:gear",
-    "energy":1000,
-    "tier": 1,
+    "energy":19000,
+    "tier": 2,
     "ingredients": [
         "mysticalagriculture:intermedium_axe",
         "mysticalagriculture:intermedium_pickaxe",
         "mysticalagriculture:intermedium_shovel",
         "mysticalagriculture:intermedium_sword",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear"
+        "mysticalagriculture:crafting:35",
+        "mysticalagriculture:crafting:35",
+        "mysticalagriculture:crafting:35",
+        "mysticalagriculture:crafting:35"
       ]
     },
   { 
     "mode": "ADD",
     "result": "mysticalagradditions:superium_paxel",
     "catalyst": "mysticalagriculture:gear",
-    "energy":1000,
+    "energy":110000,
     "tier": 2,
     "ingredients": [
         "mysticalagriculture:superium_axe",
         "mysticalagriculture:superium_pickaxe",
         "mysticalagriculture:superium_shovel",
         "mysticalagriculture:superium_sword",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear",
-        "mysticalagriculture:gear"
+        "mysticalagriculture:crafting:36",
+        "mysticalagriculture:crafting:36",
+        "mysticalagriculture:crafting:36",
+        "mysticalagriculture:crafting:36"
       ]
     },
     {
       "mode": "ADD",
       "result": "mysticalagradditions:supremium_paxel",
       "catalyst": "mysticalagriculture:gear",
-      "energy":1000,
+      "energy":100000,
       "tier": 2,
       "ingredients": [
           "mysticalagriculture:supremium_axe",
           "mysticalagriculture:supremium_pickaxe",
           "mysticalagriculture:supremium_shovel",
           "mysticalagriculture:supremium_sword",
-          "mysticalagriculture:gear",
-          "mysticalagriculture:gear",
-          "mysticalagriculture:gear",
-          "mysticalagriculture:gear"
+          "mysticalagriculture:crafting:37",
+          "mysticalagriculture:crafting:37",
+          "mysticalagriculture:crafting:37",
+          "mysticalagriculture:crafting:37"
         ]
       },
       {
         "mode": "ADD",
         "result": "mysticaladaptations:insanium_paxel",
         "catalyst": "mysticalagradditions:supremium_paxel",
-        "energy":120000,
+        "energy":19000,
         "tier": 3,
         "ingredients": [
             "mysticalagradditions:superium_paxel",
             "mysticalagradditions:intermedium_paxel",
             "mysticalagradditions:prudentium_paxel",
             "mysticalagradditions:inferium_paxel",
-            "mysticalagriculture:gear",
-            "mysticalagriculture:gear",
-            "mysticalagriculture:gear",
-            "mysticalagriculture:gear",
-            "mysticaladaptations:gear"
+            "mysticalagradditions:insanium:2",
+            "mysticalagradditions:insanium:2",
+            "mysticalagradditions:insanium:2",
+            "mysticalagradditions:insanium:2",
+            "mysticalagradditions:insanium:2"
           ]
         },
       
