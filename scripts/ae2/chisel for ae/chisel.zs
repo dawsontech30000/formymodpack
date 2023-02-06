@@ -1,4 +1,4 @@
-#packmode expert
+
 // ae2! test =======================me cable ========================================
 mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:16>);
 mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part>);
@@ -17,8 +17,6 @@ mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:12>);
 mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:13>);
 mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:14>);
 mods.chisel.Carving.addVariation("ae!",<appliedenergistics2:part:15>);
-
-
 
 
 
