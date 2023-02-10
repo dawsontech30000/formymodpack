@@ -1,4 +1,4 @@
-recipes.remove(<tp:nether_diamond_pickaxe>);
+
 recipes.remove(<storagedrawers:upgrade_template>);
 recipes.remove(<storagedrawers:upgrade_storage>);
 recipes.remove(<storagedrawers:upgrade_storage:1>);
