@@ -12,3 +12,13 @@ recipes.remove(<storagedrawers:upgrade_conversion>);
 recipes.remove(<storagedrawers:upgrade_redstone>);
 recipes.remove(<storagedrawers:upgrade_redstone:1>);
 recipes.remove(<storagedrawers:upgrade_redstone:2>);
+
+// keys
+recipes.remove(<storagedrawers:keybutton>);
+recipes.remove(<storagedrawers:keybutton:1>);
+recipes.remove(<storagedrawers:keybutton:2>);
+recipes.remove(<storagedrawers:keybutton:3>);
+recipes.remove(<storagedrawers:drawer_key>);
+recipes.remove(<storagedrawers:shroud_key>);
+recipes.remove(<storagedrawers:personal_key>);
+recipes.remove(<storagedrawers:quantify_key>);
