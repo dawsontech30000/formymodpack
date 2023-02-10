@@ -2,7 +2,7 @@
 
 
 
-// tier 1 storage upgrade
+// tier 1 storage upgrade ---------------------------------------------------------------------------------------------
 mods.extendedcrafting.EnderCrafting.addShaped( <storagedrawers:upgrade_storage>, [
 	[<ore:obsidian>, <storagedrawers:upgrade_template>, <ore:obsidian>], 
 	[<storagedrawers:upgrade_template>, <advgenerators:upgrade_kit>, <storagedrawers:upgrade_template>], 
@@ -40,7 +40,7 @@ mods.extendedcrafting.EnderCrafting.addShaped( <storagedrawers:upgrade_storage:4
 
 
 
-// redstone upgrades ----------------------------------------------------------------------------------
+// redstone upgrades ---------------------------------------------------------------------------------------------------------------
 mods.extendedcrafting.EnderCrafting.addShaped( <storagedrawers:upgrade_redstone>, [
 	[<immersiveengineering:wirecoil:5>, <immersiveengineering:wirecoil:5>, <immersiveengineering:wirecoil:5>], 
 	[<immersiveengineering:wirecoil:5>, <storagedrawers:upgrade_template>, <immersiveengineering:wirecoil:5>], 
@@ -60,6 +60,7 @@ mods.extendedcrafting.EnderCrafting.addShaped( <storagedrawers:upgrade_redstone:
 	[<ore:dustRedstone>, <storagedrawers:upgrade_template>, <ore:dustRedstone>], 
 	[<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>]
 ]);
+
 //---------------------------------------------------------------------------------------------------------------
 mods.extendedcrafting.EnderCrafting.addShaped( <storagedrawers:upgrade_status>, [
 	[<rftools:level_emitter>, <advgenerators:iron_wiring>, <rftools:level_emitter>], 
@@ -85,3 +86,4 @@ mods.extendedcrafting.EnderCrafting.addShaped( <storagedrawers:upgrade_conversio
 	[<ore:gemLapis>, <ore:gemLapis>, <ore:gemLapis>]
 ]);
 
+//---------------------------------------------------------------------------------------------------------------
