@@ -1,0 +1,316 @@
+{
+  "version": 2,
+  "location": "minecraft:server room 1",
+  "traits": {
+    "forge_energy": {
+      "cIO": 2,
+      "gIO": 2,
+      "x": 5,
+      "y": 5,
+      "width": 60,
+      "height": 18,
+      "texture": "multiblocked:textures/gui/energy_bar.png",
+      "fillDirection": 0,
+      "capacity": 10000,
+      "maxReceive": 500,
+      "maxExtract": 500
+    }
+  },
+  "properties": {
+    "rotationState": "ALL",
+    "showInJei": true,
+    "isOpaque": true,
+    "hasCollision": true,
+    "destroyTime": 1.5,
+    "explosionResistance": 10.0,
+    "harvestLevel": 1,
+    "stackSize": 64,
+    "tabGroup": "multiblocked"
+  },
+  "status": {
+    "unformed": {
+      "renderer": {
+        "state": {
+          "id": "tesseract:tesseract",
+          "meta": 0
+        },
+        "type": "blockstate"
+      }
+    },
+    "idle": {
+      "parent": "unformed"
+    },
+    "working": {
+      "parent": "idle"
+    },
+    "suspend": {
+      "parent": "working"
+    }
+  },
+  "recipeMap": "empty",
+  "basePattern": {
+    "structureDir": [
+      "FRONT",
+      "UP",
+      "LEFT"
+    ],
+    "pattern": [
+      [
+        "AAAAAAABBBBBBBBB",
+        "CCCCCCCDDD      ",
+        "C     CDDD      ",
+        "C     CDDD      ",
+        "C     CDDD      ",
+        "C     CDDD      ",
+        "C     CDDD      ",
+        "CCCCCCCDDD      ",
+        "                "
+      ],
+      [
+        "ABBBBBABBBBBBBBB",
+        "C     CDDD      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "C     C         ",
+        "                "
+      ],
+      [
+        "ABBBBBABBBBBBBBB",
+        "C     CDDD      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "C     C         ",
+        "                "
+      ],
+      [
+        "ABBBBBABBBBBBBBB",
+        "C     CDDD      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "C     C         ",
+        "@               "
+      ],
+      [
+        "ABBBBBABBBBBBBBB",
+        "C     CDDD      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "C     C         ",
+        "                "
+      ],
+      [
+        "ABBBBBABBBBBBBBB",
+        "C     CDDD      ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "C     C         ",
+        "                "
+      ],
+      [
+        "AAAAAAEBBBBBBBBB",
+        "CCCCCCCDDD      ",
+        "C     C         ",
+        "C     C         ",
+        "C     C         ",
+        "C     C         ",
+        "C     C         ",
+        "CCCCCCC         ",
+        "                "
+      ],
+      [
+        "BBBBBBBBBBBBBBBB",
+        "      D         ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "BBBBBBBBBBBBBBBB",
+        "      D         ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "BBBBBBBBBBBBBBBB",
+        "      DDDDDDDDDD",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "BBBBBBBBBABABABA",
+        "         F F F F",
+        "         F F F F",
+        "         F F F F",
+        "         F F F F",
+        "         F F F F",
+        "         F F F F",
+        "         F F F F",
+        "         F F F F"
+      ]
+    ],
+    "aisleRepetitions": [
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "predicates": {
+      "A": {
+        "states": [
+          {
+            "id": "minecraft:dirt",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "controller": {
+        "location": "minecraft:server room 1",
+        "type": "component"
+      },
+      "B": {
+        "states": [
+          {
+            "id": "minecraft:grass",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "C": {
+        "states": [
+          {
+            "id": "appliedenergistics2:controller",
+            "meta": 1
+          }
+        ],
+        "type": "states"
+      },
+      "D": {
+        "states": [
+          {
+            "id": "appliedenergistics2:cable_bus",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "E": {
+        "states": [
+          {
+            "id": "appliedenergistics2:creative_energy_cell",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "F": {
+        "states": [
+          {
+            "id": "appliedenergistics2:drive",
+            "meta": 0
+          }
+        ],
+        "type": "states"
+      },
+      "any": {
+        "type": "any"
+      }
+    },
+    "symbolMap": {
+      "@": [
+        "controller"
+      ],
+      " ": [
+        "any"
+      ],
+      "A": [
+        "A"
+      ],
+      "B": [
+        "B"
+      ],
+      "C": [
+        "C"
+      ],
+      "D": [
+        "D"
+      ],
+      "E": [
+        "E"
+      ],
+      "F": [
+        "F"
+      ]
+    }
+  }
+}
