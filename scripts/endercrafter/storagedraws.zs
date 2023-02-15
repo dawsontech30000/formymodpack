@@ -87,3 +87,11 @@ mods.extendedcrafting.EnderCrafting.addShaped( <storagedrawers:upgrade_conversio
 ]);
 
 //---------------------------------------------------------------------------------------------------------------
+
+
+
+mods.extendedcrafting.EnderCrafting.addShaped( <storagedrawers:upgrade_template>, [
+	[<ore:stickTreatedWood>, <ore:stickTreatedWood>, <ore:stickTreatedWood>], 
+	[<ore:stickTreatedWood>, <thermalexpansion:frame:64>, <ore:stickTreatedWood>], 
+	[<ore:stickTreatedWood>, <ore:stickTreatedWood>, <ore:stickTreatedWood>]
+]);

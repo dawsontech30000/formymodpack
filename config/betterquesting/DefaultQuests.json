@@ -482,12 +482,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "packagedexcrafting:advanced_crafter",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "packagedexcrafting:advanced_crafter"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -511,12 +507,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "packagedexcrafting:advanced_crafter",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "packagedexcrafting:advanced_crafter"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -542,12 +534,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "packagedexcrafting:elite_crafter",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "packagedexcrafting:elite_crafter"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -571,12 +559,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "packagedexcrafting:elite_crafter",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "packagedexcrafting:elite_crafter"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -602,12 +586,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "packagedexcrafting:ultimate_crafter",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "packagedexcrafting:ultimate_crafter"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -631,12 +611,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "packagedexcrafting:ultimate_crafter",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "packagedexcrafting:ultimate_crafter"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -662,12 +638,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "packagedexcrafting:ender_crafter",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "packagedexcrafting:ender_crafter"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -691,12 +663,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "packagedexcrafting:ender_crafter",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "packagedexcrafting:ender_crafter"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -722,12 +690,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "packagedexcrafting:combination_crafter",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "packagedexcrafting:combination_crafter"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -751,22 +715,14 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "packagedexcrafting:combination_crafter",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "packagedexcrafting:combination_crafter"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "packagedexcrafting:marked_pedestal",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "packagedexcrafting:marked_pedestal"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -844,12 +800,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "ae2stuff:grower",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "ae2stuff:grower"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -873,12 +825,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "ae2stuff:grower",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "ae2stuff:grower"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -904,12 +852,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "ae2stuff:inscriber",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "ae2stuff:inscriber"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -933,12 +877,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "ae2stuff:inscriber",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "ae2stuff:inscriber"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -966,11 +906,79 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "ae2wtlib:wut",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
+              "StoredTerminals:9": {
+                "0:10": {
+                  "ForgeCaps:10": {
+                    "astralsorcery:cap_item_amulet_holder:10": {}
+                  },
+                  "id:8": "wct:wct",
+                  "Count:3": 1,
+                  "Damage:2": 0
+                },
+                "1:10": {
+                  "ForgeCaps:10": {
+                    "astralsorcery:cap_item_amulet_holder:10": {}
+                  },
+                  "id:8": "wpt:wpt",
+                  "Count:3": 1,
+                  "Damage:2": 0
+                },
+                "2:10": {
+                  "ForgeCaps:10": {
+                    "astralsorcery:cap_item_amulet_holder:10": {}
+                  },
+                  "id:8": "wit:wit",
+                  "Count:3": 1,
+                  "Damage:2": 0
+                },
+                "3:10": {
+                  "ForgeCaps:10": {
+                    "astralsorcery:cap_item_amulet_holder:10": {}
+                  },
+                  "id:8": "wft:wft",
+                  "Count:3": 1,
+                  "Damage:2": 0
+                }
+              },
+              "InfinityEnergy:3": 0,
+              "SelectedTerminal:3": 0,
+              "internalCurrentPower:6": 0.0
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "BIG BAD BOY WIRELESS",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "ae2wtlib:wut",
+              "Count:3": 1,
+              "tag:10": {
                 "StoredTerminals:9": {
                   "0:10": {
                     "ForgeCaps:10": {
@@ -1009,76 +1017,6 @@
                 "SelectedTerminal:3": 0,
                 "internalCurrentPower:6": 0.0
               },
-              "orig_id:8": "ae2wtlib:wut"
-            },
-            "Damage:2": 0,
-            "OreDict:8": ""
-          },
-          "globalshare:1": 0,
-          "questlogic:8": "AND",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "autoclaim:1": 0,
-          "repeat_relative:1": 1,
-          "ismain:1": 0,
-          "name:8": "BIG BAD BOY WIRELESS",
-          "desc:8": "No Description"
-        }
-      },
-      "tasks:9": {
-        "0:10": {
-          "partialMatch:1": 1,
-          "allowSmelt:1": 1,
-          "ignoreNBT:1": 0,
-          "index:3": 0,
-          "allowCraft:1": 1,
-          "allowAnvil:1": 0,
-          "requiredItems:9": {
-            "0:10": {
-              "id:8": "betterquesting:placeholder",
-              "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "StoredTerminals:9": {
-                    "0:10": {
-                      "ForgeCaps:10": {
-                        "astralsorcery:cap_item_amulet_holder:10": {}
-                      },
-                      "id:8": "wct:wct",
-                      "Count:3": 1,
-                      "Damage:2": 0
-                    },
-                    "1:10": {
-                      "ForgeCaps:10": {
-                        "astralsorcery:cap_item_amulet_holder:10": {}
-                      },
-                      "id:8": "wpt:wpt",
-                      "Count:3": 1,
-                      "Damage:2": 0
-                    },
-                    "2:10": {
-                      "ForgeCaps:10": {
-                        "astralsorcery:cap_item_amulet_holder:10": {}
-                      },
-                      "id:8": "wit:wit",
-                      "Count:3": 1,
-                      "Damage:2": 0
-                    },
-                    "3:10": {
-                      "ForgeCaps:10": {
-                        "astralsorcery:cap_item_amulet_holder:10": {}
-                      },
-                      "id:8": "wft:wft",
-                      "Count:3": 1,
-                      "Damage:2": 0
-                    }
-                  },
-                  "InfinityEnergy:3": 0,
-                  "SelectedTerminal:3": 0,
-                  "internalCurrentPower:6": 0.0
-                },
-                "orig_id:8": "ae2wtlib:wut"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -1103,14 +1041,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "wpt:wpt",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "InfinityEnergy:3": 0
-              },
-              "orig_id:8": "wpt:wpt"
+              "InfinityEnergy:3": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -1135,14 +1072,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "wpt:wpt",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "InfinityEnergy:3": 0
-                },
-                "orig_id:8": "wpt:wpt"
+                "InfinityEnergy:3": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -1168,14 +1104,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "wit:wit",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "InfinityEnergy:3": 0
-              },
-              "orig_id:8": "wit:wit"
+              "InfinityEnergy:3": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -1200,14 +1135,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "wit:wit",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "InfinityEnergy:3": 0
-                },
-                "orig_id:8": "wit:wit"
+                "InfinityEnergy:3": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -1233,14 +1167,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "wft:wft",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "InfinityEnergy:3": 0
-              },
-              "orig_id:8": "wft:wft"
+              "InfinityEnergy:3": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -1265,14 +1198,13 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "wft:wft",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "InfinityEnergy:3": 0
-                },
-                "orig_id:8": "wft:wft"
+                "InfinityEnergy:3": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -1296,14 +1228,13 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "wct:wct",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "InfinityEnergy:3": 0
-              },
-              "orig_id:8": "wct:wct"
+              "InfinityEnergy:3": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -1340,12 +1271,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "ae2wtlib:infinity_booster_card",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "ae2wtlib:infinity_booster_card"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -1369,12 +1296,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "ae2wtlib:infinity_booster_card",
               "Count:3": 10000000,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "ae2wtlib:infinity_booster_card"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -1404,14 +1327,10 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "wct:magnet_card",
             "Count:3": 1,
             "tag:10": {
-              "orig_meta:3": 0,
-              "orig_tag:10": {
-                "MagnetMode:3": 0
-              },
-              "orig_id:8": "wct:magnet_card"
+              "MagnetMode:3": 0
             },
             "Damage:2": 0,
             "OreDict:8": ""
@@ -1436,14 +1355,10 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "wct:magnet_card",
               "Count:3": 1,
               "tag:10": {
-                "orig_meta:3": 0,
-                "orig_tag:10": {
-                  "MagnetMode:3": 0
-                },
-                "orig_id:8": "wct:magnet_card"
+                "MagnetMode:3": 0
               },
               "Damage:2": 0,
               "OreDict:8": ""
@@ -1467,12 +1382,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "avaritia:extreme_crafting_table",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "avaritia:extreme_crafting_table"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -1496,12 +1407,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "avaritia:extreme_crafting_table",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "avaritia:extreme_crafting_table"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -1526,12 +1433,8 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
-            "id:8": "betterquesting:placeholder",
+            "id:8": "packagedavaritia:extreme_crafter",
             "Count:3": 1,
-            "tag:10": {
-              "orig_meta:3": 0,
-              "orig_id:8": "packagedavaritia:extreme_crafter"
-            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -1555,12 +1458,8 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "id:8": "betterquesting:placeholder",
+              "id:8": "packagedavaritia:extreme_crafter",
               "Count:3": 1,
-              "tag:10": {
-                "orig_meta:3": 0,
-                "orig_id:8": "packagedavaritia:extreme_crafter"
-              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -2955,6 +2854,312 @@
         }
       },
       "rewards:9": {}
+    },
+    "53:10": {
+      "questID:3": 53,
+      "preRequisites:11": [
+        43
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "danknull:dank_null_panel_0",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "frame 1 dank",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "danknull:dank_null_panel_0",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "54:10": {
+      "questID:3": 54,
+      "preRequisites:11": [
+        44
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "danknull:dank_null_panel_1",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "frame 1 dank",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "danknull:dank_null_panel_1",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "55:10": {
+      "questID:3": 55,
+      "preRequisites:11": [
+        45
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "danknull:dank_null_panel_2",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "frame 1 dank",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "danknull:dank_null_panel_2",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "56:10": {
+      "questID:3": 56,
+      "preRequisites:11": [
+        46
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "danknull:dank_null_panel_3",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "frame 1 dank",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "danknull:dank_null_panel_3",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "57:10": {
+      "questID:3": 57,
+      "preRequisites:11": [
+        47
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "danknull:dank_null_panel_4",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "frame 1 dank",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "danknull:dank_null_panel_4",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "58:10": {
+      "questID:3": 58,
+      "preRequisites:11": [
+        49
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "danknull:dank_null_panel_5",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "frame 1 dank",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "danknull:dank_null_panel_5",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -3326,36 +3531,36 @@
       "quests:9": {
         "0:10": {
           "sizeX:3": 24,
-          "x:3": -168,
-          "y:3": -72,
+          "x:3": -156,
+          "y:3": -60,
           "id:3": 43,
           "sizeY:3": 24
         },
         "1:10": {
           "sizeX:3": 24,
           "x:3": -120,
-          "y:3": -72,
+          "y:3": -84,
           "id:3": 44,
           "sizeY:3": 24
         },
         "2:10": {
           "sizeX:3": 24,
-          "x:3": -60,
-          "y:3": -72,
+          "x:3": -96,
+          "y:3": -108,
           "id:3": 45,
           "sizeY:3": 24
         },
         "3:10": {
           "sizeX:3": 24,
-          "x:3": -12,
-          "y:3": -72,
+          "x:3": -72,
+          "y:3": -132,
           "id:3": 46,
           "sizeY:3": 24
         },
         "4:10": {
           "sizeX:3": 24,
-          "x:3": 36,
-          "y:3": -72,
+          "x:3": -48,
+          "y:3": -144,
           "id:3": 47,
           "sizeY:3": 24
         },
@@ -3368,9 +3573,51 @@
         },
         "6:10": {
           "sizeX:3": 24,
-          "x:3": 72,
-          "y:3": -72,
+          "x:3": -24,
+          "y:3": -156,
           "id:3": 49,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 24,
+          "x:3": -96,
+          "y:3": 12,
+          "id:3": 53,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": -60,
+          "y:3": 0,
+          "id:3": 54,
+          "sizeY:3": 24
+        },
+        "9:10": {
+          "sizeX:3": 24,
+          "x:3": -36,
+          "y:3": -24,
+          "id:3": 55,
+          "sizeY:3": 24
+        },
+        "10:10": {
+          "sizeX:3": 24,
+          "x:3": -12,
+          "y:3": -48,
+          "id:3": 56,
+          "sizeY:3": 24
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": 12,
+          "y:3": -72,
+          "id:3": 57,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": 36,
+          "y:3": -96,
+          "id:3": 58,
           "sizeY:3": 24
         }
       },
@@ -3442,7 +3689,7 @@
       "home_anchor_y:5": 0.0,
       "livesmax:3": 10,
       "home_anchor_x:5": 0.5,
-      "editmode:1": 0,
+      "editmode:1": 1,
       "hardcore:1": 0,
       "home_image:8": "betterquesting:textures/gui/default_title.png",
       "party_enable:1": 1,
