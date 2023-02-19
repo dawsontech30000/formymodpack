@@ -17,8 +17,8 @@ import mods.TweakedLib.TweakedPowerTier;
     TweakedReservoir.registerReservoir("aquifer", <liquid:water>, 5000000, 10000000, 6, 25, 30, powerTier,
         [], [0]);
 
-    TweakedReservoir.registerReservoir("oil", <liquid:oil>, 2500000, 15000000, 6, 25, 40, powerTier,
-        [1], [], []);
+    TweakedReservoir.registerReservoir("oil", <liquid:crude_oil>, 2500000, 15000000, 6, 25, 40, powerTier, 
+    [1], [], []);
 
     TweakedReservoir.registerReservoir("lava", <liquid:lava>, 250000, 1000000, 0, 25, 30, powerTier,
         [1]);
@@ -33,7 +33,7 @@ import mods.TweakedLib.TweakedPowerTier;
 */
     var powerTier2 = TweakedPowerTier.registerPowerTier(160000, 10240);
 
-    TweakedReservoir.registerReservoirWithDrainChance("drainChanceOil", <liquid:oil>, 2500000, 15000000, 6, 25, 0.5, 40, powerTier2,
+    TweakedReservoir.registerReservoirWithDrainChance("drainChanceOil", <liquid:crude_oil>, 2500000, 15000000, 6, 25, 0.5, 40, powerTier2,
         [], [0], [], []);
 
 

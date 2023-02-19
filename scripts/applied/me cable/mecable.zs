@@ -626,7 +626,15 @@ recipes.remove(<appliedenergistics2:part:74>);
 recipes.remove(<appliedenergistics2:part:75>);
 recipes.remove(<appliedenergistics2:part:76>);
 
-
+recipes.remove(<threng:material:7>);
+recipes.remove(<threng:material:8>);
+recipes.remove(<threng:material:9>);
+recipes.remove(<threng:material:10>);
+recipes.remove(<threng:material:11>);
+recipes.remove(<threng:material:12>);
+recipes.remove(<threng:material:13>);
+recipes.remove(<threng:material:14>);
+recipes.remove(<threng:material:6>);
 
 
 
