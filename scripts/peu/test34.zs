@@ -32,6 +32,9 @@ mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:9>* 64, <threng:
 mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:10>* 64, <threng:material:10> *64,], 2.0, [<threng:material:11> *760,]);
 mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:11>* 64, <threng:material:11> *64,], 2.0, [<threng:material:12> *892,]);
 mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:12>* 64, <threng:material:12> *64,], 2.0, [<threng:material:13> *992,]);
+
+mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:13>* 64, <threng:material:13> *64, <threng:material:13> *64, <threng:material:13> *64,<threng:material:13> *64,
+                                               <threng:material:13> *64, <threng:material:13> *64, <threng:material:13> *64,<threng:material:13> *64, ], 2.0, [<threng:material:14> *1,]);
 //------ end 
 
 
