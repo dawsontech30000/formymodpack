@@ -629,10 +629,6 @@ recipes.remove(<appliedenergistics2:part:76>);
 
 
 
-recipes.addShapeless(<appliedenergistics2:crafting_storage_4k>, [<appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:material:38>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:material:38>, <appliedenergistics2:crafting_unit>, <appliedenergistics2:material:38>, <appliedenergistics2:crafting_storage_64k>, <appliedenergistics2:material:38>, <appliedenergistics2:crafting_storage_64k>]);
-recipes.addShapeless(<appliedenergistics2:crafting_storage_4k>, [<appliedenergistics2:crafting_storage_4k>, <appliedenergistics2:material:37>, <appliedenergistics2:crafting_storage_4k>, <appliedenergistics2:material:37>, <appliedenergistics2:crafting_unit>, <appliedenergistics2:material:37>, <appliedenergistics2:crafting_storage_4k>, <appliedenergistics2:material:37>, <appliedenergistics2:crafting_storage_4k>]);
-recipes.addShapeless(<appliedenergistics2:crafting_storage_4k>, [<appliedenergistics2:crafting_storage_1k>, <appliedenergistics2:material:36>, <appliedenergistics2:crafting_storage_1k>, <appliedenergistics2:material:36>, <appliedenergistics2:crafting_unit>, <appliedenergistics2:material:36>, <appliedenergistics2:crafting_storage_1k>, <appliedenergistics2:material:36>, <appliedenergistics2:crafting_storage_1k>]);
-recipes.addShapeless(<appliedenergistics2:crafting_storage_1k>, [<appliedenergistics2:crafting_unit>, <appliedenergistics2:material:35>, <appliedenergistics2:crafting_unit>, <appliedenergistics2:material:35>, <appliedenergistics2:material:35>, <appliedenergistics2:crafting_unit>, <appliedenergistics2:material:35>, <appliedenergistics2:crafting_unit>]);
 
 
 
