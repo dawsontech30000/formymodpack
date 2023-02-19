@@ -27,18 +27,12 @@ mods.pneumaticcraft.pressurechamber.addRecipe([<minecraft:iron_block> * 64, <min
 // apllied
 mods.pneumaticcraft.pressurechamber.addRecipe([<appliedenergistics2:material:36> * 64, <appliedenergistics2:material:36> *64,], 2.0, [<appliedenergistics2:material:6> *100,]);
 mods.pneumaticcraft.pressurechamber.addRecipe([<appliedenergistics2:material:6> * 64, <appliedenergistics2:material:6>*64,], 2.0, [<threng:material:7> *200,]);
-mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:7> * 64, <threng:material:7> *64,], 2.0, [<threng:material:8> *400,]);
-mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:8> * 64, <threng:material:8> *64,], 2.0, [<threng:material:9> *800,]);
-mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:9>* 64, <threng:material:9> *64,], 2.0, [<threng:material:10> *1600,]);
-mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:10>* 64, <threng:material:10> *64,], 2.0, [<threng:material:11> *2560,]);
-mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:11>* 64, <threng:material:11> *64,], 2.0, [<threng:material:12> *8192,]);
-mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:12>* 64, <threng:material:12> *64,], 2.0, [<threng:material:13> *9192,]);
-
-
-
-
-
-
+mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:7> * 64, <threng:material:7> *64,], 2.0, [<threng:material:8> *300,]);
+mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:8> * 64, <threng:material:8> *64,], 2.0, [<threng:material:9> *400,]);
+mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:9>* 64, <threng:material:9> *64,], 2.0, [<threng:material:10> *600,]);
+mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:10>* 64, <threng:material:10> *64,], 2.0, [<threng:material:11> *760,]);
+mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:11>* 64, <threng:material:11> *64,], 2.0, [<threng:material:12> *892,]);
+mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:12>* 64, <threng:material:12> *64,], 2.0, [<threng:material:13> *992,]);
 //------ end 
 
 //additon
