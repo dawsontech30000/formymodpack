@@ -1,6 +1,6 @@
 
 // massively parallel processor 
-removeRecipe(<threng:material:6>);
+mods.threng.Etcher.removeRecipe(<threng:material:6>);
 
 // ae2 resonating crystal 
-removeRecipe(<threng:material:5>);
+mods.threng.Aggregator.removeRecipe(<threng:material:5>);
