@@ -3332,57 +3332,6 @@
       "rewards:9": {}
     },
     "62:10": {
-      "questID:3": 62,
-      "preRequisites:11": [
-        59
-      ],
-      "properties:10": {
-        "betterquesting:10": {
-          "issilent:1": 0,
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "lockedprogress:1": 0,
-          "tasklogic:8": "AND",
-          "repeattime:3": -1,
-          "visibility:8": "NORMAL",
-          "simultaneous:1": 0,
-          "icon:10": {
-            "id:8": "aeadditions:storage.component",
-            "Count:3": 1,
-            "Damage:2": 5,
-            "OreDict:8": ""
-          },
-          "globalshare:1": 0,
-          "questlogic:8": "AND",
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "autoclaim:1": 0,
-          "repeat_relative:1": 1,
-          "ismain:1": 0,
-          "name:8": "4096k fluid storage",
-          "desc:8": "No Description"
-        }
-      },
-      "tasks:9": {
-        "0:10": {
-          "partialMatch:1": 1,
-          "allowSmelt:1": 1,
-          "ignoreNBT:1": 0,
-          "index:3": 0,
-          "allowCraft:1": 1,
-          "allowAnvil:1": 0,
-          "requiredItems:9": {
-            "0:10": {
-              "id:8": "aeadditions:storage.component",
-              "Count:3": 100,
-              "Damage:2": 6,
-              "OreDict:8": ""
-            }
-          },
-          "taskID:8": "bq_standard:crafting"
-        }
-      },
-      "rewards:9": {}
-    },
-    "63:10": {
       "questID:3": 63,
       "preRequisites:11": [
         14
@@ -3433,7 +3382,7 @@
       },
       "rewards:9": {}
     },
-    "64:10": {
+    "63:10": {
       "questID:3": 64,
       "preRequisites:11": [
         63
@@ -3484,7 +3433,7 @@
       },
       "rewards:9": {}
     },
-    "65:10": {
+    "64:10": {
       "questID:3": 65,
       "preRequisites:11": [
         64
@@ -3535,7 +3484,7 @@
       },
       "rewards:9": {}
     },
-    "66:10": {
+    "65:10": {
       "questID:3": 66,
       "preRequisites:11": [
         65
@@ -3586,7 +3535,7 @@
       },
       "rewards:9": {}
     },
-    "67:10": {
+    "66:10": {
       "questID:3": 67,
       "preRequisites:11": [
         66
@@ -3637,7 +3586,7 @@
       },
       "rewards:9": {}
     },
-    "68:10": {
+    "67:10": {
       "questID:3": 68,
       "preRequisites:11": [
         67
@@ -3688,7 +3637,7 @@
       },
       "rewards:9": {}
     },
-    "69:10": {
+    "68:10": {
       "questID:3": 69,
       "preRequisites:11": [
         68
@@ -3739,12 +3688,12 @@
       },
       "rewards:9": {}
     },
-    "70:10": {
+    "69:10": {
       "questID:3": 70,
       "preRequisites:11": [
-        62,
-        69,
-        77
+        80,
+        77,
+        69
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -3792,7 +3741,7 @@
       },
       "rewards:9": {}
     },
-    "71:10": {
+    "70:10": {
       "questID:3": 71,
       "preRequisites:11": [
         14
@@ -3843,7 +3792,7 @@
       },
       "rewards:9": {}
     },
-    "72:10": {
+    "71:10": {
       "questID:3": 72,
       "preRequisites:11": [
         71
@@ -3894,7 +3843,7 @@
       },
       "rewards:9": {}
     },
-    "73:10": {
+    "72:10": {
       "questID:3": 73,
       "preRequisites:11": [
         72
@@ -3945,7 +3894,7 @@
       },
       "rewards:9": {}
     },
-    "74:10": {
+    "73:10": {
       "questID:3": 74,
       "preRequisites:11": [
         73
@@ -3996,7 +3945,7 @@
       },
       "rewards:9": {}
     },
-    "75:10": {
+    "74:10": {
       "questID:3": 75,
       "preRequisites:11": [
         74
@@ -4047,7 +3996,7 @@
       },
       "rewards:9": {}
     },
-    "76:10": {
+    "75:10": {
       "questID:3": 76,
       "preRequisites:11": [
         75
@@ -4098,7 +4047,7 @@
       },
       "rewards:9": {}
     },
-    "77:10": {
+    "76:10": {
       "questID:3": 77,
       "preRequisites:11": [
         76
@@ -4148,6 +4097,474 @@
         }
       },
       "rewards:9": {}
+    },
+    "77:10": {
+      "questID:3": 78,
+      "preRequisites:11": [
+        77,
+        76,
+        75,
+        74,
+        73,
+        72,
+        71
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "aeadditions:storage.casing",
+            "Count:3": 1,
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "houseing core",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "aeadditions:storage.casing",
+              "Count:3": 1,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.gas",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "2:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 2,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.gas",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "3:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 3,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.gas",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "4:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 4,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.gas",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "5:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 5,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.gas",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 4,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "6:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 6,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.gas",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 5,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "7:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 7,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.gas",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 6,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "78:10": {
+      "questID:3": 79,
+      "preRequisites:11": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        80
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "aeadditions:storage.fluid",
+            "Count:3": 1,
+            "tag:10": {
+              "fuzzyMode:8": "IGNORE_ALL"
+            },
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "fluid storage casing",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "appliedenergistics2:fluid_storage_cell_1k",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "appliedenergistics2:fluid_storage_cell_4k",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "2:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 2,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "appliedenergistics2:fluid_storage_cell_16k",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "3:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 3,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "appliedenergistics2:fluid_storage_cell_64k",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "4:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 4,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.fluid",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "5:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 5,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.fluid",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        },
+        "6:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 6,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "aeadditions:storage.fluid",
+              "Count:3": 1,
+              "tag:10": {
+                "fuzzyMode:8": "IGNORE_ALL"
+              },
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "79:10": {
+      "questID:3": 80,
+      "preRequisites:11": [
+        61
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "aeadditions:storage.component",
+            "Count:3": 64,
+            "Damage:2": 6,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "4096 fluid storage ",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "aeadditions:storage.component",
+              "Count:3": 64,
+              "Damage:2": 6,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -4156,21 +4573,21 @@
         "0:10": {
           "sizeX:3": 24,
           "x:3": 204,
-          "y:3": -456,
+          "y:3": -480,
           "id:3": 14,
           "sizeY:3": 24
         },
         "1:10": {
           "sizeX:3": 24,
-          "x:3": 12,
-          "y:3": -444,
+          "x:3": 84,
+          "y:3": -480,
           "id:3": 15,
           "sizeY:3": 24
         },
         "2:10": {
           "sizeX:3": 24,
-          "x:3": 84,
-          "y:3": -444,
+          "x:3": 168,
+          "y:3": -480,
           "id:3": 16,
           "sizeY:3": 24
         },
@@ -4337,114 +4754,128 @@
         },
         "26:10": {
           "sizeX:3": 24,
-          "x:3": 204,
-          "y:3": -252,
-          "id:3": 62,
-          "sizeY:3": 24
-        },
-        "27:10": {
-          "sizeX:3": 24,
-          "x:3": 252,
+          "x:3": 228,
           "y:3": -396,
           "id:3": 63,
           "sizeY:3": 24
         },
-        "28:10": {
+        "27:10": {
           "sizeX:3": 24,
-          "x:3": 252,
+          "x:3": 228,
           "y:3": -372,
           "id:3": 64,
           "sizeY:3": 24
         },
-        "29:10": {
+        "28:10": {
           "sizeX:3": 24,
-          "x:3": 252,
+          "x:3": 228,
           "y:3": -348,
           "id:3": 65,
           "sizeY:3": 24
         },
-        "30:10": {
+        "29:10": {
           "sizeX:3": 24,
-          "x:3": 252,
+          "x:3": 228,
           "y:3": -324,
           "id:3": 66,
           "sizeY:3": 24
         },
-        "31:10": {
+        "30:10": {
           "sizeX:3": 24,
-          "x:3": 252,
+          "x:3": 228,
           "y:3": -300,
           "id:3": 67,
           "sizeY:3": 24
         },
-        "32:10": {
+        "31:10": {
           "sizeX:3": 24,
-          "x:3": 252,
+          "x:3": 228,
           "y:3": -276,
           "id:3": 68,
           "sizeY:3": 24
         },
-        "33:10": {
+        "32:10": {
           "sizeX:3": 24,
-          "x:3": 252,
+          "x:3": 228,
           "y:3": -252,
           "id:3": 69,
           "sizeY:3": 24
         },
-        "34:10": {
+        "33:10": {
           "sizeX:3": 24,
-          "x:3": 228,
-          "y:3": -204,
+          "x:3": 204,
+          "y:3": -192,
           "id:3": 70,
           "sizeY:3": 24
         },
-        "35:10": {
+        "34:10": {
           "sizeX:3": 24,
-          "x:3": 168,
+          "x:3": 180,
           "y:3": -396,
           "id:3": 71,
           "sizeY:3": 24
         },
-        "36:10": {
+        "35:10": {
           "sizeX:3": 24,
-          "x:3": 168,
+          "x:3": 180,
           "y:3": -372,
           "id:3": 72,
           "sizeY:3": 24
         },
-        "37:10": {
+        "36:10": {
           "sizeX:3": 24,
-          "x:3": 168,
+          "x:3": 180,
           "y:3": -348,
           "id:3": 73,
           "sizeY:3": 24
         },
-        "38:10": {
+        "37:10": {
           "sizeX:3": 24,
-          "x:3": 168,
+          "x:3": 180,
           "y:3": -324,
           "id:3": 74,
           "sizeY:3": 24
         },
-        "39:10": {
+        "38:10": {
           "sizeX:3": 24,
-          "x:3": 168,
+          "x:3": 180,
           "y:3": -300,
           "id:3": 75,
           "sizeY:3": 24
         },
-        "40:10": {
+        "39:10": {
           "sizeX:3": 24,
-          "x:3": 168,
+          "x:3": 180,
           "y:3": -276,
           "id:3": 76,
           "sizeY:3": 24
         },
-        "41:10": {
+        "40:10": {
           "sizeX:3": 24,
-          "x:3": 168,
+          "x:3": 180,
           "y:3": -252,
           "id:3": 77,
+          "sizeY:3": 24
+        },
+        "41:10": {
+          "sizeX:3": 24,
+          "x:3": 384,
+          "y:3": -336,
+          "id:3": 78,
+          "sizeY:3": 24
+        },
+        "42:10": {
+          "sizeX:3": 24,
+          "x:3": 12,
+          "y:3": -348,
+          "id:3": 79,
+          "sizeY:3": 24
+        },
+        "43:10": {
+          "sizeX:3": 24,
+          "x:3": 204,
+          "y:3": -252,
+          "id:3": 80,
           "sizeY:3": 24
         }
       },
