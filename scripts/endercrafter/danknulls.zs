@@ -70,3 +70,12 @@ recipes.remove(<danknull:dank_null_panel_4>);
 recipes.remove(<danknull:dank_null_panel_5>);
 
 
+// new today
+recipes.remove(<extendedcrafting:material:7>);
+recipes.remove(<extendedcrafting:storage:1>);
+
+recipes.remove(<immersivepetroleum:metal_device:1>);
+recipes.remove(<immersivepetroleum:metal_device>);
+
+
+

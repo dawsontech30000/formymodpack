@@ -47,10 +47,6 @@ mods.actuallyadditions.Empowerer.removeRecipe(<moreplates:empowered_diamatine_ge
 
 
 
-mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:item_drill_upgrade_speed_ii>, <actuallyadditions:item_drill_upgrade_speed>, <actuallyadditions:item_drill_upgrade_speed>,<actuallyadditions:item_drill_upgrade_speed>, <actuallyadditions:item_drill_upgrade_speed>, <actuallyadditions:item_drill_upgrade_speed>, 500, 100, [0.5, 0.3, 0.2]);
-mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:item_drill_upgrade_speed>, <actuallyadditions:item_drill_upgrade_silk_touch>, <actuallyadditions:item_drill_upgrade_silk_touch>, <actuallyadditions:item_drill_upgrade_silk_touch>, <actuallyadditions:item_drill_upgrade_silk_touch>, <actuallyadditions:item_drill_upgrade_silk_touch>, 500, 100, [0.5, 0.3, 0.2]);
-mods.actuallyadditions.Empowerer.addRecipe(<actuallyadditions:item_drill_upgrade_speed_iii>, <actuallyadditions:item_drill_upgrade_speed_ii>, <actuallyadditions:item_drill_upgrade_speed_ii>, <actuallyadditions:item_drill_upgrade_speed_ii>, <actuallyadditions:item_drill_upgrade_speed_ii>, <actuallyadditions:item_drill_upgrade_speed_ii>, 500, 100, [0.5, 0.3, 0.2]);
-
 
 // Storage Create small ======================================================
 recipes.remove(<actuallyadditions:block_giant_chest>);

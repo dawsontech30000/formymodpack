@@ -11,7 +11,6 @@ mods.pneumaticcraft.heatframecooling.removeAllRecipes();
 
 
 
-
 mods.pneumaticcraft.pressurechamber.addRecipe([<minecraft:iron_ingot> * 64, <minecraft:iron_ingot> *64,], 3.0, [<pneumaticcraft:ingot_iron_compressed> *64,]);
 mods.pneumaticcraft.pressurechamber.addRecipe([<minecraft:iron_block> * 64, <minecraft:iron_block> *64,], 3.0, [<pneumaticcraft:compressed_iron_block> *64,]);
 
@@ -32,6 +31,13 @@ mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:9>* 64, <threng:
 mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:10>* 64, <threng:material:10> *64,], 2.0, [<threng:material:11> *760,]);
 mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:11>* 64, <threng:material:11> *64,], 2.0, [<threng:material:12> *892,]);
 mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:12>* 64, <threng:material:12> *64,], 2.0, [<threng:material:13> *992,]);
+
+
+
+
+
+
+
 
 mods.pneumaticcraft.pressurechamber.addRecipe([<threng:material:13>* 64, <threng:material:13> *64, <threng:material:13> *64, <threng:material:13> *64,<threng:material:13> *64,
                                                <threng:material:13> *64, <threng:material:13> *64, <threng:material:13> *64,<threng:material:13> *64, ], 2.0, [<threng:material:14> *1,]);

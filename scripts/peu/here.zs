@@ -50,3 +50,11 @@ import mods.TweakedLib.TweakedPowerTier;
    // Vanilla Reservoirs
     TweakedReservoir.registerReservoir("plantoil", <liquid:plantoil>, 5000000, 10000000, 6, 25, 30, powerTier,
         [], [0]);
+
+
+recipes.remove(<immersivepetroleum:stone_decoration>);
+
+recipes.remove(<extendedcrafting:material:7>);
+recipes.remove(<extendedcrafting:storage:1>);
+
+
