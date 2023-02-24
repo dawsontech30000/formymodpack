@@ -19,8 +19,11 @@ mods.tconstruct.Melting.addRecipe(<liquid:pinktiger> * 144, <ore:ingotpinktiger>
 mods.tconstruct.Melting.addRecipe(<liquid:bluetiger> * 144, <ore:ingotbluetiger>,500);
 mods.tconstruct.Melting.addRecipe(<liquid:blacktiger> * 144, <ore:ingotBlacktiger>,500);
 mods.tconstruct.Melting.addRecipe(<liquid:rainbowtiger> * 144, <ore:ingotrainbowtiger>,500);
-
-
+mods.tconstruct.Melting.addRecipe(<liquid:lallix>* 144,    <ore:ingotLallix>,    500);
+mods.tconstruct.Melting.addRecipe(<liquid:lallixium>* 144, <ore:ingotLallixium>, 500);
+mods.tconstruct.Melting.addRecipe(<liquid:xaelium>* 144,   <ore:ingotXaelium>,    500);
+mods.tconstruct.Melting.addRecipe(<liquid:skymium>* 144,   <ore:ingotSkymium>,     500);
+mods.tconstruct.Melting.addRecipe(<liquid:redhellite>* 144, <ore:ingotRedhellite>,  500);
 
 
 
