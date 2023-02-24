@@ -873,8 +873,13 @@ recipes.remove(<ae2stuff:grower>);
 
 
 
-
-
+recipes.remove(<packagedauto:packager>);
+recipes.remove(<packagedauto:encoder>);
+recipes.remove(<packagedauto:unpackager>);
+recipes.remove(<packagedauto:packager_extension>);
+recipes.remove(<packagedauto:recipe_holder>);
+recipes.remove(<packagedauto:package_component>);
+recipes.remove(<packagedauto:me_package_component>);
 
 
 
