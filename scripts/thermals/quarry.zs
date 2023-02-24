@@ -33,6 +33,7 @@ mods.thermalexpansion.InductionSmelter.addRecipe(<thermalexpansion:frame:131>, <
 mods.thermalexpansion.InductionSmelter.addRecipe(<thermalexpansion:frame:130>, <thermalexpansion:frame:129>, <thermalexpansion:frame:129>, 100000);
 
 
+mods.thermalexpansion.InductionSmelter.addRecipe(<thermalexpansion:frame:132>, <thermalexpansion:frame:147>, <thermalexpansion:frame:146>, 100000);
 
 
 mods.immersiveengineering.Refinery.addRecipe(<liquid:hot_spring_water>, <liquid:water>, <liquid:lava>, 2048);

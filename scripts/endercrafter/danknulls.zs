@@ -74,5 +74,15 @@ recipes.remove(<danknull:dank_null_panel_5>);
 recipes.remove(<extendedcrafting:material:7>);
 recipes.remove(<extendedcrafting:storage:1>);
 
-
+mods.extendedcrafting.TableCrafting.addShaped(0, <danknull:dank_null_6>, [
+	[<extendedcrafting:singularity_ultimate>, <danknull:dank_null_0>, <danknull:dank_null_0>, <ore:itemScrapBox>, <mekanism:basicblock:8>, <ore:itemScrapBox>, <danknull:dank_null_2>, <danknull:dank_null_2>, <extendedcrafting:singularity_ultimate>], 
+	[<danknull:dank_null_1>, <opencomputers:component:18>, <ic2:casing:6>, <ic2:casing:6>, <ic2:casing:6>, <ic2:casing:6>, <ic2:casing:6>, <opencomputers:component:18>, <danknull:dank_null_1>], 
+	[<danknull:dank_null_1>, <ic2:casing:6>, <danknull:dank_null_4>, <danknull:dank_null_4>, <threng:material:13>, <danknull:dank_null_5>, <danknull:dank_null_5>, <ic2:casing:6>, <danknull:dank_null_1>], 
+	[<ore:itemScrapBox>, <ic2:casing:6>, <danknull:dank_null_panel_0>, <danknull:dank_null_panel_1>, <danknull:danknull_dock>, <danknull:dank_null_panel_2>, <danknull:dank_null_panel_3>, <ic2:casing:6>, <ore:itemScrapBox>], 
+	[<mekanism:basicblock:8>, <ic2:casing:6>, <threng:material:13>, <danknull:danknull_dock>, <extendedcrafting:singularity_ultimate>, <danknull:danknull_dock>, <threng:material:13>, <ic2:casing:6>, <mekanism:basicblock:8>], 
+	[<ore:itemScrapBox>, <ic2:casing:6>, <danknull:dank_null_panel_4>, <danknull:dank_null_panel_5>, <danknull:danknull_dock>, <danknull:dank_null_panel_5>, <danknull:dank_null_panel_5>, <ic2:casing:6>, <ore:itemScrapBox>], 
+	[<danknull:dank_null_3>, <ic2:casing:6>, <danknull:dank_null_4>, <danknull:dank_null_4>, <threng:material:13>, <danknull:dank_null_5>, <danknull:dank_null_5>, <ic2:casing:6>, <danknull:dank_null_3>], 
+	[<danknull:dank_null_3>, <opencomputers:component:18>, <ic2:casing:6>, <ic2:casing:6>, <ic2:casing:6>, <ic2:casing:6>, <ic2:casing:6>, <opencomputers:component:18>, <danknull:dank_null_3>], 
+	[<extendedcrafting:singularity_ultimate>, <danknull:dank_null_0>, <danknull:dank_null_0>, <ore:itemScrapBox>, <mekanism:basicblock:8>, <ore:itemScrapBox>, <danknull:dank_null_2>, <danknull:dank_null_2>, <extendedcrafting:singularity_ultimate>]
+]);
 
