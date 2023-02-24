@@ -1,29 +1,27 @@
-<liquid:dillapis>
-<liquid:crao>
-<liquid:warlock>
-<liquid:star>
-<liquid:tech_guy>
-<liquid:violet>
-<liquid:starwars>
-<liquid:zephyrus>
-<liquid:xodias>
-<liquid:dustcrafter>
-<liquid:first_time_gaming>
-<liquid:irg>
-<liquid:kylian>
-<liquid:ramm>
-<liquid:skitso>
-<liquid:dawsondude>
-<liquid:aph_wolf>
+<liquid:dillapis> <ore:ingotDillapis>
+<liquid:crao>     <ore:ingotcrao>
+<liquid:warlock>   <ore:ingotWarlock>
+<liquid:star>      <ore:ingotstar>
+<liquid:tech_guy>  <ore:ingotTechGuy>
+<liquid:violet>    <ore:ingotViolet>
+<liquid:starwars>  <ore:ingotstarwars>
+<liquid:zephyrus>  <ore:ingotZephyrus>
+<liquid:xodias>     <ore:ingotXodias>
+<liquid:dustcrafter>  <ore:ingotdustcrafter>
+<liquid:first_time_gaming> <ore:ingotFirstTimeGaming>
+<liquid:irg>  <ore:ingotirg>
+<liquid:kylian> <ore:ingotkylian>
+<liquid:ramm> <ore:ingotramm>
+<liquid:skitso> <ore:ingotSkitso>
+<liquid:dawsondude> <ore:ingotdawsondude>
+<liquid:aph_wolf>  <ore:ingotAphWolf>
 
 
-<liquid:lallix>
-<liquid:lallixium>
-<liquid:xaelium>
-<liquid:skymium>
-<liquid:redhellite>
-
-
+<liquid:lallix>    <ore:ingotLallix>
+<liquid:lallixium> <ore:ingotLallixium>
+<liquid:xaelium>   <ore:ingotXaelium>
+<liquid:skymium>   <ore:ingotSkymium>
+<liquid:redhellite> <ore:ingotRedhellite>
 <liquid:redtiger>    <ore:ingotredtiger>
 <liquid:whitetiger>  <ore:ingotwhitetiger>
 <liquid:yellowtiger> <ore:ingotyellowtiger>

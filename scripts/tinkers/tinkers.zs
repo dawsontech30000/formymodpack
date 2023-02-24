@@ -25,6 +25,29 @@ mods.tconstruct.Melting.addRecipe(<liquid:xaelium>* 144,   <ore:ingotXaelium>,  
 mods.tconstruct.Melting.addRecipe(<liquid:skymium>* 144,   <ore:ingotSkymium>,     500);
 mods.tconstruct.Melting.addRecipe(<liquid:redhellite>* 144, <ore:ingotRedhellite>,  500);
 
+mods.tconstruct.Melting.addRecipe(<liquid:dillapis>* 144, <ore:ingotDillapis>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:crao>* 144, <ore:ingotcrao>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:warlock>* 144,<ore:ingotWarlock>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:star> * 144,  <ore:ingotstar>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:tech_guy> * 144,<ore:ingotTechGuy>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:violet> * 144,  <ore:ingotViolet>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:starwars> * 144,<ore:ingotstarwars>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:zephyrus> * 144,<ore:ingotZephyrus>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:xodias>  * 144, <ore:ingotXodias>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:dustcrafter> * 144, <ore:ingotdustcrafter>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:first_time_gaming> * 144, <ore:ingotFirstTimeGaming>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:irg> * 144,    <ore:ingotirg>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:kylian>  * 144,  <ore:ingotkylian>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:ramm> * 144,  <ore:ingotramm>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:skitso> * 144,   <ore:ingotSkitso>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:dawsondude> * 144,    <ore:ingotdawsondude>,  500);
+mods.tconstruct.Melting.addRecipe(<liquid:aph_wolf> * 144,   <ore:ingotAphWolf>,  500);
+
+
+
+
+
+
 
 
 
