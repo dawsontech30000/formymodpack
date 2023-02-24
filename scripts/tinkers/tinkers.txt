@@ -17,16 +17,16 @@
 <liquid:aph_wolf>  <ore:ingotAphWolf>
 
 
-<liquid:lallix>    <ore:ingotLallix>
-<liquid:lallixium> <ore:ingotLallixium>
-<liquid:xaelium>   <ore:ingotXaelium>
-<liquid:skymium>   <ore:ingotSkymium>
-<liquid:redhellite> <ore:ingotRedhellite>
-<liquid:redtiger>    <ore:ingotredtiger>
-<liquid:whitetiger>  <ore:ingotwhitetiger>
-<liquid:yellowtiger> <ore:ingotyellowtiger>
-<liquid:purpletiger> <ore:ingotpurpletiger>
-<liquid:orangetiger> <ore:ingotOrangetiger>
+<liquid:lallix>       <ore:ingotLallix>
+<liquid:lallixium>    <ore:ingotLallixium>
+<liquid:xaelium>      <ore:ingotXaelium>
+<liquid:skymium>      <ore:ingotSkymium>
+<liquid:redhellite>   <ore:ingotRedhellite>
+<liquid:redtiger>     <ore:ingotredtiger>
+<liquid:whitetiger>   <ore:ingotwhitetiger>
+<liquid:yellowtiger>  <ore:ingotyellowtiger>
+<liquid:purpletiger>  <ore:ingotpurpletiger>
+<liquid:orangetiger>  <ore:ingotOrangetiger>
 <liquid:pinktiger>   <ore:ingotpinktiger>
 <liquid:bluetiger>   <ore:ingotbluetiger>
 <liquid:blacktiger>  <ore:ingotBlacktiger>
@@ -68,5 +68,20 @@
 <contenttweaker:material_part:233>
 <contenttweaker:material_part:223>
 
+
+
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:dillapis> * 5,          <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:lallix> * 5,            <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:lallixium> * 5,         <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:warlock> * 5,           <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:redhellite> * 5,        <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:aph_wolf> * 5,          <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:skymium> * 5,           <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:crao> * 5,              <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:dawsondude> * 5,        <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:dustcrafter> * 5,       <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:first_time_gaming> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:irg> * 5,               <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:kylian> * 5,            <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 50, 50, [1, 1]);
 
 
