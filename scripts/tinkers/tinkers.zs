@@ -1,3 +1,4 @@
+#loader
 import mods.tconstruct.Melting;
 import mods.tconstruct.Casting;
 import mods.tconstruct.Drying;
@@ -13,4 +14,24 @@ mods.tconstruct.Melting.addRecipe(<liquid:yellowtiger> * 144, <ore:ingotyellowti
 mods.tconstruct.Melting.addRecipe(<liquid:tiger> * 144, <ore:ingottiger>, 500);
 mods.tconstruct.Melting.addRecipe(<liquid:whitetiger> * 144, <ore:ingotwhitetiger>, 500);
 
+
+
+
+
+
+
+
+
+
+
 mods.tconstruct.Melting.removeEntityMelting(<entity:minecraft:villager>);
+
+
+
+
+
+
+
+
+
+

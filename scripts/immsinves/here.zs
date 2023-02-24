@@ -1,5 +1,6 @@
 import mods.TweakedPetroleum.TweakedReservoir;
 import mods.TweakedLib.TweakedPowerTier;
+#loader
 
 /*
     By default TweakedPetroleum is registering all of the default Reservoirs(aquifer, oil, lava), but registering them again through CT will overwrite them.
@@ -14,7 +15,7 @@ import mods.TweakedLib.TweakedPowerTier;
     var powerTier = TweakedPowerTier.registerPowerTier(16000, 1024);
 
     // Vanilla Reservoirs
-    TweakedReservoir.registerReservoir("aquifer", <liquid:water>, 5000000, 10000000, 6, 25, 30, powerTier,
+    TweakedReservoir.registerReservoir("aquifer", <liquid:rainbowtiger>, 5000000, 10000000, 6, 25, 30, powerTier,
         [], [0]);
 
     TweakedReservoir.registerReservoir("oil", <liquid:crude_oil>, 2500000, 15000000, 6, 25, 40, powerTier, 
@@ -52,9 +53,41 @@ import mods.TweakedLib.TweakedPowerTier;
         [], [0]);
 
 
+mods.immersiveengineering.DieselHandler.addDrillFuel(<liquid:rainbowtiger>);
+
+
+
+// distillation
+//mods.immersivepetroleum.Distillation.addRecipe(ILiquidStack[] fluidOutputs, IItemStack[] itemOutputs, ILiquidStack fluidInput, int energy, int time, float[] chance)
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:lava> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+
+
+
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:dillapis> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:lallix> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:lallixium> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:warlock> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:redhellite> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:aph_wolf> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:skymium> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:crao> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:dawsondude> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:dustcrafter> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:first_time_gaming> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:irg> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
+mods.immersivepetroleum.Distillation.addRecipe([<liquid:kylian> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 50, 50, [1, 1]);
+
+
+
+
+
+
+
+
+
+
+
 recipes.remove(<immersivepetroleum:stone_decoration>);
-
-
 recipes.remove(<immersivepetroleum:metal_device:1>);
 recipes.remove(<immersivepetroleum:metal_device>);
 

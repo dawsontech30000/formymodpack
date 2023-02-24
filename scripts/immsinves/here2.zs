@@ -40,3 +40,5 @@ import mods.TweakedExcavation.TweakedMineral;
 
     var mineral2 = TweakedExcavator.getTweakedMineral("Test2");
     mineral2.yield = 180;
+
+    
