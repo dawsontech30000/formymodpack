@@ -9,6 +9,9 @@ mods.tconstruct.Casting.addTableRecipe(<storagedrawers:keybutton:2>, <minecraft:
 mods.tconstruct.Casting.addTableRecipe(<storagedrawers:keybutton:3>, <minecraft:gold_ingot>, <liquid:whitetiger>, 1170);
 
 
+
+
+// custom ingots 
 mods.tconstruct.Melting.addRecipe(<liquid:redtiger> * 144, <ore:ingotredtiger>, 500);
 mods.tconstruct.Melting.addRecipe(<liquid:yellowtiger> * 144, <ore:ingotyellowtiger>, 500);
 mods.tconstruct.Melting.addRecipe(<liquid:tiger> * 144, <ore:ingottiger>, 500);
@@ -24,7 +27,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:lallixium>* 144, <ore:ingotLallixium>,
 mods.tconstruct.Melting.addRecipe(<liquid:xaelium>* 144,   <ore:ingotXaelium>,    500);
 mods.tconstruct.Melting.addRecipe(<liquid:skymium>* 144,   <ore:ingotSkymium>,     500);
 mods.tconstruct.Melting.addRecipe(<liquid:redhellite>* 144, <ore:ingotRedhellite>,  500);
-
 mods.tconstruct.Melting.addRecipe(<liquid:dillapis>* 144, <ore:ingotDillapis>,  500);
 mods.tconstruct.Melting.addRecipe(<liquid:crao>* 144, <ore:ingotcrao>,  500);
 mods.tconstruct.Melting.addRecipe(<liquid:warlock>* 144,<ore:ingotWarlock>,  500);
@@ -42,7 +44,7 @@ mods.tconstruct.Melting.addRecipe(<liquid:ramm> * 144,  <ore:ingotramm>,  500);
 mods.tconstruct.Melting.addRecipe(<liquid:skitso> * 144,   <ore:ingotSkitso>,  500);
 mods.tconstruct.Melting.addRecipe(<liquid:dawsondude> * 144,    <ore:ingotdawsondude>,  500);
 mods.tconstruct.Melting.addRecipe(<liquid:aph_wolf> * 144,   <ore:ingotAphWolf>,  500);
-
+// end of custom ingots
 
 
 
