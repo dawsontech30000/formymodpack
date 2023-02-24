@@ -13,9 +13,12 @@ mods.tconstruct.Melting.addRecipe(<liquid:redtiger> * 144, <ore:ingotredtiger>, 
 mods.tconstruct.Melting.addRecipe(<liquid:yellowtiger> * 144, <ore:ingotyellowtiger>, 500);
 mods.tconstruct.Melting.addRecipe(<liquid:tiger> * 144, <ore:ingottiger>, 500);
 mods.tconstruct.Melting.addRecipe(<liquid:whitetiger> * 144, <ore:ingotwhitetiger>, 500);
-
-
-
+mods.tconstruct.Melting.addRecipe(<liquid:purpletiger> * 144, <ore:ingotpurpletiger>,500);
+mods.tconstruct.Melting.addRecipe(<liquid:orangetiger> * 144, <ore:ingotOrangetiger>,500);
+mods.tconstruct.Melting.addRecipe(<liquid:pinktiger> * 144, <ore:ingotpinktiger>,500);
+mods.tconstruct.Melting.addRecipe(<liquid:bluetiger> * 144, <ore:ingotbluetiger>,500);
+mods.tconstruct.Melting.addRecipe(<liquid:blacktiger> * 144, <ore:ingotBlacktiger>,500);
+mods.tconstruct.Melting.addRecipe(<liquid:rainbowtiger> * 144, <ore:ingotrainbowtiger>,500);
 
 
 

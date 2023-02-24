@@ -24,15 +24,17 @@
 <liquid:redhellite>
 
 
-<liquid:redtiger>
-<liquid:whitetiger>
-<liquid:yellowtiger>
-<liquid:purpletiger>
-<liquid:orangetiger>
-<liquid:pinktiger>
-<liquid:bluetiger>
-<liquid:blacktiger>
-<liquid:tiger>
+<liquid:redtiger>    <ore:ingotredtiger>
+<liquid:whitetiger>  <ore:ingotwhitetiger>
+<liquid:yellowtiger> <ore:ingotyellowtiger>
+<liquid:purpletiger> <ore:ingotpurpletiger>
+<liquid:orangetiger> <ore:ingotOrangetiger>
+<liquid:pinktiger>   <ore:ingotpinktiger>
+<liquid:bluetiger>   <ore:ingotbluetiger>
+<liquid:blacktiger>  <ore:ingotBlacktiger>
+<liquid:tiger>       <ore:ingottiger>
+<liquid:rainbowtiger> <ore:ingotrainbowtiger>
+
 
 
 <contenttweaker:material_part:3>
