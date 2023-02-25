@@ -102,6 +102,27 @@ mods.tconstruct.Casting.removeTableRecipe(<techreborn:plates:18>);
 
 
 
+// Triberium Alloy ============================================================================================
+mods.tconstruct.Alloy.addRecipe(<liquid:triberium_fluid> * 1, [<liquid:tiberium_fluid> * 5, <liquid:basalt_fluid> * 4]);
+mods.tconstruct.Alloy.addRecipe(<liquid:triberium_fluid> * 1, [<liquid:tiberium_fluid> * 5, <liquid:dilithium_fluid> * 2]);
+
+// Nihilite Alloy ============================================================================================
+mods.tconstruct.Alloy.addRecipe(<liquid:nihilite_fluid> * 3, [<liquid:vibranium_fluid> * 1, <liquid:solarium_fluid> * 1, <liquid:obsidiorite_fluid> * 1]);
+
+// Adamant Alloy ============================================================================================
+mods.tconstruct.Alloy.addRecipe(<liquid:adamant_fluid> * 432, [<liquid:vibranium_fluid> * 144, <liquid:solarium_fluid> * 144, <liquid:iox_fluid> * 432, <liquid:astralsorcery.liquidstarlight> * 1000 ]);
+
+// Special Dilithium ============================================================================================
+mods.tconstruct.Alloy.addRecipe(<liquid:dilithium_fluid> * 144, [<liquid:lithium> * 144, <liquid:redstone> * 200, <liquid:fluorite_water> * 500]);
+
+// Fractum Alloy ============================================================================================
+mods.tconstruct.Alloy.addRecipe(<liquid:fractum_fluid> * 2, [<liquid:triberium_fluid> * 3, <liquid:obsidian> * 2, <liquid:abyssum_fluid> * 1]);
+
+// Iox Alloy ============================================================================================
+mods.tconstruct.Alloy.addRecipe(<liquid:iox_fluid> * 1, [<liquid:eezo_fluid> * 2, <liquid:abyssum_fluid> * 2, <liquid:osram_fluid> * 2, <liquid:obsidiorite_fluid> * 8]);
+
+// Obsidiorite Alloy ============================================================================================
+mods.tconstruct.Alloy.addRecipe(<liquid:obsidiorite_fluid> * 144, [<liquid:meteorite_fluid> * 144, <liquid:obsidian> * 144]);
 
 
 
