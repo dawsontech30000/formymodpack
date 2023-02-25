@@ -1,0 +1,30 @@
+item.contenttweaker.twilight_key.name=Twilight Dimensional Key
+item.contenttweaker.twilight_key_winter.name=Twilight Winter Key
+item.contenttweaker.twilight_key_swamp.name=Twilight Swamp Key
+item.contenttweaker.twilight_key_forest.name=Twilight Forest Key
+item.contenttweaker.swamp_key.name=Swamp Key
+item.contenttweaker.neptunic_key.name=Neptunic Key
+
+
+item.contenttweaker.scheduling_processor.name=Scheduling Processor
+item.contenttweaker.inscriber_operation_press.name=Inscriber Operation Press
+item.contenttweaker.inscriber_estimation_press.name=Inscriber Estimation Press
+item.contenttweaker.inscriber_methodology_press.name=Inscriber Methodology Press
+item.contenttweaker.inscriber_clearance_press.name=Inscriber Clearance Press
+item.contenttweaker.inscriber_scheduling_press.name=Inscriber Scheduling Press
+
+
+item.contenttweaker.printed_estimation_circuit.name=Printed Estimation Circuit
+item.contenttweaker.estimation_processor.name=Estimation Processor
+item.contenttweaker.printed_methodolgy_circuit.name=Printed Methodology Circuit
+item.contenttweaker.methodology_processor.name=Methodology Processor
+item.contenttweaker.printed_clearance_circuit.name=Printed Clearance Circuit
+item.contenttweaker.clearance_processor.name=Clearance Processor
+item.contenttweaker.printed_scheduling_circuit.name=Printed Scheduling Circuit
+
+
+item.contenttweaker.printed_operation_circuit.name=Printed Operation Circuit
+item.contenttweaker.operation_processor.name=Operation Processor
+
+item.contenttweaker.thaumium_processor.name=Thaumium Processor
+item.contenttweaker.printed_thaumium_circuit.name=Printed Thaumium Circuit
