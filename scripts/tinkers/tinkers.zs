@@ -2,6 +2,7 @@
 import mods.tconstruct.Melting;
 import mods.tconstruct.Casting;
 import mods.tconstruct.Drying;
+
 //                                             output               csaing table                 liquird output and name
 mods.tconstruct.Casting.addTableRecipe(<storagedrawers:keybutton>, <minecraft:gold_ingot>,   <liquid:redtiger>, 1140);
 mods.tconstruct.Casting.addTableRecipe(<storagedrawers:keybutton:1>, <minecraft:gold_ingot>, <liquid:yellowtiger>, 1150);
@@ -10,8 +11,11 @@ mods.tconstruct.Casting.addTableRecipe(<storagedrawers:keybutton:3>, <minecraft:
 
 
 
+
+mods.tconstruct.Casting.addBasinRecipe(<tinkertoolcasts:tank_reinforced>.withTag({}), <tconstruct:seared_tank>, <liquid:terrax_fluid>, 2840);
+
+// they work
 mods.tconstruct.Casting.addBasinRecipe(<tinkertoolcasts:tank_advanced>.withTag({}), <tconstruct:seared_tank>, <liquid:desh>, 2740);
-mods.tconstruct.Casting.addBasinRecipe(<tinkertoolcasts:tank_reinforced>.withTag({}), <tconstruct:seared_tank>, <taiga:molten_palladium_fluid>, 2840);
 mods.tconstruct.Casting.addBasinRecipe(<tinkertoolcasts:tank_iridium>.withTag({}), <tconstruct:seared_tank>, <liquid:iridium>, 2940);
 mods.tconstruct.Casting.addBasinRecipe(<tinkertoolcasts:tank_ultimate>.withTag({}), <tconstruct:seared_tank>, <liquid:supremium>, 3440);
 
