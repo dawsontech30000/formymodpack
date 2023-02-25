@@ -15,21 +15,17 @@
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
-recipes.removeShapeless(<minecraft:stonebrick>, [<ore:stonebrickPurple>]);
+recipes.removeShapeless(<fluxnetworks:fluxpoint>, [<fluxnetworks:fluxpoint>]);
+recipes.removeShapeless(<fluxnetworks:fluxplug>, [<fluxnetworks:fluxplug>]);
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
-recipes.removeShaped(<projecte:item.pe_time_watch>, [[<projecte:item.pe_matter>, <ore:blockGlowstone>, <projecte:item.pe_matter>], [<ore:obsidian>, <minecraft:clock>, <ore:obsidian>], [<projecte:item.pe_matter>, <ore:blockGlowstone>, <projecte:item.pe_matter>]]);
 
 // ================================================================================
 //#MARKER ADD
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
-recipes.addShapeless(<tconstruct:seared_tank:1>, [<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>, <tconstruct:seared:3>, <ore:blockGlassColorless>, <ore:blockSeared>, <ore:blockGlassColorless>, <tconstruct:seared:3>]);
-recipes.addShapeless(<tconstruct:seared_tank:2>, [<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>, <tconstruct:seared_tank>, <ore:blockGlassColorless>, <ore:blockSeared>, <ore:blockGlassColorless>, <tconstruct:seared:3>]);
-recipes.addShapeless(<tconstruct:seared_glass>, [<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>, <tconstruct:seared:3>, <ore:blockGlassColorless>, <ore:blockSeared>, <ore:blockGlassColorless>, <tconstruct:seared:3>]);
-recipes.addShapeless(<tconstruct:seared_tank>, [<ore:blockSeared>, <ore:blockGlassColorless>, <ore:blockSeared>, <ore:blockGlassColorless>, <minecraft:lava_bucket>, <ore:blockGlassColorless>, <tconstruct:seared:3>, <ore:blockGlassColorless>, <ore:blockSeared>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED

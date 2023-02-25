@@ -1,0 +1,5 @@
+3x2x3
+A=minecraft:air,0;C=minecraft:dirt,0;AU=FarkDerpMan;
+$ACC!C
+CACCAC
+ACAACA

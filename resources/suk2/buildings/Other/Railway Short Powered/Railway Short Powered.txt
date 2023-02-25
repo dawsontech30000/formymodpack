@@ -1,0 +1,7 @@
+3x5x5
+A=minecraft:air,0;C=minecraft:fence,0;D=minecraft:wooden_slab,0;E=minecraft:iron_block,0;F=minecraft:rail,1;G=minecraft:detector_rail,1;H=minecraft:golden_rail,1;AU=Subby72;
+CACAAAAAAAAACAC
+CACAAAAAAAAACAC
+CACAAAAAAAAACAC
+DEDDEDDED*E*DED
+AFAAFAAGAAHAAGA

@@ -1,0 +1,34 @@
+remove kubejs completely
+
+main aim 16 new muliblocks
+update packager
+added fluid cows
+added ae2 fluid crafting
+
+
+remove memory tester or one two
+
+fixed dupcate custom items
+fixed the amour and tool recipes
+
+
+
+started all pages for quests
+35 chapters
+
+
+///
+
+started to add mulitblocks
+
+
+make leather be main sourse
+
+
+
+--------------------------
+quests part 1 and 2 and 3
+now done 
+
+
+rewards going be done will update this once its done
