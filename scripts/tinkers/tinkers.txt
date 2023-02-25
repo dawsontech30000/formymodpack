@@ -274,7 +274,56 @@ recipes.addShaped(<tconstruct:slimesling:4>, [[null, <ore:dyeOrange>, null],[<or
 recipes.addShaped(<tconstruct:slimesling:2>, [[null, <ore:dye>, null],[<ore:dye>, <tconstruct:slimesling>, <ore:dye>], [null, <ore:dye>, null]]);
 recipes.addShaped(<tconstruct:slimesling:1>, [[null, <ore:dyeLightGray>, null],[<ore:dyeLightGray>, <tconstruct:slimesling>, <ore:dyeLightGray>], [null, <ore:dyeLightGray>, null]]);
 
+// Plate Removals =============================================================================================
 
+mods.tconstruct.Casting.removeTableRecipe(<techreborn:plates:33>);
+mods.tconstruct.Casting.removeTableRecipe(<techreborn:plates:17>);
+mods.tconstruct.Casting.removeTableRecipe(<immersiveengineering:metal:35>);
+mods.tconstruct.Casting.removeTableRecipe(<ceramics:unfired_clay:9>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:32>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:33>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:320>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:321>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:322>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:323>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:324>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:325>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:326>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:327>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:352>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:353>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:354>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:355>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:356>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:357>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:358>);
+mods.tconstruct.Casting.removeTableRecipe(<thermalfoundation:material:359>);
+mods.tconstruct.Casting.removeTableRecipe(<tconstruct:cast_custom:3>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:infinity_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:alumite_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:ardite_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:cobalt_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:knightslime_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:manyullyn_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:knightmetal_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:fiery_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:pig_iron_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:osmiridium_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:osgloglas_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:mirion_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:refined_obsidian_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:refined_glowstone_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:osmium_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:evil_infused_iron_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:enchanted_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:demon_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:manasteel_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:terrasteel_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<moreplates:elementium_plate>);
+mods.tconstruct.Casting.removeTableRecipe(<techreborn:plates:34>);
+mods.tconstruct.Casting.removeTableRecipe(<techreborn:plates:31>);
+mods.tconstruct.Casting.removeTableRecipe(<techreborn:plates:18>);
+mods.jei.JEI.removeAndHide(<tconstruct:cast_custom:3>); 
 
 // Removing Ball of Moos =============================================================================================
 mods.tconstruct.Casting.removeTableRecipe(<tconstruct:materials:18>);
