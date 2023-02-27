@@ -30,4 +30,9 @@ recipes.removeShapeless(<fluxnetworks:fluxplug>, [<fluxnetworks:fluxplug>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<minecraft:brick_block>, [[<ore:ingotBrick>, <ore:ingotBrick>, <minecraft:brick>], [<minecraft:brick>, <ore:ingotBrick>, <ore:ingotBrick>], [<minecraft:brick>, <ore:ingotBrick>, <ore:ingotBrick>]]);
+recipes.addShaped(<tconstruct:seared:3>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <tconstruct:materials>], [<tconstruct:materials>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<tconstruct:materials>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);
+recipes.addShaped(<minecraft:clay>, [[<ore:clay>, <ore:clay>, <minecraft:clay_ball>], [<minecraft:clay_ball>, <ore:clay>, <ore:clay>], [<minecraft:clay_ball>, <ore:clay>, <ore:clay>]]);
+recipes.addShaped(<minecraft:nether_brick>, [[<ore:ingotBrickNether>, <ore:ingotBrickNether>, <minecraft:netherbrick>], [<minecraft:netherbrick>, <ore:ingotBrickNether>, <ore:ingotBrickNether>], [<minecraft:netherbrick>, <ore:ingotBrickNether>, <ore:ingotBrickNether>]]);
+
 

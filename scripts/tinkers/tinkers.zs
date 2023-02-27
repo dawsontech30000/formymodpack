@@ -176,3 +176,13 @@ recipes.remove(<tconstruct:seared_stairs_brick_small>);
 recipes.remove(<tconstruct:seared_stairs_road>);
 recipes.remove(<tconstruct:seared_stairs_tile>);
 recipes.remove(<tconstruct:seared_stairs_creeper>);
+
+
+
+recipes.remove(<minecraft:brick_block>);
+recipes.remove(<tconstruct:seared:3>);
+recipes.remove(<minecraft:clay>);
+recipes.remove(<minecraft:nether_brick>);
+
+
+

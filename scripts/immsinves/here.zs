@@ -1,6 +1,24 @@
 import mods.TweakedPetroleum.TweakedReservoir;
 import mods.TweakedLib.TweakedPowerTier;
+import mods.immersiveengineering.ArcFurnace;
 #loader
+
+recipes.remove(<immersivepetroleum:stone_decoration>);
+recipes.remove(<immersivepetroleum:metal_device:1>);
+recipes.remove(<immersivepetroleum:metal_device>);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
     By default TweakedPetroleum is registering all of the default Reservoirs(aquifer, oil, lava), but registering them again through CT will overwrite them.
@@ -57,38 +75,9 @@ mods.immersiveengineering.DieselHandler.addDrillFuel(<liquid:rainbowtiger>);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // distillation
 //mods.immersivepetroleum.Distillation.addRecipe(ILiquidStack[] fluidOutputs, IItemStack[] itemOutputs, ILiquidStack fluidInput, int energy, int time, float[] chance)
 mods.immersivepetroleum.Distillation.addRecipe([<liquid:lava> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger> *500, 5, 5, [1, 1]);
-
-
-
-
 
 mods.immersivepetroleum.Distillation.addRecipe([<liquid:dillapis>* 50,          <liquid:gasoline> * 150], [<immersivepetroleum:material>, <immersivepetroleum:material> * 1], <liquid:rainbowtiger> *100, 50, 50,  [1,  100]);
 mods.immersivepetroleum.Distillation.addRecipe([<liquid:crao>* 50,              <liquid:gasoline> * 250], [<immersivepetroleum:material>, <immersivepetroleum:material> * 1], <liquid:rainbowtiger> *200, 50, 50,  [1,  100]);
@@ -126,11 +115,7 @@ mods.immersivepetroleum.Distillation.addRecipe([<liquid:tiger>* 50,             
 
 
 
-
-
-recipes.remove(<immersivepetroleum:stone_decoration>);
-recipes.remove(<immersivepetroleum:metal_device:1>);
-recipes.remove(<immersivepetroleum:metal_device>);
+mods.immersiveengineering.ArcFurnace.addRecipe(<tconstruct:soil>, <minecraft:clay_ball>, <minecraft:clay_ball>,  2000, 2048, [<minecraft:sand>, <minecraft:gravel>, <minecraft:brick_block>, <minecraft:clay>,], "Alloying");
 
 
 
