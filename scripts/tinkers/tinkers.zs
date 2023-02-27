@@ -185,4 +185,6 @@ recipes.remove(<minecraft:clay>);
 recipes.remove(<minecraft:nether_brick>);
 
 
+// new changes start here
 
+mods.tconstruct.Alloy.removeRecipe(<liquid:invar>);
