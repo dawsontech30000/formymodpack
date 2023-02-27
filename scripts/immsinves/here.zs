@@ -117,7 +117,6 @@ mods.immersivepetroleum.Distillation.addRecipe([<liquid:tiger>* 50,             
 
 
 // mods.immersiveengineering.ArcFurnace.addRecipe(IItemStack output, IIngredient input, IItemStack slag, int time, int energyPerTick, @Optional IIngredient[] additives, @Optional String specialRecipeType);
-mods.immersiveengineering.ArcFurnace.addRecipe(<tconstruct:soil>, <minecraft:clay_ball> *8, <minecraft:clay_ball>,  2000, 2048, [<minecraft:sand> *8, <minecraft:gravel> *8, <minecraft:brick_block> *8, <minecraft:clay> *8,], "Alloying");
-
+mods.immersiveengineering.ArcFurnace.addRecipe(<tconstruct:soil> *8, <minecraft:clay_ball> *8, <minecraft:clay_ball>,  2000, 2048, [<minecraft:sand> *8, <minecraft:gravel> *8, <minecraft:brick_block> *8, <minecraft:clay> *8,], "Alloying");
 
 
