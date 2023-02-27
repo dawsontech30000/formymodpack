@@ -128,6 +128,7 @@
   "base": "3.14.0",
   "slabmachines": "1.0.7",
   "cyclopscore": "1.6.7",
+  "tconevo": "1.0.44",
   "ts2k16": "1.2.10",
   "p455w0rdslib": "2.3.161",
   "astralsorcery": "1.10.27",
