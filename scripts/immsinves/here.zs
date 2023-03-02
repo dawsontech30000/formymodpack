@@ -79,7 +79,7 @@ mods.immersiveengineering.DieselHandler.addDrillFuel(<liquid:rainbowtiger>);
 
 // distillation
 //mods.immersivepetroleum.Distillation.addRecipe(ILiquidStack[] fluidOutputs, IItemStack[] itemOutputs, ILiquidStack fluidInput, int energy, int time, float[] chance)
-mods.immersivepetroleum.Distillation.addRecipe([<liquid:lava> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger> *500, 5, 5, [1, 1]);
+// mods.immersivepetroleum.Distillation.addRecipe([<liquid:lava> * 5, <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger> *500, 5, 5, [1, 1]);
 
 mods.immersivepetroleum.Distillation.addRecipe([<liquid:dillapis>* 50,          <liquid:gasoline> * 150], [<immersivepetroleum:material>, <immersivepetroleum:material> * 1], <liquid:rainbowtiger> *100, 50, 50,  [1,  100]);
 mods.immersivepetroleum.Distillation.addRecipe([<liquid:crao>* 50,              <liquid:gasoline> * 250], [<immersivepetroleum:material>, <immersivepetroleum:material> * 1], <liquid:rainbowtiger> *200, 50, 50,  [1,  100]);

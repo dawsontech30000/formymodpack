@@ -185,6 +185,24 @@ recipes.remove(<minecraft:clay>);
 recipes.remove(<minecraft:nether_brick>);
 
 
-// new changes start here
 
+
+
+
+
+
+
+
+
+
+
+
+//mods.tconstruct.Alloy.addRecipe(ILiquidStack output, ILiquidStack[] inputs);
+// new changes start here
+mods.tconstruct.Alloy.addRecipe(<liquid:invar> * 1144, [<liquid:iron> * 720, <liquid:nickel> * 720]);
+
+
+
+// remove 
 mods.tconstruct.Alloy.removeRecipe(<liquid:invar>);
+
