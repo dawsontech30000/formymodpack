@@ -25,6 +25,9 @@ import mods.TweakedExcavation.TweakedMineral;
     var powerTier2 = TweakedPowerTier.registerPowerTier(640000, 40960);
     TweakedExcavator.addMineralWithCustomYield("Test2", 2000000, 0.0,["minecraft:oreIron", "minecraft:woolYellow", "immersiveengineering:connector:0"] ,[1.0,1.0,1.0], powerTier2, 1000000);
 
+
+
+
 /*
     mods.TweakedExcavation.TweakedMineral is used for modifying default IE minerals and custom ones
     available fields:

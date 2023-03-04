@@ -84,7 +84,7 @@ mods.immersivepetroleum.Distillation.addRecipe([<liquid:first_time_gaming> * 5, 
 mods.immersivepetroleum.Distillation.addRecipe([<liquid:irg> * 5,               <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 5, 5, [1, 1]);
 mods.immersivepetroleum.Distillation.addRecipe([<liquid:kylian> * 5,            <liquid:gasoline> * 5], [<immersivepetroleum:material>, <immersivepetroleum:material> * 2], <liquid:rainbowtiger>, 50, 50, [1, 1]);
 
-
+---------------------------------------------
 
 
 
@@ -105,9 +105,6 @@ mods.tconstruct.Alloy.removeRecipe(<liquid:iox_fluid>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:obsidiorite_fluid>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:fractum_fluid>);
 mods.tconstruct.Alloy.removeRecipe(<liquid:nitronite_fluid>);
-
-// Melting Additions Blank Cast=============================================================================================
-mods.tconstruct.Melting.addRecipe(<liquid:brass> * 144,<tconstruct:cast>);
 
 // Melting and Basin Recipe Additions for Manasteel, Terrasteel, Elementium =============================================================================================
 mods.tconstruct.Melting.addRecipe(<liquid:manasteel> * 1296, <botania:storage>);
