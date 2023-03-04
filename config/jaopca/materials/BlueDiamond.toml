@@ -23,7 +23,7 @@
 	#The base amount of blocks required to create one singularity.
 	inputAmount = 300
 	#Should the singularity be added to the Infinity Catalyst recipe.
-	addToCatalyst = true
+	addToCatalyst = false
 
 [enderio]
 	#The default byproduct material to output in Ender IO's sagmill.
