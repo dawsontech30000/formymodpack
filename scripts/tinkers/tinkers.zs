@@ -185,8 +185,10 @@ recipes.remove(<minecraft:clay>);
 recipes.remove(<minecraft:nether_brick>);
 
 
-
-
+recipes.remove(<tinkertoolcasts:tank_advanced>.withTag({}));
+recipes.remove(<tinkertoolcasts:tank_reinforced>.withTag({}));
+recipes.remove(<tinkertoolcasts:tank_iridium>.withTag({}));
+recipes.remove(<tinkertoolcasts:tank_ultimate>.withTag({}));
 
 
 
@@ -200,9 +202,13 @@ recipes.remove(<minecraft:nether_brick>);
 //mods.tconstruct.Alloy.addRecipe(ILiquidStack output, ILiquidStack[] inputs);
 // new changes start here
 mods.tconstruct.Alloy.addRecipe(<liquid:invar> * 1144, [<liquid:iron> * 720, <liquid:nickel> * 720]);
+// mods.tconstruct.Alloy.addRecipe(<liquid:constantan> * 1144, [<liquid:copper> * 720, <liquid:nickel> * 720]);
+
 
 
 
 // remove 
 mods.tconstruct.Alloy.removeRecipe(<liquid:invar>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:constantan>);
+mods.tconstruct.Alloy.removeRecipe(<liquid:steel>);
 
