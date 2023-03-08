@@ -21,7 +21,6 @@
 	#Should the singularity be added to the Infinity Catalyst recipe.
 	addToCatalyst = false
 
-
 [enderio]
 	#The default byproduct material to output in Ender IO's sagmill.
 	byproduct = "minecraft:cobblestone"
