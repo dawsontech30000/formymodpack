@@ -1382,6 +1382,7 @@
           ]
         },
         
+        
           {
               "mode": "REMOVE",
               "result": "draconicevolution:draconic_shovel",
@@ -1429,14 +1430,20 @@
            },
            {
               "mode": "REMOVE",
-              "result": "<draconicevolution:draconic_block>",
-              "catalyst": "draconicevolution:draconium_block"
+              "result": "draconicevolution:draconic_block *4",
+              "catalyst": "draconicevolution:draconium_block *4"
            },
            
            {
               "mode": "REMOVE",
               "result": "draconicevolution:draconic_staff_of_power",
               "catalyst": "draconicevolution:draconic_pick"
+           },
+           {
+              "mode": "REMOVE",
+              "result": "draconicevolution:draconic_staff_of_power",
+              "catalyst": "draconicevolution:draconic_pick"
            }
+            
                        
-        ]
+          ]
