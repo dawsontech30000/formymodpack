@@ -1429,10 +1429,10 @@
               "catalyst": "draconicevolution:draconic_bow"
            },
            {
-              "mode": "REMOVE",
-              "result": "draconicevolution:draconic_block *4",
-              "catalyst": "draconicevolution:draconium_block *4"
-           },
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_block",
+            "catalyst": "draconicevolution:draconium_block"
+          },
            
            {
               "mode": "REMOVE",
@@ -1443,7 +1443,130 @@
               "mode": "REMOVE",
               "result": "draconicevolution:draconic_staff_of_power",
               "catalyst": "draconicevolution:draconic_pick"
-           }
-            
-                       
-          ]
+           },
+           {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_helm",
+            "catalyst": "draconicevolution:wyvern_helm"
+          },
+          {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_chest",
+            "catalyst": "draconicevolution:wyvern_chest"
+          },
+          {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_legs",
+            "catalyst": "draconicevolution:wyvern_legs"
+          },
+          {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_boots",
+            "catalyst": "draconicevolution:wyvern_boots"
+          },
+          {
+            "mode": "REMOVE",
+            "result": "draconicevolution:ender_energy_manipulator",
+            "catalyst": "minecraft:skull,1,1"
+          },
+
+          {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconium_chest",
+            "catalyst": "minecraft:chest"
+          },
+          {
+            "mode": "REMOVE",
+            "result": "draconicevolution:awakened_core",
+            "catalyst": "minecraft:nether_star"
+          },
+          {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_helm",
+            "catalyst": "draconicevolution:wyvern_helm"
+          },
+          {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_staff_of_power",
+            "catalyst": "draconicevolution:draconic_pick"
+        },
+        {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_bow",
+            "catalyst": "draconicevolution:wyvern_bow"
+        },
+        {
+            "mode": "REMOVE",
+            "result": "draconicevolution:draconic_boots",
+            "catalyst": "draconicevolution:wyvern_boots"
+        },
+        {
+          "mode": "REMOVE",
+          "result": "draconicevolution:draconic_block,4,0",
+          "catalyst": "draconicevolution:draconium_block,4,0"
+      },
+      {
+        "mode": "REMOVE",
+        "result": "draconicevolution:energy_crystal,4,2",
+        "catalyst": "draconicevolution:energy_crystal,4,1"
+    },
+    {
+      "mode": "REMOVE",
+      "result": "draconicevolution:crafting_injector,1,2",
+      "catalyst": "draconicevolution:crafting_injector,1,1"
+  },
+  {
+    "mode": "REMOVE",
+    "result": "draconicadditions:chaotic_energy_core",
+    "catalyst": "draconicevolution:draconic_energy_core"
+},
+{
+  "mode": "REMOVE",
+  "result": "draconicevolution:reactor_core",
+  "catalyst": "draconicevolution:chaos_shard,1,0"
+},
+{
+  "mode": "REMOVE",
+  "result": "draconicadditions:chaos_liquefier",
+  "catalyst": "draconicevolution:generator"
+
+},
+{
+  "mode": "REMOVE",
+  "result": "draconicadditions:chaos_stabilizer_core",
+  "catalyst": "draconicevolution:reactor_core"
+},
+{
+  "mode": "REMOVE",
+  "result": "draconicadditions:chaotic_helm",
+  "catalyst": "draconicevolution:draconic_helm"
+},
+{
+  "mode": "REMOVE",
+  "result": "draconicadditions:chaotic_boots",
+  "catalyst": "draconicevolution:draconic_boots"
+},
+{
+  "mode": "REMOVE",
+  "result": "draconicadditions:chaotic_legs",
+  "catalyst": "draconicevolution:draconic_legs"
+},
+{
+  "mode": "REMOVE",
+  "result": "draconicevolution:chaotic_core",
+  "catalyst": "solarflux:solar_panel_chaotic"
+},
+{
+  "mode": "REMOVE",
+  "result": "solarflux:solar_panel_chaotic",
+  "catalyst": "draconicevolution:chaotic_core"
+},
+{
+  "mode": "REMOVE",
+  "result": "draconicadditions:chaotic_chest",
+  "catalyst": "draconicevolution:draconic_chest"
+}
+          
+]
+
+          
