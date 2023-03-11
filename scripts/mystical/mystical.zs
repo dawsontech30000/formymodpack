@@ -50,3 +50,11 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <mysticaladaptations:insanium_s
 	[null, <ore:ingotInsanium>, <mysticaladaptations:gear>, <ore:ingotInsanium>, null], 
 	[<mysticalagriculture:crafting:22>, <mysticaladaptations:insanium_fertilization_core>, null, <mysticaladaptations:insanium_fertilization_core>, <mysticalagriculture:crafting:22>]
 ]);
+
+
+
+recipes.remove(<mysticalagriculture:supremium_sickle>.withTag({}));
+recipes.remove(<mysticalagriculture:intermedium_sickle>);
+recipes.remove(<mysticalagriculture:superium_sickle>);
+recipes.remove(<mysticalagriculture:prudentium_sickle>);
+recipes.remove(<mysticalagriculture:inferium_sickle>);

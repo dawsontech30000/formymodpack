@@ -23,6 +23,11 @@ printed_scheduling_circuit.register();
 var printed_thaumium_circuit = VanillaFactory.createItem("printed_thaumium_circuit");
 printed_thaumium_circuit.register();
 
+var deamon_circuit = VanillaFactory.createItem("deamon__circuit");
+deamon__circuit.register();
+
+
+
 // proccessor ----------------------------------------------------------------------------
 
 

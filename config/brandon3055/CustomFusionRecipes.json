@@ -1509,13 +1509,13 @@
         "mode": "REMOVE",
         "result": "draconicevolution:energy_crystal,4,2",
         "catalyst": "draconicevolution:energy_crystal,4,1"
-    },
-    {
-      "mode": "REMOVE",
-      "result": "draconicevolution:crafting_injector,1,2",
-      "catalyst": "draconicevolution:crafting_injector,1,1"
-  },
-  {
+},
+{
+  "mode": "REMOVE",
+   "result": "draconicevolution:crafting_injector,1,2",
+   "catalyst": "draconicevolution:crafting_injector,1,1"
+},
+{
     "mode": "REMOVE",
     "result": "draconicadditions:chaotic_energy_core",
     "catalyst": "draconicevolution:draconic_energy_core"

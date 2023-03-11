@@ -27335,36 +27335,6 @@
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "weeping-angels:arm",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:snowball",
-    "meta0": 0,
-    "0chance0": 200.0,
-    "1chance0": 200.0,
-    "2chance0": 200.0,
-    "3chance0": 200.0,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}"
-  },
-  {
-    "name": "weeping-angels:kontron_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "weeping-angels:kontron_ingot",
-    "meta0": 0,
-    "0chance0": 200.0,
-    "1chance0": 250.6,
-    "2chance0": 300.925,
-    "3chance0": 351.75,
-    "0pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
-    "1pair0": "{\n  \"left\": 2,\n  \"right\": 3\n}",
-    "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
-    "3pair0": "{\n  \"left\": 2,\n  \"right\": 5\n}"
-  },
-  {
     "name": "natura:overworld_leaves",
     "meta": 3,
     "length": 1,
