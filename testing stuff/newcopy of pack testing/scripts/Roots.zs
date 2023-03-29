@@ -18,7 +18,7 @@ recipes.remove(<roots:pyre>);
 recipes.addShaped("pyre", <roots:pyre>, [[null,<ore:rootsBark>,null],[<ore:rootsBark>,<contenttweaker:root_of_the_fallen>,<ore:rootsBark>],[<contenttweaker:baykoks_bloodied_stone>,<roots:terra_moss>,<contenttweaker:baykoks_bloodied_stone>]]);
 
 # Charred Stone
-Pyre.addRecipe("charred_stone", <contenttweaker:charred_stone> * 3, [<ore:stone>,<ore:stone>,<ore:stone>,<roots:terra_moss>,<ore:rootsBark>]);
+Pyre.addRecipe("charred_stone", <contenttweaker:charred_stone> * 3, [<minecraft:stone>,<minecraft:stone>,<minecraft:stone>,<roots:terra_moss>,<ore:rootsBark>]);
 
 # Mortar
 recipes.remove(<roots:mortar>);
@@ -81,7 +81,7 @@ recipes.addShaped("fey_crafter", <roots:fey_crafter>, [[<ore:treeSapling>,null,<
 
 # Runic Crafter
 Fey.removeRecipe(<roots:runic_crafter>);
-Fey.addRecipe("runic_crafter", <roots:runic_crafter>, [<roots:fey_crafter>, <roots:runic_dust>, <roots:runic_dust>, <modularmachinery:itemmodularium>, <modularmachinery:itemmodularium>]);
+Fey.addRecipe("runic_crafter", <roots:runic_crafter>, [<roots:fey_crafter>, <roots:runic_dust>, <roots:runic_dust>, <redstonerepository:material:1>, <redstonerepository:material:1>]);
 
 # Elemental Soil
 Fey.removeRecipe(<roots:elemental_soil>);
@@ -243,6 +243,7 @@ Mortar.changeSpell("spell_augment", [<minecraft:iron_block>, <mysticalworld:aube
 Mortar.changeSpell("spell_storm_cloud", [<minecraft:obsidian>, <roots:cloud_berry>, <roots:runic_dust>, <roots:dewgonia>, <chisel:cloud>]);
 Mortar.changeSpell("spell_dandelion_winds", [<minecraft:yellow_flower>, <roots:cloud_berry>, <roots:runic_dust>, <minecraft:piston>, <ore:blockAmethyst>]);
 Mortar.changeSpell("spell_harvest", [<roots:wildewheet>, <betternether:nether_cactus>, <minecraft:diamond_hoe>, <minecraft:water_bucket>, <ore:blockAmethyst>]);
+
 // These spells are gated to somewhat further in the game due to being too powerful
 Mortar.changeSpell("spell_acid_cloud", [<enderio:item_end_steel_shield>, <roots:baffle_cap_mushroom>, <betternether:egg_plant>, <minecraft:potion>.withTag({Potion: "cofhcore:poison4"}), <ore:blockAmethyst>]);
 Mortar.changeSpell("spell_shatter", [<enderio:item_alloy_endergy_ingot:3>, <roots:stalicripe>, <roots:runic_dust>, <actuallyadditions:item_drill_upgrade_speed_iii>, <mysticalworld:amethyst_block>]);
@@ -252,6 +253,7 @@ Mortar.changeSpell("spell_petal_shell", [<astralsorcery:itemcraftingcomponent:2>
 
 Modifiers.disableModifier("roots:spectral_drain");
 Modifiers.disableModifier("roots:gifts_of_undeath");
+
 # Disabled Spell names: reason
 # spell_geas: prevents any mob from attacking
 # spell_disarm: obtain weapons/armor mob is holding/wearing (custom bosses)
