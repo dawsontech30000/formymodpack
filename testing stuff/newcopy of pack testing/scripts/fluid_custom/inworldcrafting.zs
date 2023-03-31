@@ -6,4 +6,4 @@ mods.inworldcrafting.FluidToItem.transform(<natura:clouds>, <liquid:white_fluid>
 
 mods.inworldcrafting.FluidToFluid.transform(<liquid:black_fluid>, <liquid:white_fluid>, [<enderio:item_material:50>]);
 
-mods.inworldcrafting.FluidToFluid.transform(<liquid:white_fluid>, <liquid:cold_iron>, [<contenttweaker:material_part:293>]);
+mods.inworldcrafting.FluidToFluid.transform(<liquid:white_fluid>, <liquid:cold_iron>, [<contenttweaker:material_part:293>], false);

@@ -107,7 +107,7 @@ Fey.addRecipe("runed_obsidian", <roots:runed_obsidian>*3, [<roots:runestone>, <r
 
 # Cloud Berry
 Pyre.removeRecipe(<roots:cloud_berry>);
-Pyre.addRecipe("cloud_berry", <roots:cloud_berry>, [<roots:dewgonia>, <minecraft:red_flower:1>, <ore:wool>, <ore:treeLeaves>, <minecraft:tallgrass:1>]);
+Pyre.addRecipe("cloud_berry", <roots:cloud_berry>, [<roots:dewgonia>, <minecraft:red_flower:1>, <minecraft:wool>, <totemic:cedar_leaves>, <minecraft:tallgrass:1>]);
 
 # Pereskia
 Pyre.removeRecipe(<roots:pereskia>);
