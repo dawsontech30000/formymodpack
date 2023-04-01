@@ -62,9 +62,12 @@ tile.contenttweaker.energized_osmium_block.name=Energized Osmium Block
 item.contenttweaker.energized_certus_quartz_crystal.name=Energized Certus Quartz Crystal
 tile.contenttweaker.energized_certus_quartz_block.name=Energized Certus Quartz Block
 item.contenttweaker.icon_improved_blast_furnace.name=Improved Blast Furnace Icon
+
 item.contenttweaker.printed_operation_circuit.name=Printed Operation Circuit
 item.contenttweaker.operation_processor.name=Operation Processor
 item.contenttweaker.printed_estimation_circuit.name=Printed Estimation Circuit
+item.contenttweaker.deamonCircuit.name=deamonCircuit
+
 item.contenttweaker.estimation_processor.name=Estimation Processor
 item.contenttweaker.printed_methodolgy_circuit.name=Printed Methodology Circuit
 item.contenttweaker.methodology_processor.name=Methodology Processor
@@ -77,6 +80,7 @@ item.contenttweaker.inscriber_estimation_press.name=Inscriber Estimation Press
 item.contenttweaker.inscriber_methodology_press.name=Inscriber Methodology Press
 item.contenttweaker.inscriber_clearance_press.name=Inscriber Clearance Press
 item.contenttweaker.inscriber_scheduling_press.name=Inscriber Scheduling Press
+
 item.contenttweaker.enriched_gum.name=Enriched Gum
 item.contenttweaker.eye_of_gaea.name=Eye of Gaea
 item.contenttweaker.eye_of_gaea_awakened.name=Eye of Gaea (Awakened)

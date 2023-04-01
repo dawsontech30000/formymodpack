@@ -99,7 +99,7 @@ for x in [
 
 # Runestone
 Fey.removeRecipe(<roots:runestone>);
-Fey.addRecipe("runestone", <roots:runestone>*3, [<contenttweaker:charred_stone>, <contenttweaker:charred_stone>, <contenttweaker:charred_stone>, <ore:gemAmethyst>, <minecraft:dye:4>]);
+Fey.addRecipe("runestone", <roots:runestone>*3, [<contenttweaker:charred_stone>, <contenttweaker:charred_stone>, <contenttweaker:charred_stone>, <mysticalworld:amethyst_gem>, <minecraft:dye:4>]);
 
 # Runed Obsidian
 Fey.removeRecipe(<roots:runed_obsidian>);
@@ -111,7 +111,7 @@ Pyre.addRecipe("cloud_berry", <roots:cloud_berry>, [<roots:dewgonia>, <minecraft
 
 # Pereskia
 Pyre.removeRecipe(<roots:pereskia>);
-Pyre.addRecipe("pereskia", <roots:pereskia>, [<roots:dewgonia>, <minecraft:double_plant:1>, <minecraft:beetroot>, <minecraft:speckled_melon>, <ore:dyeMagenta>]);
+Pyre.addRecipe("pereskia", <roots:pereskia>, [<roots:dewgonia>, <minecraft:double_plant:1>, <abyssalcraft:dreadiumingot>, <thaumcraft:nitor_pink>, <enderio:item_alloy_endergy_ingot:4>]);
 
 # Baffle Cap
 Pyre.removeRecipe(<roots:baffle_cap_mushroom>);
