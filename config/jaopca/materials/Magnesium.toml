@@ -1,4 +1,5 @@
 
+#Configurations for material Magnesium.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,7 +14,7 @@
 	#The model type of the material.
 	modelType = "metallic"
 	#The color of this material.
-	color = 9404046
+	color = 12625598
 
 [avaritia]
 	#The base amount of blocks required to create one singularity.
@@ -24,4 +25,10 @@
 [mekanism]
 	#The default base to use in Mekanism's Combiner to recreate ores.
 	oreBase = "minecraft:cobblestone"
+
+[magneticraft]
+	#The default byproduct material to output in Magneticraft's grinder.
+	grinderByproduct = "minecraft:gravel"
+	#The default byproduct material to output in Magneticraft's sluice box.
+	sluiceBoxByproduct = "minecraft:cobblestone"
 

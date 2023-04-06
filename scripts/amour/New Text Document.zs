@@ -1,4 +1,6 @@
-mods.thermalexpansion.Factorizer.removeRecipeCombine(<extendedcrafting:material> * 9);
+
+
+
 
 
 // test to remove 

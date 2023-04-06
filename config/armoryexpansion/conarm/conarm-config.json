@@ -1470,32 +1470,6 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "materialradium",
-    "material": true,
-    "fluid": false,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
     "name": "silentgems:coral",
     "material": true,
     "fluid": false,
@@ -1782,9 +1756,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "fierymetal",
+    "name": "bloodwood_plustic",
     "material": true,
-    "fluid": true,
+    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -1808,9 +1782,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "bloodwood_plustic",
+    "name": "fierymetal",
     "material": true,
-    "fluid": false,
+    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -1886,9 +1860,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "ma.intermedium",
+    "name": "silentgems:rose_quartz_super",
     "material": true,
-    "fluid": true,
+    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -1912,9 +1886,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "silentgems:rose_quartz_super",
+    "name": "ma.intermedium",
     "material": true,
-    "fluid": false,
+    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -2042,9 +2016,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "ignitz",
+    "name": "dragonbone",
     "material": true,
-    "fluid": true,
+    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -2068,9 +2042,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "dragonbone",
+    "name": "ignitz",
     "material": true,
-    "fluid": false,
+    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -2900,7 +2874,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "chaotic_plustic",
+    "name": "silentgems:moldavite",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -2926,7 +2900,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "silentgems:moldavite",
+    "name": "chaotic_plustic",
     "material": true,
     "fluid": false,
     "traits": true,
@@ -3605,32 +3579,6 @@
     "name": "tungsten",
     "material": true,
     "fluid": true,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
-    "name": "materialcorruption",
-    "material": true,
-    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -4590,9 +4538,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "certusquartz_plustic",
+    "name": "xu_enchanted_metal",
     "material": true,
-    "fluid": false,
+    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -4616,9 +4564,9 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "xu_enchanted_metal",
+    "name": "certusquartz_plustic",
     "material": true,
-    "fluid": true,
+    "fluid": false,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -4957,32 +4905,6 @@
     "name": "diamatine_actadd_plustic",
     "material": true,
     "fluid": false,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
-    "name": "infuscolium",
-    "material": true,
-    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -5347,32 +5269,6 @@
     "name": "desert_myrmex",
     "material": true,
     "fluid": false,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
-    "name": "alduorite",
-    "material": true,
-    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,
@@ -6465,32 +6361,6 @@
     "name": "quartzenrichediron",
     "material": true,
     "fluid": false,
-    "traits": true,
-    "armorOptions": {
-      "enableArmor": true,
-      "enableCore": true,
-      "enablePlates": true,
-      "enableTrim": true
-    }
-  },
-  {
-    "toolOptions": {
-      "enableTool": false,
-      "enableHead": false,
-      "enableHandle": false,
-      "enableExtra": false
-    },
-    "rangedOptions": {
-      "enableRanged": false,
-      "enableBow": false,
-      "enableBowString": false,
-      "enableShaft": false,
-      "enableFletching": false,
-      "enableProjectile": false
-    },
-    "name": "rubracium",
-    "material": true,
-    "fluid": true,
     "traits": true,
     "armorOptions": {
       "enableArmor": true,

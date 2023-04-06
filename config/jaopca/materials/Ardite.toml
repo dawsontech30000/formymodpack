@@ -1,4 +1,5 @@
 
+#Configurations for material Ardite.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,15 +14,21 @@
 	#The model type of the material.
 	modelType = "metallic"
 	#The color of this material.
-	color = 9844503
+	color = 9914426
 
 [avaritia]
 	#The base amount of blocks required to create one singularity.
 	inputAmount = 300
 	#Should the singularity be added to the Infinity Catalyst recipe.
-	addToCatalyst = false
+	addToCatalyst = true
 
 [mekanism]
 	#The default base to use in Mekanism's Combiner to recreate ores.
 	oreBase = "minecraft:cobblestone"
+
+[magneticraft]
+	#The default byproduct material to output in Magneticraft's grinder.
+	grinderByproduct = "minecraft:gravel"
+	#The default byproduct material to output in Magneticraft's sluice box.
+	sluiceBoxByproduct = "minecraft:cobblestone"
 

@@ -1,4 +1,5 @@
 
+#Configurations for material Aquamarine.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,7 +14,7 @@
 	#The model type of the material.
 	modelType = "crystal"
 	#The color of this material.
-	color = 4098978
+	color = 3247273
 
 [molten]
 	#The temperature of this molten fluid.
@@ -23,9 +24,23 @@
 	#The base amount of blocks required to create one singularity.
 	inputAmount = 300
 	#Should the singularity be added to the Infinity Catalyst recipe.
-	addToCatalyst = false
+	addToCatalyst = true
 
 [mekanism]
 	#The default base to use in Mekanism's Combiner to recreate ores.
 	oreBase = "minecraft:cobblestone"
+
+[exnihilocreatio]
+	#The default base to sieve in Ex Nihilo Creatio to get this material.
+	oreBase = "#gravel"
+
+[exnihilosequentia]
+	#The output chance of the sieve recipes added using an iron mesh.
+	sieveIronChance = 0.00800000037997961
+	#The output chance of the sieve recipes added using a diamond mesh.
+	sieveDiamondChance = 0.01600000075995922
+
+[magneticraft]
+	#The default byproduct material to output in Magneticraft's grinder.
+	grinderByproduct = "minecraft:gravel"
 

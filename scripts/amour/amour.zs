@@ -1,6 +1,8 @@
 
+import crafttweaker.oredict.IOreDict;
+import crafttweaker.oredict.IOreDictEntry;
+import crafttweaker.item.IIngredient;
 
-#packmode expert  
 
 mods.extendedcrafting.CombinationCrafting.addRecipe(<minecraft:iron_helmet>, 
 	100000000, 1000000, 

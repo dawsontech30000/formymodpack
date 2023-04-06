@@ -1,4 +1,5 @@
 
+#Configurations for material Uranium.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,11 +14,17 @@
 	#The model type of the material.
 	modelType = "metallic"
 	#The color of this material.
-	color = 4427591
+	color = 7902307
 
 [avaritia]
 	#The base amount of blocks required to create one singularity.
 	inputAmount = 300
 	#Should the singularity be added to the Infinity Catalyst recipe.
 	addToCatalyst = true
+
+[magneticraft]
+	#The default byproduct material to output in Magneticraft's grinder.
+	grinderByproduct = "minecraft:gravel"
+	#The default byproduct material to output in Magneticraft's sluice box.
+	sluiceBoxByproduct = "minecraft:cobblestone"
 

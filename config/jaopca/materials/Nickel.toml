@@ -1,4 +1,5 @@
 
+#Configurations for material Nickel.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,5 +14,5 @@
 	#The model type of the material.
 	modelType = "metallic"
 	#The color of this material.
-	color = 10854794
+	color = 12300433
 

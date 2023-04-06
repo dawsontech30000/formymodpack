@@ -1,4 +1,5 @@
 
+#Configurations for material Prismarine.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,7 +14,7 @@
 	#The model type of the material.
 	modelType = "crystal"
 	#The color of this material.
-	color = 7962222
+	color = 7119506
 
 [avaritia]
 	#The base amount of blocks required to create one singularity.

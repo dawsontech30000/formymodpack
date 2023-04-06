@@ -1,4 +1,5 @@
 
+#Configurations for material Plutonium.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -13,7 +14,7 @@
 	#The model type of the material.
 	modelType = "metallic"
 	#The color of this material.
-	color = 15173277
+	color = 5065379
 
 [avaritia]
 	#The base amount of blocks required to create one singularity.
@@ -21,11 +22,19 @@
 	#Should the singularity be added to the Infinity Catalyst recipe.
 	addToCatalyst = true
 
-[enderio]
-	#The default byproduct material to output in Ender IO's sagmill.
-	byproduct = "minecraft:cobblestone"
+[mysticalagriculture]
+	#The crop tier of this material.
+	tier = 3
+	#The amount of Mystical Agriculture essence required to craft materials.
+	inputCount = 8
+	#The amount of material obtained by crafting Mystical Agriculture essence.
+	outputCount = 4
 
-[mekanism]
-	#The default base to use in Mekanism's Combiner to recreate ores.
-	oreBase = "minecraft:cobblestone"
+[thermalexpansion_mysticalagriculture]
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Phyto-Gro.
+	basicChance = 100
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Rich Phyto-Gro.
+	richChance = 105
+	#The base seed output chance when growing Mystical Agriculture seeds in Thermal Expansion's Insolator with Fluxed Phyto-Gro.
+	fluxChance = 110
 
