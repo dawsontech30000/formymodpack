@@ -517,68 +517,63 @@
     },
     {
       "target": "black",
-      "weight": 24,
-      "id": "environmentaltech:lonsdaleite_crystal"
-    },
-    {
-      "target": "black",
       "weight": 1000,
-      "id": "ore:oreZephyrus"
+      "id": "OD:oreZephyrus"
     },
     {
       "target": "pink",
       "weight": 750,
-      "id": "ore:orepinktiger"
+      "id": "OD:orepinktiger"
     },
     {
       "target": "white",
       "weight": 560,
-      "id": "ore:orewhitetiger"
+      "id": "OD:orewhitetiger"
     },
     {
       "target": "blue",
       "weight": 515,
-      "id": "ore:oreViolet"
+      "id": "OD:oreViolet"
     },
     {
       "target": "orange",
       "weight": 343,
-      "id": "ore:oretiger"
+      "id": "OD:oretiger"
     },
     {
       "target": "red",
       "weight": 311,
-      "id": "ore:orestar"
+      "id": "OD:orestar"
     },
     {
       "target": "blue",
       "weight": 218,
-      "id": "ore:oreirg"
+      "id": "OD:oreirg"
     },
     {
       "target": "blue",
       "weight": 156,
-      "id": "ore:oreXaelium"
+      "id": "OD:oreXaelium"
     },
     {
       "target": "purple",
       "weight": 234,
-      "id": "ore:orepurpletiger"
+      "id": "OD:orepurpletiger"
     },
     {
       "target": "pink",
       "weight": 584,
-      "id": "ore:oreXodias"
+      "id": "OD:oreXodias"
     },
     {
       "target": "lime",
       "weight": 602,
-      "id": "ore:oreFirstTimeGaming"
+      "id": "OD:oreFirstTimeGaming"
     },
     {
       "target": "red",
       "weight": 381,
-      "id": "ore:oredawsondude"
+      "id": "OD:oredawsondude"
     },
     {
       "target": "white",
@@ -588,57 +583,57 @@
     {
       "target": "orange",
       "weight": 422,
-      "id": "ore:oreDillapis"
+      "id": "OD:oreDillapis"
     },
     {
       "target": "light_blue",
       "weight": 140,
-      "id": "ore:orerainbowtiger"
+      "id": "OD:orerainbowtiger"
     },
     {
       "target": "black",
       "weight": 156,
-      "id": "ore:orekylian"
+      "id": "OD:orekylian"
     },
     {
       "target": "yellow",
       "weight": 187,
-      "id": "ore:oreyellowtiger"
+      "id": "OD:oreyellowtiger"
     },
     {
       "target": "orange",
       "weight": 109,
-      "id": "ore:oreOrangetiger"
+      "id": "OD:oreOrangetiger"
     },
     {
       "target": "light_blue",
       "weight": 190,
-      "id": "ore:oreTechGuy"
+      "id": "OD:oreTechGuy"
     },
     {
       "target": "black",
       "weight": 184,
-      "id": "ore:oreWarlock"
+      "id": "OD:oreWarlock"
     },
     {
       "target": "gray",
       "weight": 232,
-      "id": "ore:oreSkitso"
+      "id": "OD:oreSkitso"
     },
     {
       "target": "light_blue",
       "weight": 150,
-      "id": "ore:orestarwars"
+      "id": "OD:orestarwars"
     },
     {
       "target": "light_blue",
       "weight": 169,
-      "id": "ore:orecrao"
+      "id": "OD:orecrao"
     },
     {
       "target": "black",
       "weight": 128,
-      "id": "ore:oreLallixium"
+      "id": "OD:oreLallixium"
     },
     {
       "target": "black",
@@ -648,37 +643,37 @@
     {
       "target": "green",
       "weight": 118,
-      "id": "ore:oreSkymium"
+      "id": "OD:oreSkymium"
     },
     {
       "target": "yellow",
       "weight": 145,
-      "id": "ore:oredustcrafter"
+      "id": "OD:oredustcrafter"
     },
     {
       "target": "red",
       "weight": 137,
-      "id": "ore:oreramm"
+      "id": "OD:oreramm"
     },
     {
       "target": "yellow",
       "weight": 222,
-      "id": "ore:oreRedhellite"
+      "id": "OD:oreRedhellite"
     },
     {
       "target": "white",
       "weight": 244,
-      "id": "ore:oreredtiger"
+      "id": "OD:oreredtiger"
     },
     {
       "target": "red",
       "weight": 113,
-      "id": "ore:oreLallix"
+      "id": "OD:oreLallix"
     },
     {
       "target": "blue",
       "weight": 163,
-      "id": "ore:oreBlacktiger"
+      "id": "OD:oreBlacktiger"
     }
   ]
 }
