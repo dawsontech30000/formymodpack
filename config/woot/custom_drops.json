@@ -125,6 +125,46 @@
           "chances": [ 100, 100, 100, 100 ]
         }
       ]
+    },
+    {
+      "mobName": "twilightforest:lich",
+      "drops": [
+        {
+          "drop": {
+            "item": "bhc:yellow_heart"
+          },
+          "sizes": [ 1, 1, 1, 1 ],
+          "chances": [ 100, 100, 100, 100]
+        },
+        {
+          "drop": {
+            "item": "twilightforest:shield_scepter"
+          },
+          "sizes": [ 1, 1, 1, 1 ],
+          "chances": [ 100, 100, 100, 100]
+        },
+        {
+          "drop": {
+            "item": "twilightforest:trophy:1"
+          },
+          "sizes": [ 1, 1, 1, 1 ],
+          "chances": [ 100, 100, 100, 100]
+        },
+        {
+          "drop": {
+            "item": "minecraft:bone"
+          },
+          "sizes": [ 1, 1, 1, 1 ],
+          "chances": [ 100, 100, 100, 100]
+        },
+        {
+          "drop": {
+            "item": "twilightforest:miniature_structure:6"
+          },
+          "sizes": [ 1, 1, 1, 1 ],
+          "chances": [ 100, 100, 100, 100]
+        }
+      ]
     }
   ]
 }

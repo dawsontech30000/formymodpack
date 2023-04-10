@@ -30,8 +30,10 @@ recipes.removeShaped(<minecraft:ender_eye>, [[<minecraft:blaze_powder>, <ore:end
 // ================================================================================
 //#MARKER ADD SHAPELESS
 
+
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<roost:catcher>, [[<abyssalcraft:eggp>], [<immersiveengineering:material>], [<totemic:eagle_drops:1>]]);
 recipes.addShaped(<minecraft:ender_eye>, [[<minecraft:blaze_powder>, <minecraft:blaze_powder>, <ore:itemBlazePowder>], [<minecraft:blaze_powder>, <minecraft:ender_pearl>, <ore:itemBlazePowder>], [<ore:itemBlazePowder>, <minecraft:blaze_powder>, <ore:itemBlazePowder>]]);
 recipes.addShaped(<minecraft:brick_block>, [[<ore:ingotBrick>, <ore:ingotBrick>, <minecraft:brick>], [<minecraft:brick>, <ore:ingotBrick>, <ore:ingotBrick>], [<minecraft:brick>, <ore:ingotBrick>, <ore:ingotBrick>]]);
 recipes.addShaped(<tconstruct:seared:3>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <tconstruct:materials>], [<tconstruct:materials>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<tconstruct:materials>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);
