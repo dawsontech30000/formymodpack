@@ -41,6 +41,11 @@
       "id": "OD:oreCoal"
     },
     {
+      "target": "black",
+      "weight": 1000,
+      "id": "OD:wings:fairy_dust_ore"
+    },
+    {
       "target": "white",
       "weight": 750,
       "id": "OD:oreIron"

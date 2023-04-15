@@ -1005,6 +1005,7 @@ recipes.remove(<redstonearsenal:armor.plate_flux>);
 recipes.remove(<redstonearsenal:armor.legs_flux>);
 recipes.remove(<redstonearsenal:armor.boots_flux>);
 
+
 //gelid armor
 recipes.remove(<redstonerepository:armor.helmet_gelid>.withTag({Energy: 0}));
 recipes.remove(<redstonerepository:armor.chestplategelid>.withTag({Energy: 0}));
@@ -1941,62 +1942,185 @@ mods.armorplus.HighTechBench.remove(<draconicadditions:infused_potato_boots>);
 
 
 
+mods.extendedcrafting.TableCrafting.addShaped(0, <tp:dragon_boots>.withTag({}), [
+	[<tp:dragon_scale>, null, <tp:dragon_scale>], 
+	[<tp:dragon_scale>, null, <tp:dragon_scale>], 
+	[<actuallyadditions:item_wings_of_the_bats>, null, <actuallyadditions:item_wings_of_the_bats>]
+]);
 
 
 
+mods.extendedcrafting.TableCrafting.addShaped(0, <tp:dragon_leggings>.withTag({}), [
+	[<actuallyadditions:item_wings_of_the_bats>, <tp:dragon_scale>, <actuallyadditions:item_wings_of_the_bats>], 
+	[<tp:dragon_scale>, null, <tp:dragon_scale>], 
+	[<actuallyadditions:item_wings_of_the_bats>, null, <actuallyadditions:item_wings_of_the_bats>]
+]);
 
 
+mods.extendedcrafting.TableCrafting.addShaped(0, <tp:dragon_chestplate>.withTag({}), [
+	[<extrautils2:angelring:5>, null, <extrautils2:angelring:5>], 
+	[<tp:dragon_scale>, <tp:dragon_scale>, <tp:dragon_scale>], 
+	[<extrautils2:angelring:5>, <tp:dragon_scale>, <extrautils2:angelring:5>]
+]);
 
 
+mods.extendedcrafting.TableCrafting.addShaped(0, <tp:dragon_helmet>.withTag({}), [
+	[<actuallyadditions:item_wings_of_the_bats>, <tp:dragon_scale>, <actuallyadditions:item_wings_of_the_bats>], 
+	[<extrautils2:angelring:5>, null, <extrautils2:angelring:5>], 
+	[null, null, null]
+]);
+//--------------------------------------------------------------------------------------------
+recipes.remove(<armorplus:diamond_helmet>.withTag({}));
 
+recipes.remove(<armorplus:iron_boots>.withTag({}));
 
+recipes.remove(<armorplus:gold_chestplate>.withTag({}));
 
+recipes.remove(<armorplus:chainmail_helmet>.withTag({}));
 
+recipes.remove(<armorplus:chainmail_chestplate>.withTag({}));
 
+recipes.remove(<armorplus:chainmail_leggings>.withTag({}));
 
+recipes.remove(<armorplus:chainmail_boots>.withTag({}));
 
+recipes.remove(<armorplus:diamond_helmet>.withTag({}));
 
+recipes.remove(<armorplus:diamond_chestplate>.withTag({}));
 
+recipes.remove(<armorplus:diamond_leggings>.withTag({}));
 
+recipes.remove(<armorplus:diamond_boots>.withTag({}));
 
+recipes.remove(<armorplus:iron_helmet>.withTag({}));
 
+recipes.remove(<armorplus:iron_chestplate>.withTag({}));
 
+recipes.remove(<armorplus:iron_leggings>.withTag({}));
 
+recipes.remove(<armorplus:iron_boots>.withTag({}));
 
+recipes.remove(<armorplus:gold_helmet>.withTag({}));
 
+recipes.remove(<armorplus:gold_chestplate>.withTag({}));
 
+recipes.remove(<armorplus:gold_leggings>.withTag({}));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+recipes.remove(<armorplus:gold_boots>.withTag({}));
 // ------------------------------------------------------------------
+
+recipes.removeShapeless(<armorplus:diamond_boots>, [<armorplus:diamond_boots>, <nuclearcraft:rad_shielding>]);
+recipes.removeShapeless(<armorplus:diamond_boots>, [<armorplus:diamond_boots>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:diamond_boots>, [<armorplus:diamond_boots>, <nuclearcraft:rad_shielding:2>]);
+
+recipes.removeShapeless(<armorplus:diamond_chestplate>, [<armorplus:diamond_chestplate>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:diamond_chestplate>, [<armorplus:diamond_chestplate>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:diamond_chestplate>, [<armorplus:diamond_chestplate>, <nuclearcraft:rad_shielding>]);
+
+recipes.removeShapeless(<armorplus:diamond_leggings>, [<armorplus:diamond_leggings>, <nuclearcraft:rad_shielding>]);
+recipes.removeShapeless(<armorplus:diamond_leggings>, [<armorplus:diamond_leggings>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:diamond_leggings>, [<armorplus:diamond_leggings>, <nuclearcraft:rad_shielding:2>]);
+
+recipes.removeShapeless(<armorplus:diamond_helmet>, [<armorplus:diamond_helmet>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:diamond_helmet>, [<armorplus:diamond_helmet>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:diamond_helmet>, [<armorplus:diamond_helmet>, <nuclearcraft:rad_shielding>]);
+
+
+recipes.removeShapeless(<armorplus:gold_boots>, [<armorplus:gold_boots>, <nuclearcraft:rad_shielding>]);
+recipes.removeShapeless(<armorplus:gold_boots>, [<armorplus:gold_boots>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:gold_boots>, [<armorplus:gold_boots>, <nuclearcraft:rad_shielding:2>]);
+
+recipes.removeShapeless(<armorplus:gold_leggings>, [<armorplus:gold_leggings>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:gold_leggings>, [<armorplus:gold_leggings>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:gold_leggings>, [<armorplus:gold_leggings>, <nuclearcraft:rad_shielding>]);
+
+recipes.removeShapeless(<armorplus:gold_chestplate>, [<armorplus:gold_chestplate>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:gold_chestplate>, [<armorplus:gold_chestplate>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:gold_chestplate>, [<armorplus:gold_chestplate>, <nuclearcraft:rad_shielding>]);
+
+recipes.removeShapeless(<armorplus:gold_helmet>, [<armorplus:gold_helmet>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:gold_helmet>, [<armorplus:gold_helmet>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:gold_helmet>, [<armorplus:gold_helmet>, <nuclearcraft:rad_shielding>]);
+
+
+
+
+recipes.removeShapeless(<armorplus:chainmail_helmet>, [<armorplus:chainmail_helmet>, <nuclearcraft:rad_shielding>]);
+recipes.removeShapeless(<armorplus:chainmail_helmet>, [<armorplus:chainmail_helmet>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:chainmail_helmet>, [<armorplus:chainmail_helmet>, <nuclearcraft:rad_shielding:2>]);
+
+
+recipes.removeShapeless(<armorplus:chainmail_chestplate>, [<armorplus:chainmail_chestplate>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:chainmail_chestplate>, [<armorplus:chainmail_chestplate>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:chainmail_chestplate>, [<armorplus:chainmail_chestplate>, <nuclearcraft:rad_shielding>]);
+
+recipes.removeShapeless(<armorplus:chainmail_leggings>, [<armorplus:chainmail_leggings>, <nuclearcraft:rad_shielding>]);
+recipes.removeShapeless(<armorplus:chainmail_leggings>, [<armorplus:chainmail_leggings>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:chainmail_leggings>, [<armorplus:chainmail_leggings>, <nuclearcraft:rad_shielding:2>]);
+
+recipes.removeShapeless(<armorplus:chainmail_boots>, [<armorplus:chainmail_boots>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:chainmail_boots>, [<armorplus:chainmail_boots>, <nuclearcraft:rad_shielding>]);
+recipes.removeShapeless(<armorplus:chainmail_boots>, [<armorplus:chainmail_boots>, <nuclearcraft:rad_shielding:1>]);
+
+recipes.removeShapeless(<armorplus:iron_boots>, [<armorplus:iron_boots>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:iron_boots>, [<armorplus:iron_boots>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:iron_boots>, [<armorplus:iron_boots>, <nuclearcraft:rad_shielding>]);
+
+recipes.removeShapeless(<armorplus:iron_leggings>, [<armorplus:iron_leggings>, <nuclearcraft:rad_shielding>]);
+recipes.removeShapeless(<armorplus:iron_leggings>, [<armorplus:iron_leggings>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:iron_leggings>, [<armorplus:iron_leggings>, <nuclearcraft:rad_shielding:2>]);
+
+recipes.removeShapeless(<armorplus:iron_chestplate>, [<armorplus:iron_chestplate>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:iron_chestplate>, [<armorplus:iron_chestplate>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:iron_chestplate>, [<armorplus:iron_chestplate>, <nuclearcraft:rad_shielding>]);
+
+recipes.removeShapeless(<armorplus:iron_helmet>, [<armorplus:iron_helmet>, <nuclearcraft:rad_shielding:2>]);
+recipes.removeShapeless(<armorplus:iron_helmet>, [<armorplus:iron_helmet>, <nuclearcraft:rad_shielding:1>]);
+recipes.removeShapeless(<armorplus:iron_helmet>, [<armorplus:iron_helmet>, <nuclearcraft:rad_shielding>]);
+
+
+recipes.removeShapeless(<minecraft:ender_eye>, [<minecraft:blaze_powder>, <ore:enderpearl>]);
+recipes.removeShapeless(<tconstruct:seared:3>, [<ore:blockSeared>]);
+
+
+recipes.removeShapeless(<fluxnetworks:fluxpoint>, [<fluxnetworks:fluxpoint>]);
+recipes.removeShapeless(<fluxnetworks:fluxplug>, [<fluxnetworks:fluxplug>]);
+
+
+
+
+
+// Speedy Hopper I
+recipes.remove(<speedyhoppers:speedyhopper_mk1>);
+recipes.addShaped(<speedyhoppers:speedyhopper_mk1> * 1, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:hopper>, <minecraft:iron_block>],[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
+
+// Speedy Hopper II
+recipes.remove(<speedyhoppers:speedyhopper_mk2>);
+recipes.addShaped(<speedyhoppers:speedyhopper_mk2> * 1, [[<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>], [<minecraft:gold_block>, <minecraft:hopper>, <minecraft:gold_block>],[<minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>]]);
+
+// Speedy Hopper III
+recipes.remove(<speedyhoppers:speedyhopper_mk3>);
+recipes.addShaped(<speedyhoppers:speedyhopper_mk3> * 1, [[<minecraft:diamond_block>, <minecraft:diamond_block>, <minecraft:diamond_block>], [<minecraft:diamond_block>, <minecraft:hopper>, <minecraft:diamond_block>],[<minecraft:diamond_block>, <minecraft:diamond_block>, <minecraft:diamond_block>]]);
+
+
+
+
+
+
+
+
+
+
+
+
+//-------------------------------------------------------------------
+
+recipes.addShaped(<roost:catcher>, [[<abyssalcraft:eggp>], [<immersiveengineering:material>], [<totemic:eagle_drops:1>]]);
+recipes.addShaped(<minecraft:ender_eye>, [[<minecraft:blaze_powder>, <minecraft:blaze_powder>, <ore:itemBlazePowder>], [<minecraft:blaze_powder>, <minecraft:ender_pearl>, <ore:itemBlazePowder>], [<ore:itemBlazePowder>, <minecraft:blaze_powder>, <ore:itemBlazePowder>]]);
+recipes.addShaped(<minecraft:brick_block>, [[<ore:ingotBrick>, <ore:ingotBrick>, <minecraft:brick>], [<minecraft:brick>, <ore:ingotBrick>, <ore:ingotBrick>], [<minecraft:brick>, <ore:ingotBrick>, <ore:ingotBrick>]]);
+recipes.addShaped(<tconstruct:seared:3>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <tconstruct:materials>], [<tconstruct:materials>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<tconstruct:materials>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);
+recipes.addShaped(<minecraft:clay>, [[<ore:clay>, <ore:clay>, <minecraft:clay_ball>], [<minecraft:clay_ball>, <ore:clay>, <ore:clay>], [<minecraft:clay_ball>, <ore:clay>, <ore:clay>]]);
+recipes.addShaped(<minecraft:nether_brick>, [[<ore:ingotBrickNether>, <ore:ingotBrickNether>, <minecraft:netherbrick>], [<minecraft:netherbrick>, <ore:ingotBrickNether>, <ore:ingotBrickNether>], [<minecraft:netherbrick>, <ore:ingotBrickNether>, <ore:ingotBrickNether>]]);
+
+recipes.removeShaped(<minecraft:ender_eye>, [[<minecraft:blaze_powder>, <ore:enderpearl>]]);
+
