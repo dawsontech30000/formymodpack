@@ -178,6 +178,7 @@
   "coldblooded",
   "bouncy_armor",
   "sharp",
+  "jaded",
   "flame2",
   "apocalypse",
   "spades",
