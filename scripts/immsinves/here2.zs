@@ -37,11 +37,5 @@ import mods.TweakedExcavation.TweakedMineral;
     TweakedExcavator.getTweakedMineral(String name);
 */
 
-    var powerTier3 = TweakedPowerTier.registerPowerTier(6400000080000, 4096000);
-    var mineral1 = TweakedExcavator.getTweakedMineral("Test1");
-    mineral1.powerTier = powerTier3;
-
-    var mineral2 = TweakedExcavator.getTweakedMineral("Test2");
-    mineral2.yield = 180;
 
     

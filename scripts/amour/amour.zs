@@ -4,6 +4,8 @@ import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.item.IIngredient;
 
 
+
+
 mods.extendedcrafting.CombinationCrafting.addRecipe(<minecraft:iron_helmet>, 
 	100000000, 1000000, 
 	<minecraft:leather_helmet>, 
@@ -766,123 +768,123 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<armorplus:chicken_boots>,
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 // chicken to coal
-mods.botania.RuneAltar.addRecipe(<armorplus:coal_helmet>,[<armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:coal_chestplate>,[<armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:coal_leggings>,[<armorplus:chicken_leggings>, <armorplus:chicken_leggings>, <armorplus:chicken_leggings>, <armorplus:chicken_leggings>, <armorplus:chicken_leggings>, <armorplus:chicken_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:coal_boots>,[<armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:coal_helmet>,[<armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>, <armorplus:chicken_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:coal_chestplate>,[<armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>, <armorplus:chicken_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:coal_leggings>,[<armorplus:chicken_leggings>, <armorplus:chicken_leggings>, <armorplus:chicken_leggings>, <armorplus:chicken_leggings>, <armorplus:chicken_leggings>, <armorplus:chicken_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:coal_boots>,[<armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>, <armorplus:chicken_boots>], 5000);
 
-mods.botania.RuneAltar.addRecipe(<armorplus:redstone_helmet>,[<armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:redstone_chestplate>,[<armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:redstone_leggings>,[<armorplus:coal_leggings>, <armorplus:coal_leggings>, <armorplus:coal_leggings>, <armorplus:coal_leggings>, <armorplus:coal_leggings>, <armorplus:coal_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:redstone_boots>,[<armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:redstone_helmet>,[<armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>, <armorplus:coal_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:redstone_chestplate>,[<armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>, <armorplus:coal_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:redstone_leggings>,[<armorplus:coal_leggings>, <armorplus:coal_leggings>, <armorplus:coal_leggings>, <armorplus:coal_leggings>, <armorplus:coal_leggings>, <armorplus:coal_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:redstone_boots>,[<armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>, <armorplus:coal_boots>], 5000);
 
-mods.botania.RuneAltar.addRecipe(<armorplus:lapis_helmet>,[<armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:lapis_chestplate>,[<armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:lapis_leggings>,[<armorplus:redstone_leggings>, <armorplus:redstone_leggings>, <armorplus:redstone_leggings>, <armorplus:redstone_leggings>, <armorplus:redstone_leggings>, <armorplus:redstone_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:lapis_boots>,[<armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>], 1000);
-
-
-mods.botania.RuneAltar.addRecipe(<armorplus:slime_helmet>,[<armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:slime_chestplate>,[<armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:slime_leggings>,[<armorplus:lapis_leggings>, <armorplus:lapis_leggings>, <armorplus:lapis_leggings>, <armorplus:lapis_leggings>, <armorplus:lapis_leggings>, <armorplus:lapis_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:slime_boots>,[<armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:lapis_helmet>,[<armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>, <armorplus:redstone_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:lapis_chestplate>,[<armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>, <armorplus:redstone_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:lapis_leggings>,[<armorplus:redstone_leggings>, <armorplus:redstone_leggings>, <armorplus:redstone_leggings>, <armorplus:redstone_leggings>, <armorplus:redstone_leggings>, <armorplus:redstone_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:lapis_boots>,[<armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>, <armorplus:redstone_boots>], 5000);
 
 
-mods.botania.RuneAltar.addRecipe(<armorplus:cobalt_helmet>,[<armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:cobalt_chestplate>,[<armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:cobalt_leggings>,[<armorplus:slime_leggings>, <armorplus:slime_leggings>, <armorplus:slime_leggings>, <armorplus:slime_leggings>, <armorplus:slime_leggings>, <armorplus:slime_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:cobalt_boots>,[<armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>], 1000);
-
-mods.botania.RuneAltar.addRecipe(<armorplus:ardite_helmet>,[<armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:ardite_chestplate>,[<armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:ardite_leggings>,[<armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:ardite_boots>,[<armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:slime_helmet>,[<armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>, <armorplus:lapis_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:slime_chestplate>,[<armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>, <armorplus:lapis_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:slime_leggings>,[<armorplus:lapis_leggings>, <armorplus:lapis_leggings>, <armorplus:lapis_leggings>, <armorplus:lapis_leggings>, <armorplus:lapis_leggings>, <armorplus:lapis_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:slime_boots>,[<armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>, <armorplus:lapis_boots>], 5000);
 
 
-mods.botania.RuneAltar.addRecipe(<armorplus:manyullyn_helmet>,[<armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:manyullyn_chestplate>,[<armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:manyullyn_leggings>,[<armorplus:ardite_leggings>, <armorplus:ardite_leggings>, <armorplus:ardite_leggings>, <armorplus:ardite_leggings>, <armorplus:ardite_leggings>, <armorplus:ardite_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:manyullyn_boots>,[<armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:cobalt_helmet>,[<armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>, <armorplus:slime_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:cobalt_chestplate>,[<armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>, <armorplus:slime_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:cobalt_leggings>,[<armorplus:slime_leggings>, <armorplus:slime_leggings>, <armorplus:slime_leggings>, <armorplus:slime_leggings>, <armorplus:slime_leggings>, <armorplus:slime_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:cobalt_boots>,[<armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>, <armorplus:slime_boots>], 5000);
+
+mods.botania.RuneAltar.addRecipe(<armorplus:ardite_helmet>,[<armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>, <armorplus:cobalt_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:ardite_chestplate>,[<armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>, <armorplus:cobalt_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:ardite_leggings>,[<armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>, <armorplus:cobalt_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:ardite_boots>,[<armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>, <armorplus:cobalt_boots>], 5000);
 
 
-mods.botania.RuneAltar.addRecipe(<armorplus:pig_iron_helmet>,[<armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:pig_iron_chestplate>,[<armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:pig_iron_leggings>,[<armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:pig_iron_boots>,[<armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:manyullyn_helmet>,[<armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>, <armorplus:ardite_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:manyullyn_chestplate>,[<armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>, <armorplus:ardite_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:manyullyn_leggings>,[<armorplus:ardite_leggings>, <armorplus:ardite_leggings>, <armorplus:ardite_leggings>, <armorplus:ardite_leggings>, <armorplus:ardite_leggings>, <armorplus:ardite_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:manyullyn_boots>,[<armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>, <armorplus:ardite_boots>], 5000);
 
 
-
-mods.botania.RuneAltar.addRecipe(<armorplus:obsidian_helmet>,[<armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:obsidian_chestplate>,[<armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:obsidian_leggings>,[<armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:obsidian_boots>,[<armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:pig_iron_helmet>,[<armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>, <armorplus:manyullyn_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:pig_iron_chestplate>,[<armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>, <armorplus:manyullyn_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:pig_iron_leggings>,[<armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>, <armorplus:manyullyn_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:pig_iron_boots>,[<armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>, <armorplus:manyullyn_boots>], 5000);
 
 
 
-mods.botania.RuneAltar.addRecipe(<armorplus:knight_slime_helmet>,[<armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:knight_slime_chestplate>,[<armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:knight_slime_leggings>,[<armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:knight_slime_boots>,[<armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>], 1000);
-
-
-mods.botania.RuneAltar.addRecipe(<armorplus:infused_lava_helmet>,[<armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:infused_lava_chestplate>,[<armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:infused_lava_leggings>,[<armorplus:emerald_leggings>, <armorplus:emerald_leggings>, <armorplus:emerald_leggings>, <armorplus:emerald_leggings>, <armorplus:emerald_leggings>, <armorplus:emerald_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:infused_lava_boots>,[<armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:obsidian_helmet>,[<armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>, <armorplus:pig_iron_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:obsidian_chestplate>,[<armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>, <armorplus:pig_iron_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:obsidian_leggings>,[<armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>, <armorplus:pig_iron_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:obsidian_boots>,[<armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>, <armorplus:pig_iron_boots>], 5000);
 
 
 
+mods.botania.RuneAltar.addRecipe(<armorplus:knight_slime_helmet>,[<armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>, <armorplus:obsidian_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:knight_slime_chestplate>,[<armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>, <armorplus:obsidian_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:knight_slime_leggings>,[<armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>, <armorplus:obsidian_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:knight_slime_boots>,[<armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>, <armorplus:obsidian_boots>], 5000);
 
 
-
-mods.botania.RuneAltar.addRecipe(<armorplus:the_ultimate_helmet>.withTag({ncRadiationResistance: 0.1}),[<armorplus:infused_lava_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:the_ultimate_chestplate>,[<armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:the_ultimate_leggings>,[<armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:the_ultimate_boots>,[<armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>], 1000);
-
-
-mods.botania.RuneAltar.addRecipe(<armorplus:ender_dragon_helmet>,[<armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:ender_dragon_chestplate>,[<armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:ender_dragon_leggings>,[<armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:ender_dragon_boots>,[<armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>], 1000);
-
-
-
-
-mods.botania.RuneAltar.addRecipe(<armorplus:guardian_helmet>,[<armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:guardian_chestplate>,[<armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:guardian_leggings>,[<armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:guardian_boots>,[<armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:infused_lava_helmet>,[<armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:infused_lava_chestplate>,[<armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>, <armorplus:emerald_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:infused_lava_leggings>,[<armorplus:emerald_leggings>, <armorplus:emerald_leggings>, <armorplus:emerald_leggings>, <armorplus:emerald_leggings>, <armorplus:emerald_leggings>, <armorplus:emerald_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:infused_lava_boots>,[<armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>, <armorplus:emerald_boots>], 5000);
 
 
 
 
 
-mods.botania.RuneAltar.addRecipe(<armorplus:super_star_helmet>,[<armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:super_star_chestplate>,[<armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:super_star_leggings>,[<armorplus:guardian_leggings>, <armorplus:guardian_leggings>, <armorplus:guardian_leggings>, <armorplus:guardian_leggings>, <armorplus:guardian_leggings>, <armorplus:guardian_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:super_star_boots>,[<armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>], 1000);
+
+mods.botania.RuneAltar.addRecipe(<armorplus:the_ultimate_helmet>.withTag({ncRadiationResistance: 0.1}),[<armorplus:infused_lava_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>, <armorplus:emerald_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:the_ultimate_chestplate>,[<armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>, <armorplus:infused_lava_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:the_ultimate_leggings>,[<armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:the_ultimate_boots>,[<armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>], 5000);
+
+
+mods.botania.RuneAltar.addRecipe(<armorplus:ender_dragon_helmet>,[<armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>, <armorplus:the_ultimate_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:ender_dragon_chestplate>,[<armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>, <armorplus:the_ultimate_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:ender_dragon_leggings>,[<armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>, <armorplus:the_ultimate_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:ender_dragon_boots>,[<armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>, <armorplus:the_ultimate_boots>], 5000);
+
+
+
+
+mods.botania.RuneAltar.addRecipe(<armorplus:guardian_helmet>,[<armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>, <armorplus:ender_dragon_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:guardian_chestplate>,[<armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>, <armorplus:ender_dragon_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:guardian_leggings>,[<armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>, <armorplus:ender_dragon_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:guardian_boots>,[<armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>, <armorplus:ender_dragon_boots>], 5000);
 
 
 
 
 
-mods.botania.RuneAltar.addRecipe(<armorplus:emerald_helmet>,[<armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:emerald_chestplate>,[<armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:emerald_leggings>,[<armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>], 1000);
-mods.botania.RuneAltar.addRecipe(<armorplus:emerald_boots>,[<armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>], 1000);
+mods.botania.RuneAltar.addRecipe(<armorplus:super_star_helmet>,[<armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>, <armorplus:guardian_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:super_star_chestplate>,[<armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>, <armorplus:guardian_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:super_star_leggings>,[<armorplus:guardian_leggings>, <armorplus:guardian_leggings>, <armorplus:guardian_leggings>, <armorplus:guardian_leggings>, <armorplus:guardian_leggings>, <armorplus:guardian_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:super_star_boots>,[<armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>, <armorplus:guardian_boots>], 5000);
+
+
+
+
+
+mods.botania.RuneAltar.addRecipe(<armorplus:emerald_helmet>,[<armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>, <armorplus:knight_slime_helmet>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:emerald_chestplate>,[<armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>, <armorplus:knight_slime_chestplate>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:emerald_leggings>,[<armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>, <armorplus:knight_slime_leggings>], 5000);
+mods.botania.RuneAltar.addRecipe(<armorplus:emerald_boots>,[<armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>, <armorplus:knight_slime_boots>], 5000);
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1217,6 +1219,26 @@ mods.armorplus.UltiTechBench.remove(<armorplus:the_ultimate_helmet>);
 mods.armorplus.UltiTechBench.remove(<armorplus:the_ultimate_chestplate>.withTag({ncRadiationResistance: 0.01}));
 mods.armorplus.UltiTechBench.remove(<armorplus:the_ultimate_leggings>);
 mods.armorplus.UltiTechBench.remove(<armorplus:the_ultimate_boots>);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
