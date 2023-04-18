@@ -1,10 +1,3 @@
-
- 
- 
- 
-
-
-
 mods.mekanism.infuser.addRecipe("REDSTONE", 80, <minecraft:gold_ingot>, <thermalfoundation:material:513>);
 mods.mekanism.infuser.addRecipe("CARBON", 80, <enderio:item_alloy_endergy_ingot:5>, <thermalfoundation:material:514>);
 mods.mekanism.infuser.addRecipe("DIAMOND", 80, <enderio:item_alloy_ingot:4>, <thermalfoundation:material:515>);
