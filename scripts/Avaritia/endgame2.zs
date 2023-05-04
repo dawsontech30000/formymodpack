@@ -52,6 +52,7 @@ recipes.remove(<expandableinventory:dragon_expander>);
 recipes.addShaped(<expandableinventory:dragon_expander> * 1, [[<minecraft:dragon_egg>, <armorplus:material:3>, <minecraft:dragon_egg>], [<expandableinventory:golden_expander>, <expandableinventory:nether_expander>, <expandableinventory:iron_expander>],[<minecraft:dragon_egg>, <expandableinventory:diamond_expander>, <minecraft:dragon_egg>]]);
 
 
+
 //----------------------------------------------------------------------------------------------------------
 mods.extendedcrafting.CompressionCrafting.addRecipe(<contenttweaker:infinite_singularity>, 
 <avaritia:block_resource:1>, 100000000, <extendedcrafting:material:11>, 100000);
