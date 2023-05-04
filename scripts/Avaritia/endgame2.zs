@@ -341,3 +341,36 @@ mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity
 mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_243_carbide>, 
 <jaopca:block.americium_243_carbide>, 100000000, <extendedcrafting:material:11>, 100000);
 
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_243>, 
+<nuclearcraft:fertile_isotope:3>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_242_z_a>, 
+<jaopca:block.americium_242_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_242_oxide>, 
+<jaopca:block.americium_242_oxide>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_242_nitride>, 
+<jaopca:block.americium_242_nitride>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_242_carbide>, 
+<jaopca:block.americium_242_carbide>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_242>, 
+<jaopca:block.americium_242>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_241_z_a>, 
+<jaopca:block.americium_241_z_a>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_241_oxide>, 
+<jaopca:block.americium_241_oxide>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_241_nitride>, 
+<jaopca:block.americium_241_nitride>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_241_carbide>, 
+<jaopca:block.americium_241_carbide>, 100000000, <extendedcrafting:material:11>, 100000);
+
+mods.extendedcrafting.CompressionCrafting.addRecipe(<jaopca:avaritia_singularity.americium_241>, 
+<jaopca:block.americium_241>, 100000000, <extendedcrafting:material:11>, 100000);
+
