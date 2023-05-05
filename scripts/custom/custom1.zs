@@ -99,6 +99,27 @@ neutral11.rarity = "rare";
 neutral11.register();
 
 
+//neutral steel 14
+var neutral11 = VanillaFactory.createItem("neutral_steel_14");
+neutral11.maxStackSize = 64;
+neutral11.rarity = "rare";
+neutral11.register();
+
+//neutral steel 15
+var neutral11 = VanillaFactory.createItem("neutral_steel_15");
+neutral11.maxStackSize = 64;
+neutral11.rarity = "rare";
+neutral11.register();
+
+//neutral steel 16
+var neutral11 = VanillaFactory.createItem("neutral_steel_16");
+neutral11.maxStackSize = 64;
+neutral11.rarity = "rare";
+neutral11.register();
+
+
+
+
 
 //omen ingot
 var omen = VanillaFactory.createItem("omen_ingot");
