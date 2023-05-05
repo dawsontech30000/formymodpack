@@ -10,9 +10,9 @@ mods.thermalexpansion.Transposer.addFillRecipe(<contenttweaker:neutral_steel_4>,
 
 
 
-mods.thermalexpansion.Transposer.addFillRecipe(<contenttweaker:neutral_steel_5>, <contenttweaker:neutral_steel_4>, <nuclearcraft:fluid_steel> * 2000, 5000);
+mods.thermalexpansion.Transposer.addFillRecipe(<contenttweaker:neutral_steel_5>, <contenttweaker:neutral_steel_4>, <liquid:steel> * 2000, 5000);
 
-mods.thermalexpansion.Transposer.addFillRecipe(<contenttweaker:neutral_steel_6>, <contenttweaker:neutral_steel_5>, <plustic:plustic.molten_terrasteel> * 2000, 5000);
+mods.thermalexpansion.Transposer.addFillRecipe(<contenttweaker:neutral_steel_6>, <contenttweaker:neutral_steel_5>, <liquid:terrasteel> * 2000, 5000);
 
 
 
