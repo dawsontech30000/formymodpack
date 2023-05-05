@@ -11,6 +11,14 @@ r.maxStackSize = 64;
 r.rarity = "epic";
 r.register();
 
+//Epeolatry
+var epeo = VanillaFactory.createItem("epeolatry");
+epeo.maxStackSize = 1;
+epeo.rarity = "epic";
+epeo.toolClass = "sword";
+epeo.register();
+
+
 //neutral steel 1
 var neutral = VanillaFactory.createItem("neutral_steel_1");
 neutral.maxStackSize = 64;
@@ -76,3 +84,9 @@ var neutral11 = VanillaFactory.createItem("neutral_steel_11");
 neutral11.maxStackSize = 64;
 neutral11.rarity = "rare";
 neutral11.register();
+
+//omen ingot
+var omen = VanillaFactory.createItem("omen_ingot");
+omen.maxStackSize = 64;
+omen.rarity = "rare";
+omen.register();
