@@ -85,6 +85,15 @@ neutral11.maxStackSize = 64;
 neutral11.rarity = "rare";
 neutral11.register();
 
+//neutral steel 12
+var neutral11 = VanillaFactory.createItem("neutral_steel_12");
+neutral11.maxStackSize = 64;
+neutral11.rarity = "rare";
+neutral11.register();
+
+
+
+
 //omen ingot
 var omen = VanillaFactory.createItem("omen_ingot");
 omen.maxStackSize = 64;
