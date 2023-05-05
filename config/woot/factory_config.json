@@ -194,11 +194,11 @@
       ]
     },
     {
-      "mobName": "minecraft:zombie_pigman",
+      "mobName": "twilightforest:lich",
       "configs": [
         {
           "tag": "factory_tier",
-          "value": 2
+          "value": 4
         }
       ]
     }
@@ -207,22 +207,17 @@
     "botania"
   ],
   "entityblacklist": [
-    "twilightforest:naga",
-    "twilightforest:minoshroom",
-    "twilightforest:hydra",
-    "twilightforest:ur_ghast",
-    "twilightforest:yeti_alpha",
-    "twilightforest:snow_queen",
-    "twilightforest:giant_miner",
-    "twilightforest:armored_giant"
+
   ],
   "entitywhitelist": [
+    "twilightforest:lich"
   ],
   "itemmodblacklist": [
   ],
   "itemblacklist": [
   ],
   "entitygenerateonlylist": [
-  ]
+   "twilightforest:lich"
+    ]
 }
 
