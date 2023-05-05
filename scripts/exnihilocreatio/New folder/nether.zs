@@ -1,4 +1,3 @@
-import mods.exnihilocreatio.Sieve;
 
 // added today 12:01 09/08/2022  moved on and edit on 11/09/2022
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_netherrack_crushed>, <exnihilocreatio:item_ore_cobalt:1>, 0.320);

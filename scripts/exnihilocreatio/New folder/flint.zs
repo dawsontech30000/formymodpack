@@ -1,4 +1,3 @@
-import mods.exnihilocreatio.Sieve;
 
 // new today
 Sieve.addFlintMeshRecipe(<minecraft:gravel>, <exnihilocreatio:item_ore_gold:1>, 0.150);
