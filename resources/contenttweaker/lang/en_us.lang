@@ -60,11 +60,17 @@ item.contenttweaker.neutral_steel_8.name=Neutral Steel of the Eighth Degree
 item.contenttweaker.neutral_steel_9.name=Neutral Steel of the Ninth Degree
 item.contenttweaker.neutral_steel_10.name=Neutral Steel of the Tenth Degree
 item.contenttweaker.neutral_steel_11.name=Neutral Steel of the Eleventh Degree
-item.contenttweaker.neutral_steel_11.name=Neutral Steel of the Twelve Degree
+item.contenttweaker.neutral_steel_12.name=Neutral Steel of the Twelve Degree
+item.contenttweaker.neutral_steel_13.name=Neutral Steel of the Thirteen Degree
+item.contenttweaker.neutral_steel_14.name=Neutral Steel of the Fourteen Degree
+item.contenttweaker.neutral_steel_15.name=Neutral Steel of the Fifteen Degree
+item.contenttweaker.neutral_steel_15.name=Neutral Steel of the Sixteen Degree
+
+
+
+
 
 item.contenttweaker.rak_coin.name=RAK
-
-
 item.contenttweaker.epeolatry.name=Epeolatry
 item.contenttweaker.got_metal.name=Gottobememanian Metal
 item.contenttweaker.jak_metal.name=Jakeoide Metal
