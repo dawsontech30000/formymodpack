@@ -60,6 +60,7 @@ item.contenttweaker.neutral_steel_8.name=Neutral Steel of the Eighth Degree
 item.contenttweaker.neutral_steel_9.name=Neutral Steel of the Ninth Degree
 item.contenttweaker.neutral_steel_10.name=Neutral Steel of the Tenth Degree
 item.contenttweaker.neutral_steel_11.name=Neutral Steel of the Eleventh Degree
+
 item.contenttweaker.neutral_steel_12.name=Neutral Steel of the Twelve Degree
 item.contenttweaker.neutral_steel_13.name=Neutral Steel of the Thirteen Degree
 item.contenttweaker.neutral_steel_14.name=Neutral Steel of the Fourteen Degree
@@ -88,3 +89,4 @@ item.contenttweaker.ann_metal.name=AnnoyedCherryous Metal
 item.contenttweaker.sin_metal.name=Sinfuldeityic Metal
 item.contenttweaker.hyp_metal.name=Hypnotizdous Metal
 item.contenttweaker.edd_metal.name=EddieRuckusite Metal
+item.contenttweaker.omen_ingot.name=Omen Ingot
