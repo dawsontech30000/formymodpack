@@ -1,4 +1,0 @@
-
-
-recipes.remove(<tesseract:tesseract>);
-
