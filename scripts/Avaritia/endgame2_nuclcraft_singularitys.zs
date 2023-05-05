@@ -3,6 +3,8 @@
 // main 
 
 
+
+
 // Cobblestone Generator
 recipes.remove(<tp:cobblegen_block>);
 recipes.addShaped(<tp:cobblegen_block> * 1, [[<extrautils2:compressedcobblestone:1>, <minecraft:iron_block>, <extrautils2:compressedcobblestone:1>], [<minecraft:iron_block>, <nuclearcraft:cobblestone_generator>, <minecraft:iron_block>],[<extrautils2:compressedcobblestone:1>, <minecraft:iron_block>, <extrautils2:compressedcobblestone:1>]]);
