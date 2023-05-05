@@ -47,3 +47,18 @@ mods.astralsorcery.Altar.addAttunementAltarRecipe("po3:shaped/internal/altar/sta
 mods.astralsorcery.Altar.addAttunementAltarRecipe("po3:shaped/internal/altar/jadeseeds", <mysticalagriculture:jade_seeds>, 500, 300, [<ore:blockJade>, <ore:dustAstralStarmetal>, <ore:blockJade>, <ore:dustAstralStarmetal>, <mysticalagriculture:crafting:20>, <ore:dustAstralStarmetal>, <ore:blockJade>, <ore:dustAstralStarmetal>, <ore:blockJade>, <ore:essenceSuperium>, <ore:essenceSuperium>, <ore:essenceSuperium>, <ore:essenceSuperium>]);
 mods.astralsorcery.Altar.addAttunementAltarRecipe("po3:shaped/internal/altar/compressedironseeds", <mysticalagriculture:compressed_iron_seeds>, 500, 300, [<ore:blockIronCompressed>, <ore:dustAstralStarmetal>, <ore:blockIronCompressed>, <ore:dustAstralStarmetal>, <mysticalagriculture:crafting:20>, <ore:dustAstralStarmetal>, <ore:blockIronCompressed>, <ore:dustAstralStarmetal>, <ore:blockIronCompressed>, <ore:essenceSuperium>, <ore:essenceSuperium>, <ore:essenceSuperium>, <ore:essenceSuperium>]);
 mods.astralsorcery.Altar.addAttunementAltarRecipe("po3:shaped/internal/altar/fluixseeds", <mysticalagriculture:fluix_seeds>, 500, 300, [<mysticalagriculture:certus_quartz_seeds>, <ore:dustAstralStarmetal>, <mysticalagriculture:nether_quartz_seeds>, <ore:dustAstralStarmetal>, <mysticalagriculture:crafting:20>, <ore:dustAstralStarmetal>, <appliedenergistics2:fluix_block>, <ore:dustAstralStarmetal>, <appliedenergistics2:fluix_block>, <ore:essenceSuperium>, <ore:essenceSuperium>, <ore:essenceSuperium>, <ore:essenceSuperium>]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
