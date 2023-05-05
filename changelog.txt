@@ -1,3 +1,6 @@
 05/05/2023
 github now working correctly
 started end game gateway
+
+
+draconic ev now nerfed
