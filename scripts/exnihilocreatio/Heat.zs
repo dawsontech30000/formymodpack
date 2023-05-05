@@ -53,3 +53,12 @@ mods.exnihilocreatio.Heat.addRecipe(<actuallyadditions:block_crystal_empowered:3
 mods.exnihilocreatio.Heat.addRecipe(<actuallyadditions:block_crystal_empowered:4>, 12000);
 mods.exnihilocreatio.Heat.addRecipe(<actuallyadditions:block_crystal_empowered:5>, 13000);
 
+
+
+
+
+
+
+
+
+
