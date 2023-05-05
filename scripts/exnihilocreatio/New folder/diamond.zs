@@ -88,3 +88,28 @@ Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkredtiger>, 0.350
 Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkshinium>, 0.350);
 Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkskymium>, 0.350);
 Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkstar>, 0.350);
+
+
+//diamond
+
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkvibranium>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkviolet>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkvirinium>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkwarlock>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkwhitetiger>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkxaelium>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkxodias>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkyellowtiger>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkzephyrus>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkzinc>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkzogite>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkzollernium>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkstarwars>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunksteel>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunktechguy>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkthorium>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunksyrmorite>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunktiger>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunktitanium>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunktungsten>, 0.350);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <jaopca:item_hunkuranium>, 0.350);
