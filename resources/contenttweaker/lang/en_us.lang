@@ -96,3 +96,42 @@ item.contenttweaker.sin_metal.name=Sinfuldeityic Metal
 item.contenttweaker.hyp_metal.name=Hypnotizdous Metal
 item.contenttweaker.edd_metal.name=EddieRuckusite Metal
 item.contenttweaker.omen_ingot.name=Omen Ingot
+
+
+
+
+
+
+entity.infinitychicken.name=Infinity Chicken
+entity.Neutroniumchicken.name=Neutronium chicken
+entity.nuggetCosmicNeutroniumchicken.name=nuggetCosmicNeutronium chicken
+entity.pile_of_neutrons_chicken.name=PileOfNeutronsChicken
+entity.blackironchicken.name=blackironchicken
+
+
+
+
+item.contenttweaker.scheduling_processor.name=Scheduling Processor
+item.contenttweaker.inscriber_operation_press.name=Inscriber Operation Press
+item.contenttweaker.inscriber_estimation_press.name=Inscriber Estimation Press
+item.contenttweaker.inscriber_methodology_press.name=Inscriber Methodology Press
+item.contenttweaker.inscriber_clearance_press.name=Inscriber Clearance Press
+item.contenttweaker.inscriber_scheduling_press.name=Inscriber Scheduling Press
+
+
+item.contenttweaker.printed_estimation_circuit.name=Printed Estimation Circuit
+item.contenttweaker.estimation_processor.name=Estimation Processor
+item.contenttweaker.printed_methodolgy_circuit.name=Printed Methodology Circuit
+item.contenttweaker.methodology_processor.name=Methodology Processor
+item.contenttweaker.printed_clearance_circuit.name=Printed Clearance Circuit
+item.contenttweaker.clearance_processor.name=Clearance Processor
+item.contenttweaker.printed_scheduling_circuit.name=Printed Scheduling Circuit
+
+
+item.contenttweaker.printed_operation_circuit.name=Printed Operation Circuit
+item.contenttweaker.operation_processor.name=Operation Processor
+
+item.contenttweaker.thaumium_processor.name=Thaumium Processor
+item.contenttweaker.printed_thaumium_circuit.name=Printed Thaumium Circuit
+
+
