@@ -1,0 +1,32 @@
+# Cache (Hardened)
+recipes.addShapeless("thermal_cache_upgrade1", <thermalexpansion:cache>.withTag({Level: 1 as byte}), [<thermalexpansion:cache>.withTag({Level: 0 as byte}).marked("cache"),<thermalfoundation:upgrade>],
+	function(out, ins, cInfo) { return thermalUpgrade(ins.cache.tag, out, 1); }, null);
+
+# Cache (Reinforced)
+recipes.addShapeless("thermal_cache_upgrade2", <thermalexpansion:cache>.withTag({Level: 2 as byte}), [<thermalexpansion:cache>.withTag({Level: 1 as byte}).marked("cache"),<thermalfoundation:upgrade:1>],
+	function(out, ins, cInfo) { return thermalUpgrade(ins.cache.tag, out, 2); }, null);
+
+# Cache (Signalum)
+recipes.addShapeless("thermal_cache_upgrade3", <thermalexpansion:cache>.withTag({Level: 3 as byte}), [<thermalexpansion:cache>.withTag({Level: 2 as byte}).marked("cache"),<thermalfoundation:upgrade:2>],
+	function(out, ins, cInfo) { return thermalUpgrade(ins.cache.tag, out, 3); }, null);
+
+# Cache (Resonant)
+recipes.addShapeless("thermal_cache_upgrade4", <thermalexpansion:cache>.withTag({Level: 4 as byte}), [<thermalexpansion:cache>.withTag({Level: 3 as byte}).marked("cache"),<thermalfoundation:upgrade:3>],
+	function(out, ins, cInfo) { return thermalUpgrade(ins.cache.tag, out, 4); }, null);
+
+# Strongbox (Hardened)
+recipes.addShapeless("thermal_strongbox_upgrade1", <thermalexpansion:strongbox>.withTag({Level: 1 as byte}), [<thermalexpansion:strongbox>.withTag({Level: 0 as byte}).marked("strongbox"),<thermalfoundation:upgrade>],
+	function(out, ins, cInfo) { return thermalUpgrade(ins.strongbox.tag, out, 1); }, null);
+
+# Strongbox (Reinforced)
+recipes.addShapeless("thermal_strongbox_upgrade2", <thermalexpansion:strongbox>.withTag({Level: 2 as byte}), [<thermalexpansion:strongbox>.withTag({Level: 1 as byte}).marked("strongbox"),<thermalfoundation:upgrade:1>],
+	function(out, ins, cInfo) { return thermalUpgrade(ins.strongbox.tag, out, 2); }, null);
+
+# Strongbox (Signalum)
+recipes.addShapeless("thermal_strongbox_upgrade3", <thermalexpansion:strongbox>.withTag({Level: 3 as byte}), [<thermalexpansion:strongbox>.withTag({Level: 2 as byte}).marked("strongbox"),<thermalfoundation:upgrade:2>],
+	function(out, ins, cInfo) { return thermalUpgrade(ins.strongbox.tag, out, 3); }, null);
+
+# Strongbox (Resonant)
+recipes.addShapeless("thermal_strongbox_upgrade4", <thermalexpansion:strongbox>.withTag({Level: 4 as byte}), [<thermalexpansion:strongbox>.withTag({Level: 3 as byte}).marked("strongbox"),<thermalfoundation:upgrade:3>],
+	function(out, ins, cInfo) { return thermalUpgrade(ins.strongbox.tag, out, 4); }, null);
+
