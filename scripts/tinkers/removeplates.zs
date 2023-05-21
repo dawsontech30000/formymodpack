@@ -21,6 +21,7 @@ mods.tconstruct.Casting.removeTableRecipe(<moreplates:palis_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:restonia_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:void_plate>);
 
+
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:emeradic_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:empowered_diamatine_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:empowered_emeradic_plate>);
@@ -28,6 +29,7 @@ mods.tconstruct.Casting.removeTableRecipe(<moreplates:empowered_enori_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:empowered_palis_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:empowered_restonia_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:empowered_void_plate>);
+
 
 mods.tconstruct.Casting.removeTableRecipe(<techreborn:plates:11>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:knightmetal_plate>);
@@ -42,11 +44,15 @@ mods.tconstruct.Casting.removeTableRecipe(<moreplates:quartz_enriched_iron_plate
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:red_alloy_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:electrotine_alloy_plate>);
 
+
+
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:compressed_iron_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:osmiridium_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:osgloglas_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:mirion_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:alumite_plate>);
+
+
 
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:refined_obsidian_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:refined_glowstone_plate>);
@@ -54,14 +60,21 @@ mods.tconstruct.Casting.removeTableRecipe(<moreplates:osmium_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:evil_infused_iron_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:enchanted_plate>);
 
+
+
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:demon_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:draconium_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:awakened_draconium_plate>);
+
+
+
 
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:terrasteel_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:manasteel_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:gaia_spirit_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:elementium_plate>);
+
+
 
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:neutronium_plate>);
 mods.tconstruct.Casting.removeTableRecipe(<moreplates:infinity_plate>);
@@ -80,6 +93,10 @@ recipes.addShaped(<minecraft:brick_block>, [[<ore:ingotBrick>, <ore:ingotBrick>,
 recipes.addShaped(<tconstruct:seared:3>, [[<ore:ingotBrickSeared>, <ore:ingotBrickSeared>, <tconstruct:materials>], [<tconstruct:materials>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>], [<tconstruct:materials>, <ore:ingotBrickSeared>, <ore:ingotBrickSeared>]]);
 recipes.addShaped(<minecraft:clay>, [[<ore:clay>, <ore:clay>, <minecraft:clay_ball>], [<minecraft:clay_ball>, <ore:clay>, <ore:clay>], [<minecraft:clay_ball>, <ore:clay>, <ore:clay>]]);
 recipes.addShaped(<minecraft:nether_brick>, [[<ore:ingotBrickNether>, <ore:ingotBrickNether>, <minecraft:netherbrick>], [<minecraft:netherbrick>, <ore:ingotBrickNether>, <ore:ingotBrickNether>], [<minecraft:netherbrick>, <ore:ingotBrickNether>, <ore:ingotBrickNether>]]);
+
+
+
+
 
 recipes.remove(<tconstruct:seared:11>);
 recipes.remove(<tconstruct:seared:10> * 3);

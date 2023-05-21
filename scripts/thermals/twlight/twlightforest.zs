@@ -5,3 +5,6 @@ mods.thermalexpansion.Compactor.removeGearRecipe(<twilightforest:knightmetal_ing
 mods.thermalexpansion.Compactor.removeGearRecipe(<twilightforest:ironwood_ingot>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<twilightforest:fiery_ingot>);
 
+
+
+

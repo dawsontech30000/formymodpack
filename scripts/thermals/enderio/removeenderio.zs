@@ -13,10 +13,7 @@ mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_endergy_ing
 mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_endergy_ingot>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_ingot:4>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_endergy_ingot:4>);
-mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_endergy_ingot:5>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_ingot:1>);
-mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_endergy_ingot:5>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_endergy_ingot:6>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_endergy_ingot:2>);
 
-mods.thermalexpansion.Compactor.removeGearRecipe(<enderio:item_alloy_ingot:5>);

@@ -1,4 +1,6 @@
 import mods.thermalexpansion.Compactor;
+
+
 mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:163>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:136>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:162>);
@@ -15,8 +17,7 @@ mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:164
 mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:167>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:129>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:132>);
-mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:162>);
-mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:136>);
+mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:131>);
 
 
 
