@@ -1,5 +1,7 @@
 import mods.thermalexpansion.Compactor;
 
+
+
 mods.thermalexpansion.Compactor.removeGearRecipe(<extrautils2:ingredients:11>);
 mods.thermalexpansion.Compactor.removeGearRecipe(<extrautils2:ingredients:12>);
 
