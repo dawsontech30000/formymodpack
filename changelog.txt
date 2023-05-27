@@ -1,34 +1,12 @@
-remove kubejs completely
-
-main aim 16 new muliblocks
-update packager
-added fluid cows
-added ae2 fluid crafting
+info
 
 
-remove memory tester or one two
+80 chapters
 
-fixed dupcate custom items
-fixed the amour and tool recipes
-
-
-
-started all pages for quests
-35 chapters
-
-
-///
-
-started to add mulitblocks
-
-
-make leather be main sourse
-
-
-
---------------------------
-quests part 1 and 2 and 3
-now done 
-
-
-rewards going be done will update this once its done
+part 1  tinkers/thermal and mek
+part 2 will be  applied/refine/ bees and sapling
+part 3 sieving/enviment tech/sky R
+part 4 will be tinkers high level/seeds/fluid cows
+part 5 more seeds/astral/thaucraft/blood magical/bontia/evil craft
+part 6 embers
+alot more to add on

@@ -1,7 +1,0 @@
-3x3x5
-A=minecraft:air,0;C=minecraft:cobblestone,0;D=minecraft:planks,0;E=minecraft:glass,0;F=minecraft:double_stone_slab,3;AU=Junior_j;
-$CCCDCCCC
-DADD!DDDD
-DADEAEDED
-FCFCÀCFCF
-AAAACAAAA

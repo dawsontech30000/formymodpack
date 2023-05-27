@@ -1,0 +1,226 @@
+{
+  "mekanism:tierinstaller/basictierinstaller": {
+    "criteria": {
+      "basicTierInstaller_in_inventory": "2023-05-26 14:52:12 +0100"
+    },
+    "done": true
+  },
+  "mekanism:tierinstaller/elitetierinstaller": {
+    "criteria": {
+      "eliteTierInstaller_in_inventory": "2023-05-26 14:52:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "mekanism:upgrade/energyupgrade": {
+    "criteria": {
+      "EnergyUpgrade_in_inventory": "2023-05-26 16:29:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2023-05-26 17:52:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2023-05-26 16:35:00 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2023-05-26 16:35:10 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2023-05-26 17:36:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:mek/root_mek": {
+    "criteria": {
+      "code_trigger": "2023-05-25 19:14:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:no_cables_required": {
+    "criteria": {
+      "network_transmitter_receiver_card_in_inventory": "2023-05-26 18:33:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2023-05-25 19:15:04 +0100",
+      "plains": "2023-05-25 19:14:33 +0100",
+      "ocean": "2023-05-26 18:23:57 +0100"
+    },
+    "done": false
+  },
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2023-05-25 19:14:26 +0100"
+    },
+    "done": true
+  },
+  "mekanism:tierinstaller/advancedtierinstaller": {
+    "criteria": {
+      "advancedTierInstaller_in_inventory": "2023-05-26 14:52:13 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:ie/root_ie": {
+    "criteria": {
+      "code_trigger": "2023-05-25 19:14:26 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/root_te": {
+    "criteria": {
+      "code_trigger": "2023-05-25 19:14:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-05-26 14:52:14 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit2": "2023-05-26 17:36:04 +0100"
+    },
+    "done": false
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2023-05-26 17:00:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "mekanism:machines/enrichmentchamber": {
+    "criteria": {
+      "EnrichmentChamber_in_inventory": "2023-05-26 14:52:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "mekanism:tierinstaller/ultimatetierinstaller": {
+    "criteria": {
+      "ultimateTierInstaller_in_inventory": "2023-05-26 14:52:14 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "code_trigger": "2023-05-25 19:14:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2023-05-26 17:52:00 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2023-05-25 19:14:33 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:eio/root_eio": {
+    "criteria": {
+      "code_trigger": "2023-05-25 19:14:26 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2023-05-26 16:35:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2023-05-26 17:02:24 +0100"
+    },
+    "done": true
+  },
+  "mekanism:upgrade/speedupgrade": {
+    "criteria": {
+      "SpeedUpgrade_in_inventory": "2023-05-26 16:29:05 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2023-05-25 19:14:26 +0100"
+    },
+    "done": true
+  }
+}

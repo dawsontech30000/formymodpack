@@ -12,14 +12,84 @@
 
 // ================================================================================
 //#MARKER REMOVE
-
+recipes.remove(<tconstruct:seared_slab>);
+recipes.remove(<tconstruct:seared_slab:1>);
+recipes.remove(<tconstruct:seared_slab:2>);
+recipes.remove(<tconstruct:seared_slab:3>);
+recipes.remove(<tconstruct:seared_slab:4>);
+recipes.remove(<tconstruct:seared_slab:5>);
+recipes.remove(<tconstruct:seared_slab:6>);
+recipes.remove(<tconstruct:seared_slab:7>);
+recipes.remove(<tconstruct:seared_slab2>);
+recipes.remove(<tconstruct:seared_slab2:1>);
+recipes.remove(<tconstruct:seared_slab2:2>);
+recipes.remove(<tconstruct:seared_slab2:3>);
+recipes.remove(<tconstruct:seared_stairs_stone>);
+recipes.remove(<tconstruct:seared_stairs_cobble>);
+recipes.remove(<tconstruct:seared_stairs_paver>);
+recipes.remove(<tconstruct:seared_stairs_brick>);
+recipes.remove(<tconstruct:seared_stairs_brick_cracked>);
+recipes.remove(<tconstruct:seared_stairs_brick_fancy>);
+recipes.remove(<tconstruct:seared_stairs_brick_square>);
+recipes.remove(<tconstruct:seared_stairs_brick_triangle>);
+recipes.remove(<tconstruct:seared_stairs_brick_small>);
+recipes.remove(<tconstruct:seared_stairs_road>);
+recipes.remove(<tconstruct:seared_stairs_tile>);
+recipes.remove(<tcomplement:high_oven_controller>);
+recipes.remove(<tcomplement:scorched_faucet>);
+recipes.remove(<tcomplement:scorched_block>);
+recipes.remove(<tcomplement:high_oven_io:2>);
+recipes.remove(<tcomplement:high_oven_io:1>);
+recipes.remove(<tcomplement:high_oven_io>);
+recipes.remove(<tcomplement:scorched_casting:1>);
+recipes.remove(<tcomplement:scorched_casting>);
+recipes.remove(<tcomplement:scorched_channel>);
+recipes.remove(<tcomplement:scorched_block:1>);
+recipes.remove(<tcomplement:scorched_block:2>);
+recipes.remove(<tcomplement:scorched_block:11>);
+recipes.remove(<tcomplement:scorched_block:10>);
+recipes.remove(<tcomplement:scorched_block:9>);
+recipes.remove(<tcomplement:scorched_block:8>);
+recipes.remove(<tcomplement:scorched_block:7>);
+recipes.remove(<tcomplement:scorched_slab:6>);
+recipes.remove(<tcomplement:scorched_slab:7>);
+recipes.remove(<tcomplement:scorched_slab2>);
+recipes.remove(<tcomplement:scorched_block:3>);
+recipes.remove(<tcomplement:scorched_block:4>);
+recipes.remove(<tcomplement:scorched_block:5>);
+recipes.remove(<tcomplement:scorched_block:6>);
+recipes.remove(<tcomplement:scorched_slab:5>);
+recipes.remove(<tcomplement:scorched_slab:4>);
+recipes.remove(<tcomplement:scorched_slab:3>);
+recipes.remove(<tcomplement:scorched_slab:2>);
+recipes.remove(<tcomplement:scorched_stairs_brick_fancy>);
+recipes.remove(<tcomplement:scorched_stairs_brick_cracked>);
+recipes.remove(<tcomplement:scorched_stairs_brick>);
+recipes.remove(<tcomplement:scorched_stairs_paver>);
+recipes.remove(<tcomplement:scorched_stairs_cobble>);
+recipes.remove(<tcomplement:scorched_stairs_stone>);
+recipes.remove(<tcomplement:scorched_slab2:3>);
+recipes.remove(<tcomplement:scorched_slab2:2>);
+recipes.remove(<tcomplement:scorched_stairs_creeper>);
+recipes.remove(<tcomplement:scorched_stairs_tile>);
+recipes.remove(<tcomplement:scorched_stairs_road>);
+recipes.remove(<tcomplement:scorched_stairs_brick_small>);
+recipes.remove(<tcomplement:scorched_stairs_brick_triangle>);
+recipes.remove(<tcomplement:scorched_stairs_brick_square>);
+recipes.remove(<tcomplement:scorched_slab2:1>);
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
-recipes.removeShapeless(<fluxnetworks:fluxpoint>, [<fluxnetworks:fluxpoint>]);
-recipes.removeShapeless(<fluxnetworks:fluxplug>, [<fluxnetworks:fluxplug>]);
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
+recipes.removeShaped(<tconstruct:seared>, [[<ore:blockSeared>]]);
+recipes.removeShaped(<tconstruct:seared:3>, [[<tconstruct:materials>, <ore:ingotBrickSeared>], [<tconstruct:materials>, <ore:ingotBrickSeared>]]);
+recipes.removeShaped(<tconstruct:seared_stairs_creeper> * 4, [[<ore:blockSeared>, null, null], [<tconstruct:seared:8>, <ore:blockSeared>, null], [<ore:blockSeared>, <tconstruct:seared:8>, <ore:blockSeared>]]);
+recipes.removeShaped(<thermalfoundation:material:22>, [[<ore:stickWood>, <minecraft:stick>], [<ore:stickWood>, <minecraft:stick>]]);
+recipes.removeShaped(<thermalfoundation:material:22>, [[null, <ore:stickWood>, null], [<ore:stickWood>, null, <ore:stickWood>], [null, <ore:stickWood>, null]]);
+recipes.removeShaped(<thermalfoundation:material:24>, [[null, <ore:ingotIron>, null], [<ore:ingotIron>, <minecraft:iron_ingot>, <ore:ingotIron>], [null, <ore:ingotIron>, null]]);
+recipes.removeShaped(<moreplates:emeradic_gear>, [[null, <actuallyadditions:item_crystal:4>, null], [<actuallyadditions:item_crystal:4>, <ore:ingotCopper>, <actuallyadditions:item_crystal:4>], [null, <actuallyadditions:item_crystal:4>, null]]);
+recipes.removeShaped(<minecraft:stone_slab:4> * 6, [[<minecraft:brick_block>, <minecraft:brick_block>, <minecraft:brick_block>]]);
 
 // ================================================================================
 //#MARKER ADD
