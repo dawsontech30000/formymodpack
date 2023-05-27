@@ -14,6 +14,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:wooden_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -39,6 +42,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:wooden_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -65,6 +71,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:stone_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -90,6 +99,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:stone_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -116,6 +128,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:iron_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -141,6 +156,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:iron_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -167,6 +185,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:golden_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -192,6 +213,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:golden_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -218,6 +242,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:diamond_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -243,6 +270,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:diamond_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -269,6 +299,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_wood",
             "Count:3": 1,
             "Damage:2": 0,
@@ -294,6 +327,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_wood",
               "Count:3": 1,
               "Damage:2": 0,
@@ -320,6 +356,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_stone",
             "Count:3": 1,
             "Damage:2": 0,
@@ -345,6 +384,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_stone",
               "Count:3": 1,
               "Damage:2": 0,
@@ -371,6 +413,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_iron",
             "Count:3": 1,
             "Damage:2": 0,
@@ -396,6 +441,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_iron",
               "Count:3": 1,
               "Damage:2": 0,
@@ -422,6 +470,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_gold",
             "Count:3": 1,
             "Damage:2": 0,
@@ -447,6 +498,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_gold",
               "Count:3": 1,
               "Damage:2": 0,
@@ -473,6 +527,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_diamond",
             "Count:3": 1,
             "Damage:2": 0,
@@ -498,6 +555,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_diamond",
               "Count:3": 1,
               "Damage:2": 0,
@@ -524,6 +584,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_stone",
             "Count:3": 1,
             "Damage:2": 0,
@@ -549,6 +612,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_stone",
               "Count:3": 16,
               "Damage:2": 0,
@@ -575,6 +641,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_iron",
             "Count:3": 1,
             "Damage:2": 0,
@@ -600,6 +669,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "excompressum:compressed_hammer_iron",
               "Count:3": 32,
               "Damage:2": 0,
@@ -626,6 +698,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_gold",
             "Count:3": 1,
             "Damage:2": 0,
@@ -651,6 +726,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "excompressum:compressed_hammer_gold",
               "Count:3": 48,
               "Damage:2": 0,
@@ -677,6 +755,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_diamond",
             "Count:3": 1,
             "Damage:2": 0,
@@ -702,6 +783,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "excompressum:compressed_hammer_diamond",
               "Count:3": 64,
               "Damage:2": 0,
@@ -728,6 +812,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -776,6 +863,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_wood",
             "Count:3": 1,
             "Damage:2": 0,
@@ -801,6 +891,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "excompressum:compressed_hammer_wood",
               "Count:3": 8,
               "Damage:2": 0,
@@ -908,6 +1001,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -954,6 +1050,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1080,6 +1179,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1128,6 +1230,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1257,6 +1362,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1305,6 +1413,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1434,6 +1545,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1686,6 +1800,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1815,6 +1932,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1914,6 +2034,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -1962,6 +2085,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -2142,6 +2268,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -2271,6 +2400,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -2317,6 +2449,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -2443,6 +2578,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -2491,6 +2629,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -2620,6 +2761,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -2668,6 +2812,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -2797,6 +2944,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -3049,6 +3199,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -3178,6 +3331,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -3332,6 +3488,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "immersiveengineering:mold",
             "Count:3": 1,
             "Damage:2": 2,
@@ -3357,6 +3516,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "immersiveengineering:mold",
               "Count:3": 1,
               "Damage:2": 2,
@@ -3383,6 +3545,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3412,6 +3577,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3443,6 +3611,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3472,6 +3643,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3503,6 +3677,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3532,6 +3709,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3563,6 +3743,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3592,6 +3775,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3623,6 +3809,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3652,6 +3841,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3683,6 +3875,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3712,6 +3907,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3743,6 +3941,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3772,6 +3973,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3803,6 +4007,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3832,6 +4039,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3863,6 +4073,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3892,6 +4105,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3923,6 +4139,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -3952,6 +4171,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -3982,6 +4204,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -4011,6 +4236,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -4041,6 +4269,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "immersiveengineering:mold",
             "Count:3": 1,
             "Damage:2": 0,
@@ -4066,6 +4297,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "immersiveengineering:mold",
               "Count:3": 1,
               "Damage:2": 0,
@@ -4092,6 +4326,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "immersiveengineering:mold",
             "Count:3": 1,
             "Damage:2": 4,
@@ -4117,6 +4354,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "immersiveengineering:mold",
               "Count:3": 1,
               "Damage:2": 4,
@@ -4143,6 +4383,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "immersiveengineering:mold",
             "Count:3": 1,
             "Damage:2": 1,
@@ -4168,6 +4411,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "immersiveengineering:mold",
               "Count:3": 1,
               "Damage:2": 1,
@@ -4687,6 +4933,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:wooden_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -4712,6 +4961,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:wooden_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -4738,6 +4990,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:stone_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -4763,6 +5018,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:stone_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -4789,6 +5047,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:iron_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -4814,6 +5075,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:iron_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -4840,6 +5104,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:golden_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -4865,6 +5132,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:golden_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -4891,6 +5161,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:diamond_pickaxe",
             "Count:3": 1,
             "Damage:2": 0,
@@ -4916,6 +5189,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "minecraft:diamond_pickaxe",
               "Count:3": 1,
               "Damage:2": 0,
@@ -4942,6 +5218,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_wood",
             "Count:3": 1,
             "Damage:2": 0,
@@ -4967,6 +5246,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_wood",
               "Count:3": 1,
               "Damage:2": 0,
@@ -4993,6 +5275,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_stone",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5018,6 +5303,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_stone",
               "Count:3": 1,
               "Damage:2": 0,
@@ -5044,6 +5332,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_iron",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5069,6 +5360,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_iron",
               "Count:3": 1,
               "Damage:2": 0,
@@ -5095,6 +5389,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_gold",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5120,6 +5417,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_gold",
               "Count:3": 1,
               "Damage:2": 0,
@@ -5146,6 +5446,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "exnihilocreatio:hammer_diamond",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5171,6 +5474,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_diamond",
               "Count:3": 1,
               "Damage:2": 0,
@@ -5197,6 +5503,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_stone",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5222,6 +5531,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "exnihilocreatio:hammer_stone",
               "Count:3": 16,
               "Damage:2": 0,
@@ -5248,6 +5560,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_iron",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5273,6 +5588,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "excompressum:compressed_hammer_iron",
               "Count:3": 32,
               "Damage:2": 0,
@@ -5299,6 +5617,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_gold",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5324,6 +5645,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "excompressum:compressed_hammer_gold",
               "Count:3": 48,
               "Damage:2": 0,
@@ -5350,6 +5674,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_diamond",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5375,6 +5702,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "excompressum:compressed_hammer_diamond",
               "Count:3": 64,
               "Damage:2": 0,
@@ -5401,6 +5731,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5449,6 +5782,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "excompressum:compressed_hammer_wood",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5474,6 +5810,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "excompressum:compressed_hammer_wood",
               "Count:3": 8,
               "Damage:2": 0,
@@ -5581,6 +5920,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5627,6 +5969,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5753,6 +6098,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5801,6 +6149,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5930,6 +6281,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -5978,6 +6332,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -6107,6 +6464,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -6359,6 +6719,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -6488,6 +6851,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -6587,6 +6953,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -6635,6 +7004,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -6815,6 +7187,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -6944,6 +7319,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -6990,6 +7368,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -7116,6 +7497,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -7164,6 +7548,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -7293,6 +7680,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -7341,6 +7731,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -7470,6 +7863,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -7722,6 +8118,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:lava_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -7851,6 +8250,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "minecraft:water_bucket",
             "Count:3": 1,
             "Damage:2": 0,
@@ -8005,6 +8407,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "immersiveengineering:mold",
             "Count:3": 1,
             "Damage:2": 2,
@@ -8030,6 +8435,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "immersiveengineering:mold",
               "Count:3": 1,
               "Damage:2": 2,
@@ -8056,6 +8464,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8085,6 +8496,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8116,6 +8530,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8145,6 +8562,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8176,6 +8596,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8205,6 +8628,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8236,6 +8662,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8265,6 +8694,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8296,6 +8728,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8325,6 +8760,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8356,6 +8794,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8385,6 +8826,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8416,6 +8860,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8445,6 +8892,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8476,6 +8926,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8505,6 +8958,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8536,6 +8992,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8565,6 +9024,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8596,6 +9058,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8625,6 +9090,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8655,6 +9123,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "thermalexpansion:cache",
             "Count:3": 1,
             "tag:10": {
@@ -8684,6 +9155,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "thermalexpansion:cache",
               "Count:3": 1,
               "tag:10": {
@@ -8714,6 +9188,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "immersiveengineering:mold",
             "Count:3": 1,
             "Damage:2": 0,
@@ -8739,6 +9216,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "immersiveengineering:mold",
               "Count:3": 1,
               "Damage:2": 0,
@@ -8765,6 +9245,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "immersiveengineering:mold",
             "Count:3": 1,
             "Damage:2": 4,
@@ -8790,6 +9273,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "immersiveengineering:mold",
               "Count:3": 1,
               "Damage:2": 4,
@@ -8816,6 +9302,9 @@
           "visibility:8": "NORMAL",
           "simultaneous:1": 0,
           "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
             "id:8": "immersiveengineering:mold",
             "Count:3": 1,
             "Damage:2": 1,
@@ -8841,6 +9330,9 @@
           "allowAnvil:1": 0,
           "requiredItems:9": {
             "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
               "id:8": "immersiveengineering:mold",
               "Count:3": 1,
               "Damage:2": 1,
@@ -10295,6 +10787,3085 @@
       },
       "tasks:9": {},
       "rewards:9": {}
+    },
+    "187:10": {
+      "questID:3": 187,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "Facing:1": 3,
+              "Level:1": 0
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 1 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "Facing:1": 3,
+                "Level:1": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "188:10": {
+      "questID:3": 188,
+      "preRequisites:11": [
+        187,
+        192
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 2
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 2 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Creative:1": 0,
+                "Level:1": 2
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "189:10": {
+      "questID:3": 189,
+      "preRequisites:11": [
+        188,
+        193
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 3
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 3 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Creative:1": 0,
+                "Level:1": 3
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "190:10": {
+      "questID:3": 190,
+      "preRequisites:11": [
+        189,
+        194
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 4
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 4 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "Creative:1": 0,
+                "Level:1": 4
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "191:10": {
+      "questID:3": 191,
+      "preRequisites:11": [
+        187
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "thermalfoundation:upgrade",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 1 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:upgrade",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "192:10": {
+      "questID:3": 192,
+      "preRequisites:11": [
+        191
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 2
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 2 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:upgrade",
+              "Count:3": 1,
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "193:10": {
+      "questID:3": 193,
+      "preRequisites:11": [
+        192
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 3
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 3 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:upgrade",
+              "Count:3": 1,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "194:10": {
+      "questID:3": 194,
+      "preRequisites:11": [
+        193
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "Creative:1": 0,
+              "Level:1": 4
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 4 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thermalfoundation:upgrade",
+              "Count:3": 1,
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "195:10": {
+      "questID:3": 195,
+      "preRequisites:11": [
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        212,
+        213,
+        214,
+        215,
+        217,
+        218,
+        219,
+        220,
+        216,
+        221,
+        201,
+        200,
+        199,
+        198,
+        197
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "challange number 2",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
+    },
+    "196:10": {
+      "questID:3": 196,
+      "preRequisites:11": [
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "enderio:block_enchanter",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "challange",
+          "desc:8": "p.s if do this good reward will be unlock"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "enderio:block_enchanter",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:enchanted_book",
+              "Count:3": 4,
+              "tag:10": {
+                "StoredEnchantments:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:3": 46
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "197:10": {
+      "questID:3": 197,
+      "preRequisites:11": [
+        196
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
+              },
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 60000,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 0,
+              "Lock:1": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 1 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "198:10": {
+      "questID:3": 198,
+      "preRequisites:11": [
+        196
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
+              },
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 240000,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 1,
+              "Lock:1": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 2 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 240000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 1,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 240000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 1,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "199:10": {
+      "questID:3": 199,
+      "preRequisites:11": [
+        196
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
+              },
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 472640,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 2,
+              "Lock:1": 0
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 3 STORAGE",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 472640,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 2,
+                "Lock:1": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 240000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 1,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 472640,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 2,
+                "Lock:1": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "200:10": {
+      "questID:3": 200,
+      "preRequisites:11": [
+        196
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
+              },
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 840416,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 3,
+              "Lock:1": 0
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "TIER 4 STORAGE",
+          "desc:8": "blackwhole is good reward\nsuggest use for cobble help you\n\n\nstrongly invest use blackwhole for cobble your choice\n§1\n§4dont have follow guides suggest you follow\n\n\n§#§5dawson is old"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 840416,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 3,
+                "Lock:1": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 60000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 0,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 240000,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 1,
+                "Lock:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 472640,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 2,
+                "Lock:1": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 840416,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 3,
+                "Lock:1": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "201:10": {
+      "questID:3": 201,
+      "preRequisites:11": [
+        200
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:cache",
+            "Count:3": 1,
+            "tag:10": {
+              "RSControl:1": 0,
+              "ench:9": {
+                "0:10": {
+                  "lvl:2": 4,
+                  "id:2": 46
+                }
+              },
+              "Item:10": {
+                "id:2": 4,
+                "Count:3": 1312563,
+                "Damage:2": 0
+              },
+              "Creative:1": 0,
+              "Level:1": 4,
+              "Lock:1": 0
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "§1BLACK whole controller can hold up to 16 blackwholes\nattach a storage bus or extened storage \n\ncan hold big amount of items\n\n\nlables will help so if dont want use controller\ncan see what in said container without opening it up\n\n§4dawson is old!"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:cache",
+              "Count:3": 1,
+              "tag:10": {
+                "RSControl:1": 0,
+                "ench:9": {
+                  "0:10": {
+                    "lvl:2": 4,
+                    "id:2": 46
+                  }
+                },
+                "Item:10": {
+                  "id:2": 4,
+                  "Count:3": 1312563,
+                  "Damage:2": 0
+                },
+                "Creative:1": 0,
+                "Level:1": 4,
+                "Lock:1": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "industrialforegoing:black_hole_label",
+              "Count:3": 64,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "industrialforegoing:black_hole_unit",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "industrialforegoing:black_hole_controller_reworked",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "202:10": {
+      "questID:3": 202,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "203:10": {
+      "questID:3": 203,
+      "preRequisites:11": [
+        206
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "204:10": {
+      "questID:3": 204,
+      "preRequisites:11": [
+        206
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "205:10": {
+      "questID:3": 205,
+      "preRequisites:11": [
+        206
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "206:10": {
+      "questID:3": 206,
+      "preRequisites:11": [
+        202
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:reservoir",
+            "Count:3": 1,
+            "tag:10": {},
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:reservoir",
+              "Count:3": 1,
+              "tag:10": {},
+              "Damage:2": 4,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "207:10": {
+      "questID:3": 207,
+      "preRequisites:11": [
+        202
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 1000000
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 1000000
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "208:10": {
+      "questID:3": 208,
+      "preRequisites:11": [
+        203
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 4000000
+            },
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 4000000
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "209:10": {
+      "questID:3": 209,
+      "preRequisites:11": [
+        204
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 9000000
+            },
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 9000000
+              },
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "210:10": {
+      "questID:3": 210,
+      "preRequisites:11": [
+        205
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 16000000
+            },
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 16000000
+              },
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "211:10": {
+      "questID:3": 211,
+      "preRequisites:11": [
+        208,
+        209,
+        210,
+        206
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:capacitor",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 25000000
+            },
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:capacitor",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 25000000
+              },
+              "Damage:2": 4,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "212:10": {
+      "questID:3": 212,
+      "preRequisites:11": [
+        201
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 40000
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 40000
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "213:10": {
+      "questID:3": 213,
+      "preRequisites:11": [
+        212
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 120000
+            },
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 120000
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "214:10": {
+      "questID:3": 214,
+      "preRequisites:11": [
+        213
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 240000
+            },
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 240000
+              },
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "215:10": {
+      "questID:3": 215,
+      "preRequisites:11": [
+        214
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:magnet",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 400000
+            },
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:magnet",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 400000
+              },
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "216:10": {
+      "questID:3": 216,
+      "preRequisites:11": [
+        215
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {
+                "AS_Amulet_HolderLeast:4": -7861323254270207861,
+                "AS_Amulet_HolderMost:4": -5242053170944128269
+              }
+            },
+            "id:8": "thermalinnovation:magnet",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 600000
+            },
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {
+                  "AS_Amulet_HolderLeast:4": -7861323254270207861,
+                  "AS_Amulet_HolderMost:4": -5242053170944128269
+                }
+              },
+              "id:8": "thermalinnovation:magnet",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 600000
+              },
+              "Damage:2": 4,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "217:10": {
+      "questID:3": 217,
+      "preRequisites:11": [
+        201
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 40000,
+              "Mode:3": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 40000,
+                "Mode:3": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "218:10": {
+      "questID:3": 218,
+      "preRequisites:11": [
+        217
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 120000,
+              "Mode:3": 2
+            },
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 120000,
+                "Mode:3": 2
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "219:10": {
+      "questID:3": 219,
+      "preRequisites:11": [
+        218
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 240000,
+              "Mode:3": 2
+            },
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 240000,
+                "Mode:3": 2
+              },
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "220:10": {
+      "questID:3": 220,
+      "preRequisites:11": [
+        219
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 400000,
+              "Mode:3": 3
+            },
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 400000,
+                "Mode:3": 3
+              },
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "221:10": {
+      "questID:3": 221,
+      "preRequisites:11": [
+        220
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalinnovation:drill",
+            "Count:3": 1,
+            "tag:10": {
+              "Energy:3": 600000,
+              "Mode:3": 4
+            },
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalinnovation:drill",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 600000,
+                "Mode:3": 4
+              },
+              "Damage:2": 4,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "222:10": {
+      "questID:3": 222,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
+            "Count:3": 1,
+            "tag:10": {
+              "Accessible:1": 1
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
+              "Count:3": 1,
+              "tag:10": {
+                "Accessible:1": 1
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "223:10": {
+      "questID:3": 223,
+      "preRequisites:11": [
+        226
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
+            "Count:3": 1,
+            "tag:10": {
+              "Accessible:1": 1
+            },
+            "Damage:2": 1,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
+              "Count:3": 1,
+              "tag:10": {
+                "Accessible:1": 1
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "224:10": {
+      "questID:3": 224,
+      "preRequisites:11": [
+        226
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
+            "Count:3": 1,
+            "tag:10": {
+              "Accessible:1": 1
+            },
+            "Damage:2": 2,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
+              "Count:3": 1,
+              "tag:10": {
+                "Accessible:1": 1
+              },
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "225:10": {
+      "questID:3": 225,
+      "preRequisites:11": [
+        226
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
+            "Count:3": 1,
+            "tag:10": {
+              "Accessible:1": 1
+            },
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
+              "Count:3": 1,
+              "tag:10": {
+                "Accessible:1": 1
+              },
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "226:10": {
+      "questID:3": 226,
+      "preRequisites:11": [
+        222
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {
+                "AS_Amulet_HolderLeast:4": -7861323254270207861,
+                "AS_Amulet_HolderMost:4": -5242053170944128269
+              }
+            },
+            "id:8": "thermalexpansion:satchel",
+            "Count:3": 1,
+            "tag:10": {
+              "Accessible:1": 1
+            },
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {
+                  "AS_Amulet_HolderLeast:4": -7861323254270207861,
+                  "AS_Amulet_HolderMost:4": -5242053170944128269
+                }
+              },
+              "id:8": "thermalexpansion:satchel",
+              "Count:3": 1,
+              "tag:10": {
+                "Accessible:1": 1
+              },
+              "Damage:2": 4,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "227:10": {
+      "questID:3": 227,
+      "preRequisites:11": [
+        226
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "ForgeCaps:10": {
+              "astralsorcery:cap_item_amulet_holder:10": {}
+            },
+            "id:8": "thermalexpansion:satchel",
+            "Count:3": 1,
+            "tag:10": {
+              "Accessible:1": 1
+            },
+            "Damage:2": 100,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "allowSmelt:1": 1,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "allowCraft:1": 1,
+          "allowAnvil:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "astralsorcery:cap_item_amulet_holder:10": {}
+              },
+              "id:8": "thermalexpansion:satchel",
+              "Count:3": 1,
+              "tag:10": {
+                "Accessible:1": 1
+              },
+              "Damage:2": 100,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:crafting"
+        }
+      },
+      "rewards:9": {}
+    },
+    "228:10": {
+      "questID:3": 228,
+      "preRequisites:11": [
+        227,
+        206,
+        211,
+        202,
+        203,
+        204,
+        205,
+        207,
+        208,
+        209,
+        210,
+        222,
+        223,
+        224,
+        225
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:nether_star",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "New Quest",
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {},
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -10425,7 +13996,183 @@
       "order:3": 0
     },
     "1:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": -180,
+          "y:3": -96,
+          "id:3": 187,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": -96,
+          "id:3": 188,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": -108,
+          "y:3": -96,
+          "id:3": 189,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": -72,
+          "y:3": -96,
+          "id:3": 190,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": -180,
+          "y:3": -36,
+          "id:3": 191,
+          "sizeY:3": 24
+        },
+        "5:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": -36,
+          "id:3": 192,
+          "sizeY:3": 24
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": -108,
+          "y:3": -36,
+          "id:3": 193,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 24,
+          "x:3": -72,
+          "y:3": -36,
+          "id:3": 194,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": 24,
+          "y:3": 36,
+          "id:3": 195,
+          "sizeY:3": 24
+        },
+        "9:10": {
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": -132,
+          "id:3": 196,
+          "sizeY:3": 24
+        },
+        "10:10": {
+          "sizeX:3": 24,
+          "x:3": -180,
+          "y:3": -168,
+          "id:3": 197,
+          "sizeY:3": 24
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": -144,
+          "y:3": -168,
+          "id:3": 198,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": -108,
+          "y:3": -168,
+          "id:3": 199,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": -72,
+          "y:3": -168,
+          "id:3": 200,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": -12,
+          "y:3": -168,
+          "id:3": 201,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 72,
+          "y:3": -180,
+          "id:3": 212,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 120,
+          "y:3": -180,
+          "id:3": 213,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": 156,
+          "y:3": -180,
+          "id:3": 214,
+          "sizeY:3": 24
+        },
+        "18:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": -180,
+          "id:3": 215,
+          "sizeY:3": 24
+        },
+        "19:10": {
+          "sizeX:3": 24,
+          "x:3": 228,
+          "y:3": -180,
+          "id:3": 216,
+          "sizeY:3": 24
+        },
+        "20:10": {
+          "sizeX:3": 24,
+          "x:3": 72,
+          "y:3": -216,
+          "id:3": 217,
+          "sizeY:3": 24
+        },
+        "21:10": {
+          "sizeX:3": 24,
+          "x:3": 120,
+          "y:3": -216,
+          "id:3": 218,
+          "sizeY:3": 24
+        },
+        "22:10": {
+          "sizeX:3": 24,
+          "x:3": 156,
+          "y:3": -216,
+          "id:3": 219,
+          "sizeY:3": 24
+        },
+        "23:10": {
+          "sizeX:3": 24,
+          "x:3": 192,
+          "y:3": -216,
+          "id:3": 220,
+          "sizeY:3": 24
+        },
+        "24:10": {
+          "sizeX:3": 24,
+          "x:3": 228,
+          "y:3": -216,
+          "id:3": 221,
+          "sizeY:3": 24
+        }
+      },
       "lineID:3": 1,
       "properties:10": {
         "betterquesting:10": {
@@ -11096,7 +14843,127 @@
       "order:3": 3
     },
     "4:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": -96,
+          "y:3": -60,
+          "id:3": 202,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": -72,
+          "y:3": -60,
+          "id:3": 203,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": -48,
+          "y:3": -60,
+          "id:3": 204,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "sizeX:3": 24,
+          "x:3": -24,
+          "y:3": -60,
+          "id:3": 205,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": -60,
+          "id:3": 206,
+          "sizeY:3": 24
+        },
+        "5:10": {
+          "sizeX:3": 24,
+          "x:3": -96,
+          "y:3": -84,
+          "id:3": 207,
+          "sizeY:3": 24
+        },
+        "6:10": {
+          "sizeX:3": 24,
+          "x:3": -72,
+          "y:3": -84,
+          "id:3": 208,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "sizeX:3": 24,
+          "x:3": -48,
+          "y:3": -84,
+          "id:3": 209,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "sizeX:3": 24,
+          "x:3": -24,
+          "y:3": -84,
+          "id:3": 210,
+          "sizeY:3": 24
+        },
+        "9:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": -84,
+          "id:3": 211,
+          "sizeY:3": 24
+        },
+        "10:10": {
+          "sizeX:3": 24,
+          "x:3": -96,
+          "y:3": -12,
+          "id:3": 222,
+          "sizeY:3": 24
+        },
+        "11:10": {
+          "sizeX:3": 24,
+          "x:3": -72,
+          "y:3": -12,
+          "id:3": 223,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "sizeX:3": 24,
+          "x:3": -48,
+          "y:3": -12,
+          "id:3": 224,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "sizeX:3": 24,
+          "x:3": -24,
+          "y:3": -12,
+          "id:3": 225,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "sizeX:3": 24,
+          "x:3": 0,
+          "y:3": -12,
+          "id:3": 226,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "sizeX:3": 24,
+          "x:3": 24,
+          "y:3": -12,
+          "id:3": 227,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "sizeX:3": 24,
+          "x:3": 108,
+          "y:3": -48,
+          "id:3": 228,
+          "sizeY:3": 24
+        }
+      },
       "lineID:3": 4,
       "properties:10": {
         "betterquesting:10": {
