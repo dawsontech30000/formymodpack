@@ -21,6 +21,35 @@ mods.thermalexpansion.Compactor.removeGearRecipe(<thermalfoundation:material:131
 
 
 
+// Creative Conversion Kit
+recipes.remove(<thermalfoundation:upgrade:256>);
+mods.avaritia.ExtremeCrafting.addShaped("NAMEPLACEHOLDER", <thermalfoundation:upgrade:256> * 1, [[<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>], [<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:0>],[<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:0>],[<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:3>, <thermalfoundation:upgrade:3>, <thermalfoundation:upgrade:3>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:0>],[<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:3>, <avaritia:block_resource:1>, <thermalfoundation:upgrade:3>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:0>],[<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:3>, <thermalfoundation:upgrade:3>, <thermalfoundation:upgrade:3>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:0>],[<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:2>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:0>],[<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:1>, <thermalfoundation:upgrade:0>],[<thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>, <thermalfoundation:upgrade:0>]]);
+
+// Fluxomagnet (Creative)
+recipes.remove(<thermalinnovation:magnet:32000>);
+mods.avaritia.ExtremeCrafting.addShaped("NAMEPLACEHOLDER", <thermalinnovation:magnet:32000> * 1, 
+[[<thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, 
+<thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, 
+<thermalinnovation:magnet:0>], [<thermalinnovation:magnet:0>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:1>, 
+<thermalinnovation:magnet:1>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:1>, 
+<thermalinnovation:magnet:1>, <thermalinnovation:magnet:0>],[<thermalinnovation:magnet:0>, <thermalinnovation:magnet:1>, 
+<thermalinnovation:magnet:2>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:2>, 
+<thermalinnovation:magnet:2>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:0>],[<thermalinnovation:magnet:0>, 
+<thermalinnovation:magnet:1>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:3>, <thermalinnovation:magnet:4>, 
+<thermalinnovation:magnet:3>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:0>],
+[<thermalinnovation:magnet:0>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:4>, 
+<avaritia:block_resource:1>, <thermalinnovation:magnet:4>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:1>, 
+<thermalinnovation:magnet:0>],[<thermalinnovation:magnet:0>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:2>, 
+<thermalinnovation:magnet:3>, <thermalinnovation:magnet:4>, <thermalinnovation:magnet:3>, <thermalinnovation:magnet:2>, 
+<thermalinnovation:magnet:1>, <thermalinnovation:magnet:0>],
+[<thermalinnovation:magnet:0>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:2>, 
+<thermalinnovation:magnet:2>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:2>, <thermalinnovation:magnet:1>, 
+<thermalinnovation:magnet:0>],[<thermalinnovation:magnet:0>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:1>, 
+<thermalinnovation:magnet:1>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:1>, <thermalinnovation:magnet:1>, 
+<thermalinnovation:magnet:1>, <thermalinnovation:magnet:0>],[<thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, 
+<thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, 
+<thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>, <thermalinnovation:magnet:0>]]);
+
 
 
 
